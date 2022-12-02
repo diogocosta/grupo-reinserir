@@ -1,0 +1,16 @@
+---
+title: Que abordagem vocês utilizam?
+thumbnail: abordagem.jpg
+---
+Dentro da Psicologia há diferentes *abordagens*. As abordagens são linhas filosóficas, teóricas e metodológicas sobre o sujeito e o psiquismo.
+
+Hoje o Reinserir conta com quatro abordagens no serviço de Psicoterapia:
+
+**Histórico-Cultural (ou Sócio-Histórica)**: Abordagem que surgiu na antiga União Soviética cujo o objeto de estudo serão as funções psicológicas superiores e a personalidade, que se constituem a partir das relações sociais e construções culturais. Para essa abordagem que tem como base o materialismo histórico e dialético o sujeito é eminentemente social e histórico e a origem última de seu sofrimento vem das próprias contradições das relações sociais que são internalizadas e formam uma dinâmica singular no sujeito. Seu principal autor é o Lev Vigotski.
+
+**Psicanalítica**: A abordagem teórica e metodológica psicanalítica foi, em seu surgimento, idealizada e estruturada a partir dos estudos e prática clínica de Sigmund Freud.\
+Em sua essência, trata-se da busca pela compreensão e investigação do significado inconsciente das palavras, ações e produções imaginárias do sujeito através da associação livre (expressão dos pensamentos de forma livre) e do auxílio da escuta atenta e especializada do analista. Seu papel será, portanto, o de auxiliar sujeito a tornar consciente o modo de funcionamento de sua dinâmica psíquica, para que seja possível identificar tanto fatores geradores de sofrimento psicológico como o reconhecimento dos próprios desejos.
+
+**Analítica**: Psicologia Analítica ou Junguiana, possui o viés teórico de Carl Gustav Jung. A abordagem tem o foco nas experiências simbólicas que o sujeito compreende ao longo da vida. A psicologia analítica aborda toda a psique dividindo pelo modo inconsciente, inconsciente coletivo e consciente. Em uma de suas citações, Jung diz *“A questão não é atingir a perfeição, e sim a totalidade”*, ou seja, o objetivo do processo terapêutico é chamado de individuação onde o analisando deve conquistar um maior grau de consciência em relação as suas experiências psicológicas, culturais e sociais.
+
+**Analítico-comportamental:** A análise do comportamento é um método científico cujo surgimento se dá nas observações e constatações de B.F. SKinner sobre o comportamento humano e também de outros animais. Desde sua criação a análise do comportamento passou por processos de modificações e enriquecimento. Atualmente a terapia analítico-comportamental tem como uma de suas principais características o papel ativo e protagonismo que dá ao cliente no processo terapêutico. Sua principal ferramenta de análise é a análise funcional do comportamento: nessa procuramos entender as relações de causalidade e interações geradas por cada comportamento emitido pelo cliente. Nessa análise entra tudo: os pensamentos, os sentimentos, as emoções, as situações, os contextos, as intenções, as interações, os ganhos e perdas. Nosso objetivo é gerar autonomia e o desenvolvimento de autoconhecimento para que os clientes atuem de forma ativa nas modificações que desejam na própria vida, diminuindo o sofrimento e proporcionando mais qualidade de vida.

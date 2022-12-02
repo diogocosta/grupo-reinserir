@@ -1,0 +1,333 @@
+{{ define "main" }}
+    {{ partial "welcome.html" . }}
+
+    <div class="page-form page-form--center" data-aos="fade-up">
+        <div class="main-container">
+            <div id="terms-register" class="page-form__accordion">
+                <div class="page-form__accordion-title">1. Leia o nosso termo de compromisso</div>
+                <div class="page-form__accordion-body">
+                    {{ .Content }}
+
+                    <div class="form__button form__button--top">
+                        <a href="#form-register" onclick="openNext(event);">Li e aceito os termos de uso</a>
+                    </div>
+                </div>
+            </div>
+
+            <div id="form-register" class="page-form__accordion page-form__accordion--hide">
+                <div class="page-form__accordion-title">2. Preencha o cadastro</div>
+                <div class="page-form__accordion-body">
+                    <form action="https://submit-form.com/mLseJ7JVXM5B9HFcORrV-" target="_self">
+                        <input type="hidden" name="_redirect" value="{{ "sucesso" | absURL }}" />
+
+                        <div class="form__columns">
+                            <div class="form__row">
+                                <label for="nome-do-psicologo">
+                                    Nome do psicólogo referência 
+                                    <input name="nome-do-psicologo" id="nome-do-psicologo" type="text" class="form__control" required>
+                                </label>
+                            </div>
+
+                            <div class="form__row form__row--sm">
+                                <label for="valor-do-atendimento">
+                                    Valor do atendimento: 
+                                    <input name="valor-do-atendimento" id="valor-do-atendimento" type="text" class="form__control" required>
+                                </label>
+                            </div>
+                        </div>
+
+                        <div class="form__row">
+                            <h4>Tipo do atendimento</h4>
+
+                            <div class="form__row-checkbox">
+                                <input name="tipo-atendimento"
+                                    type="radio" class="form__radio" value="Criança/ Adolescente" required>
+                                <label for="tipo-atendimento">Criança/ Adolescente</label>
+                            </div>
+
+                            <div class="form__row-checkbox">
+                                <input name="tipo-atendimento" type="radio"
+                                    class="form__radio" value="Adulto" required>
+                                <label for="tipo-atendimento">Adulto</label>
+                            </div>
+
+                            <div class="form__row-checkbox">
+                                <input name="tipo-atendimento"
+                                    type="radio" class="form__radio" value="Casal" required>
+                                <label for="tipo-atendimento">Casal</label>
+                            </div>
+
+                            <div class="form__row-checkbox">
+                                <input name="tipo-atendimento"
+                                    type="radio" class="form__radio" value="Orientação vocacional" required>
+                                <label for="tipo-atendimento">Orientação vocacional</label>
+                            </div>
+                        </div>
+
+                        <div class="form__columns">
+                            <div class="form__row">
+                                <label for="nome-completo">
+                                    Nome social: 
+                                    <input name="nome-completo" id="nome-completo" type="text" class="form__control" required>
+                                </label>
+                            </div>
+
+                            <div class="form__row form__row--sm">
+                                <label for="data-nascimento">
+                                    Data de nascimento: 
+                                    <input name="data-nascimento" id="data-nascimento" type="text" class="form__control" required placeholder="__/__/__" data-mask="00/00/0000">
+                                </label>
+                            </div>
+                        </div>
+
+                        <div class="form__columns">
+                            <div class="form__row">
+                                <label for="estado-civil">
+                                    Estado civil
+                                    <select id="estado-civil" name="estado-civil" class="form__control" required>
+                                        <option selected>Selecione</option>
+                                        <option value="solteirs">Solteirs</option>
+                                        <option value="casads">Casads</option>
+                                        <option value="separads">Separads</option>
+                                        <option value="uniao-estavel">União Estável</option>
+                                        <option value="divorciads">Divorciads</option>
+                                    </select>
+                                </label>
+                            </div>
+
+                            <div class="form__row">
+                                <div class="form__row">
+                                    <label for="grau-escolaridade">
+                                        Grau de escolaridade
+                                        <select id="grau-escolaridade" name="grau-escolaridade" class="form__control" required>
+                                            <option selected>Selecione</option>
+                                            <option value="fundamental-incompleto">Fundamental incompleto</option>
+                                            <option value="fundamental">Fundamental</option>
+                                            <option value="ensino-medio-incompleto">Ensino médio incompleto</option>
+                                            <option value="ensino-medio">Ensino médio</option>
+                                            <option value="superior-incompleto">Superior incompleto</option>
+                                            <option value="superior">Superior</option>
+                                            <option value="pos-graduacao">Pós graduação</option>
+                                        </select>
+                                    </label>
+                                </div>
+                            </div>
+
+                            <div class="form__row">
+                                <label for="profissao">
+                                    Profissão: 
+                                    <input name="profissao" id="profissao" type="text" class="form__control" required>
+                                </label>
+                            </div>
+                        </div>
+
+                        <div class="form__columns">
+                            <div class="form__row">
+                                <label for="cpf">
+                                    CPF: 
+                                    <input name="cpf" id="cpf" type="text" class="form__control" data-mask="000.000.000-00" required>
+                                </label>
+                            </div>
+
+                            <div class="form__row">
+                                <label for="Nome">
+                                    RG: 
+                                    <input name="rg" id="rg" type="text" class="form__control" data-mask="00.000.000-0" required>
+                                </label>
+                            </div>
+                        </div>
+
+                        <div class="form__row">
+                            <label for="endereco">
+                                Endereço: 
+                                <input name="endereco" id="endereco" type="text" class="form__control" required>
+                            </label>
+                        </div>
+                        
+                        <div class="form__columns">
+                            <div class="form__row">
+                                <label for="numero">
+                                    Número
+                                    <input name="numero" id="numero" class="form__control" required>
+                                </label>
+                            </div>
+
+                            <div class="form__row">
+                                <label for="complemento">
+                                    Complemento
+                                    <input name="complemento" id="complemento" class="form__control" required>
+                                </label>
+                            </div>
+                        </div>
+
+                        <div class="form__columns">
+                            <div class="form__row">
+                                <label for="bairro">
+                                    Bairro: 
+                                    <input name="bairro" id="bairro" type="text" class="form__control" required>
+                                </label>
+                            </div>
+
+                            <div class="form__row">
+                                <label for="cidade">
+                                    Cidade
+                                    <input name="cidade" id="cidade" class="form__control" required>
+                                </label>
+                            </div>
+
+                            <div class="form__row form__row--sm">
+                                <label for="estado">
+                                    Estado
+                                    <select id="estado" name="Estado" class="form__control" required>
+                                        <option value="AC">AC</option>
+                                        <option value="AL">AL</option>
+                                        <option value="AP">AP</option>
+                                        <option value="AM">AM</option>
+                                        <option value="BA">BA</option>
+                                        <option value="CE">CE</option>
+                                        <option value="DF">DF</option>
+                                        <option value="ES">ES</option>
+                                        <option value="GO">GO</option>
+                                        <option value="MA">MA</option>
+                                        <option value="MT">MT</option>
+                                        <option value="MS">MS</option>
+                                        <option value="MG">MG</option>
+                                        <option value="PA">PA</option>
+                                        <option value="PB">PB</option>
+                                        <option value="PR">PR</option>
+                                        <option value="PE">PE</option>
+                                        <option value="PI">PI</option>
+                                        <option value="RJ">RJ</option>
+                                        <option value="RN">RN</option>
+                                        <option value="RS">RS</option>
+                                        <option value="RO">RO</option>
+                                        <option value="RR">RR</option>
+                                        <option value="SC">SC</option>
+                                        <option value="SP" selected>SP</option>
+                                        <option value="SE">SE</option>
+                                        <option value="TO">TO</option>
+                                    </select>
+                                </label>
+                            </div>
+                        </div>
+
+                        <div class="form__columns">
+                            <div class="form__row">
+                                <label for="email">
+                                    Seu email
+                                    <input name="Email" id="Email" type="email" class="form__control" required>
+                                </label>
+                            </div>
+
+                            <div class="form__row">
+                                <label for="telefone">
+                                    Telefone
+                                    <input name="telefone" id="telefone" class="form__control" data-mask="(00) 00000-0000" required>
+                                </label>
+                            </div>
+                        </div>
+
+                        <div class="form__columns">
+                            <div class="form__row">
+                                <label for="nome-contato-confianca">
+                                    Nome do contato de confiança
+                                    <input name="nome-contato-confianca" id="nome-contato-confianca" class="form__control" required>
+                                </label>
+                            </div>
+
+                            <div class="form__row">
+                                <label for="telefone-contato-confianca">
+                                    Telefone do contato de confiança
+                                    <input name="telefone-contato-confianca" id="telefone-contato-confianca" class="form__control" data-mask="(00) 00000-0000" required>
+                                </label>
+                            </div>
+                        </div>
+
+                        <div class="form__row">
+                            <label for="queixa-principal">
+                                Queixa principal
+                                <textarea name="queixa-principal" id="queixa-principal" class="form__control" rows="10" required></textarea>
+                            </label>
+                        </div>
+
+                        <div class="form__row">
+                            <label for="subject">
+                                Já fez atendimento psicológico anteriormente? Por qual motivo?
+                                <textarea name="Telefone" class="form__control" rows="10"></textarea>
+                            </label>
+                        </div>
+
+                        <div class="form__row">
+                            <label for="toma-medicacao">
+                                Toma alguma medicação? Qual?
+                                <textarea name="toma-medicacao" id="toma-medicacao" class="form__control" rows="10"></textarea>
+                            </label>
+                        </div>
+
+                        <div class="form__row">
+                            <label for="saude-do-sono">
+                                Como está a saúde do seu sono? 
+                                <textarea name="saude-do-sono" id="saude-do-sono" class="form__control" rows="10" required></textarea>
+                            </label>
+                        </div>
+
+                        <div class="form__row">
+                            <label for="medo-fobia">
+                                Possui algum medo ou fobia? 
+                                <textarea name="medo-fobia" id="medo-fobia" class="form__control" rows="10"></textarea>
+                            </label>
+                        </div>
+
+                        <div class="form__row">
+                            <label for="como-se-sente">
+                                Como se sente atualmente? 
+                                <textarea name="como-se-sente" id="como-se-sente" class="form__control" rows="10" required></textarea>
+                            </label>
+                        </div>
+
+                        <div class="form__row">
+                            <label for="atividades-atuais">
+                                Atividades atuais: 
+                                <textarea name="atividades-atuais" class="form__control" rows="10" required></textarea>
+                            </label>
+                        </div>
+
+                        <div class="form__row">
+                            <label for="observacoes">
+                                Observação:
+                                <textarea name="observacoes" id="observacoes" class="form__control" rows="10"></textarea>
+                            </label>
+                        </div>
+
+                        <div class="form__row form__row--sm">
+                            <label for="prevent">
+                                Quanto é  4 + 1?
+                                <span class="form__help">Para previnir SPAN</span>
+                                <input name="prevent" id="prevent" class="form__control" pattern="5">
+                            </label>
+                        </div>
+
+                        <div class="form__button">
+                            <button type="submit" aria-label="Send">Finalizar</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function openNext(e) {
+            e.preventDefault();
+            const terms = document.getElementById('terms-register')
+            const forms = document.getElementById('form-register')
+
+            forms.classList.remove('page-form__accordion--hide')
+            terms.classList.add('page-form__accordion--hide')
+            terms.scrollIntoView({
+                behavior: 'smooth'
+            });
+        }
+    </script>
+
+{{ end }}

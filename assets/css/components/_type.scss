@@ -1,0 +1,195 @@
+/* Tipografie */
+
+h1 {
+    font-size: $main-font-size-h1;
+    line-height: $main-font-h1-line-height;
+    font-weight: 700;
+    letter-spacing: -.125rem;
+    margin-bottom: .5rem;
+  }
+  
+  h2 {
+    font-size: $main-font-size-h2;
+    line-height: $main-font-h2-line-height;
+    font-weight: 700;
+    letter-spacing: -.115rem;
+    margin-bottom: 1.25rem;
+  }
+  
+  h3 {
+    font-size: $main-font-size-h3;
+    line-height: $main-font-h3-line-height;
+    font-weight: 700;
+    letter-spacing: -.105rem;
+    margin-bottom: 1rem;
+  }
+  
+  h4 {
+    font-size: $main-font-size-h4;
+    line-height: $main-font-h4-line-height;
+    font-weight: 700;
+    letter-spacing: -.1rem;
+  }
+  
+  h5 {
+    font-size: $main-font-size-h5;
+    line-height: $main-font-h5-line-height;
+    font-weight: 700;
+  }
+  
+  h6 {
+    font-size: $main-font-size-h6;
+    line-height: $main-font-h6-line-height;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+  
+  em {
+    font-family: $main-font-family-serif;
+    font-style: italic;
+    font-weight: normal;
+  }
+  
+  .font-serif {
+    font-family: $main-font-family-serif;
+    font-style: italic;
+  }
+  
+  .lead-content {
+    font-size: $main-lead-size;
+    line-height: $main-lead-line-height;
+    margin: 1rem 0;
+  }
+  
+  .sublead-content {
+    font-size: $main-sublead-size;
+    line-height: $main-sublead-line-height;
+    margin: 1rem 0;
+  
+    p {
+      margin-bottom: 1rem;
+    }
+
+    blockquote {
+      background: url('../images/svg/quote.svg') no-repeat;
+      padding: 2rem 0 0 2rem;
+    }
+
+    blockquote + p {
+      font-size: 1rem;
+    }
+  }
+  
+  .block-content p {
+    margin-bottom: 1rem;
+  }
+  
+  blockquote {
+    font-family: $main-font-family-serif;
+    font-weight: normal;
+    font-size: 1.25rem;
+    line-height: 2rem;
+    font-style: italic;
+  }
+  
+  .block-content {
+    hr {
+      border: none;
+      border-bottom: 2px solid #eee;
+      width: 20%;
+      margin: 0 auto;
+      margin-top: 2rem;
+      margin-bottom: 3rem;
+    }
+  
+    img {
+      padding: 3rem;
+    }
+  
+    a {
+      color: $main-color-primary;
+      font-weight: 600;
+      padding-bottom: 0.1rem;
+      border-bottom: 3px solid $main-color-primary-hover;
+  
+      &:hover {
+        text-decoration: none;
+        border-bottom: 3px solid $main-color-primary-hover;
+      }
+    }
+  }
+  
+  .blog-article {
+    ul {
+      margin-bottom: 1rem;
+  
+      li {
+        list-style-type: square;
+        list-style-position: inside;
+      }
+    }
+  
+    ol li {
+      list-style-type: square;
+      list-style-position: inside;
+    }
+  
+    table td {
+      border: #e1e1e1 solid 1px;
+    }
+  }
+  
+  @media screen and (max-width: $mobile-width) {
+    h1 {
+      font-size: $mobile-font-size-h1;
+      line-height: $mobile-font-h1-line-height;
+      letter-spacing: -.115rem;
+      margin-bottom: 1rem;
+    }
+  
+    h2 {
+      font-size: $mobile-font-size-h2;
+      line-height: $mobile-font-h2-line-height;
+      letter-spacing: -.1rem;
+      margin-bottom: 1.15rem;
+    }
+  
+    h3 {
+      font-size: $mobile-font-size-h3;
+      line-height: $mobile-font-h3-line-height;
+      letter-spacing: -.1rem;
+      margin-bottom: 1rem;
+    }
+  
+    h4 {
+      font-size: $mobile-font-size-h4;
+      line-height: $mobile-font-h4-line-height;
+      letter-spacing: -.075rem;
+    }
+  
+    h5 {
+      font-size: $mobile-font-size-h5;
+      line-height: $mobile-font-h5-line-height;
+    }
+  
+    h6 {
+      font-size: $mobile-font-size-h6;
+      line-height: $mobile-font-h6-line-height;
+    }
+  
+    .lead-content {
+      font-size: $mobile-lead-size;
+      line-height: $mobile-lead-line-height;
+      margin: 1rem 0;
+    }
+  
+    .sublead-content {
+      font-size: $mobile-sublead-size;
+      line-height: $mobile-sublead-line-height;
+      margin: 1rem 0;
+    }
+  
+    .block-content img {
+      padding: 2rem 0;
+    }
+  }

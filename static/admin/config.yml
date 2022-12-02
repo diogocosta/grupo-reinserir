@@ -1,0 +1,410 @@
+backend:
+    name: git-gateway
+    branch: master # Branch to update (optional; defaults to master)
+
+local_backend: true
+media_folder: "/static/images"
+public_folder: /images
+
+collections:
+  - label: "Páginas"
+    name: "pages"
+    editor:
+      preview: false
+    files:
+      - label: "Home"
+        name: "page-home"
+        file: "content/_index.md"
+        media_folder: "."
+        fields:
+          - label: "SEO"
+            name: "seo"
+            widget: "object"
+            collapsed: true
+            fields:
+              - { label: "Título da página", name: "seo_title", widget: "string" }
+              - { label: "Descrição da página", name: "seo_description", widget: "string", pattern: ['.{0,160}', "Descrição não pode ter mais de 160 caracteres"] }
+          - label: "Bem vindo"
+            name: "welcome"
+            widget: "object"
+            collapsed: true
+            fields:
+              - { label: "Título", name: "welcome_title", widget: "markdown", minimal: true, buttons: ['italic'], editorComponents: [] }
+              - { label: "Conteúdo", name: "welcome_content", widget: "markdown", minimal: true, buttons: ['bold', 'italic'], editorComponents: [] }
+              - label: "Link"
+                name: "welcome_link"
+                widget: "object"
+                collapsed: true
+                fields:
+                  - { label: "Nome do link", name: "welcome_link_title", widget: "string" }
+                  - { label: "Link", name: "welcome_link_href", widget: "string" }
+          - label: "Área com três colunas"
+            name: "column_about"
+            widget: "object"
+            collapsed: true
+            fields:
+              - { label: "Título", name: "column_about_title", widget: "markdown", minimal: true, buttons: ['italic'], editorComponents: [] }
+              - { label: "Conteúdo", name: "column_about_content", widget: "markdown", minimal: true, buttons: ['bold', 'italic'], editorComponents: [] }
+              - label: "Coluna Um"
+                name: "column_about_column_one"
+                widget: "object"
+                collapsed: true
+                fields:
+                  - { label: "Conteúdo", name: "column_about_column_one_content", widget: "markdown", minimal: true, buttons: ['bold', 'italic'], editorComponents: [] }
+                  - label: "Link"
+                    name: "column_about_column_one_link"
+                    widget: "object"
+                    collapsed: true
+                    fields:
+                      - { label: "Nome do link", name: "column_about_column_one_link_title", widget: "string" }
+                      - { label: "Link", name: "column_about_column_one_link_href", widget: "string" }
+              - label: "Coluna Dois"
+                name: "column_about_column_two"
+                widget: "object"
+                collapsed: true
+                fields:
+                  - { label: "Conteúdo", name: "column_about_column_two_content", widget: "markdown", minimal: true, buttons: ['bold', 'italic'], editorComponents: [] }
+                  - label: "Link"
+                    name: "column_about_column_two_link"
+                    widget: "object"
+                    collapsed: true
+                    fields:
+                      - { label: "Nome do link", name: "column_about_column_two_link_title", widget: "string" }
+                      - { label: "Link", name: "column_about_column_two_link_href", widget: "string" }
+              - label: "Coluna Três"
+                name: "column_about_column_three"
+                widget: "object"
+                collapsed: true
+                fields:
+                  - { label: "Conteúdo", name: "column_about_column_three_content", widget: "markdown", minimal: true, buttons: ['bold', 'italic'], editorComponents: [] }
+                  - label: "Link"
+                    name: "column_about_column_three_link"
+                    widget: "object"
+                    collapsed: true
+                    fields:
+                      - { label: "Nome do link", name: "column_about_column_three_link_title", widget: "string" }
+                      - { label: "Link", name: "column_about_column_three_link_href", widget: "string" }
+          - label: "Área com imagem na direita"
+            name: "column_right"
+            widget: "object"
+            collapsed: true
+            fields:
+              - { label: "Imagem", name: "column_right_image", widget: "image" }
+              - { label: "Título", name: "column_right_title", widget: "markdown", minimal: true, buttons: ['italic'], editorComponents: [] }
+              - { label: "Conteúdo", name: "column_right_content", widget: "markdown", buttons: ['bold', 'italic'], editorComponents: [] }
+              - label: "Link"
+                name: "column_right_column_link"
+                widget: "object"
+                collapsed: true
+                fields:
+                  - { label: "Nome do link", name: "column_right_column_link_title", widget: "string" }
+                  - { label: "Link", name: "column_right_column_link_href", widget: "string" }
+          - label: "Área com imagem na esquerda"
+            name: "column_left"
+            widget: "object"
+            collapsed: true
+            fields:
+              - { label: "Imagem", name: "column_left_image", widget: "image" }
+              - { label: "Título", name: "column_left_title", widget: "markdown", minimal: true, buttons: ['italic'], editorComponents: [] }
+              - { label: "Conteúdo", name: "column_left_content", widget: "markdown", buttons: ['bold', 'italic'], editorComponents: [] }
+              - label: "Link"
+                name: "column_left_column_link"
+                widget: "object"
+                collapsed: true
+                fields:
+                  - { label: "Nome do link", name: "column_left_column_link_title", widget: "string" }
+                  - { label: "Link", name: "column_left_column_link_href", widget: "string" }        
+      - label: "Quem Somos"
+        name: "page-about"
+        file: "content/quem-somos/_index.md"
+        media_folder: "."
+        fields:
+          - label: "SEO"
+            name: "seo"
+            widget: "object"
+            collapsed: true
+            fields:
+            - { label: "Título da página", name: "seo_title", widget: "string" }
+            - { label: "Descrição da página", name: "seo_description", widget: "string", pattern: ['.{0,160}', "Descrição não pode ter mais de 160 caracteres"] }
+          - label: "Bem vindo"
+            name: "welcome"
+            widget: "object"
+            collapsed: true
+            fields:
+            - { label: "Título", name: "welcome_title", widget: "markdown", minimal: true, buttons: ['italic'], editorComponents: [] }
+            - { label: "Conteúdo", name: "welcome_content", widget: "markdown", minimal: true, buttons: ['bold', 'italic'], editorComponents: [] }
+          - label: "Texto Quem somos"
+            name: "about_text"
+            widget: "object"
+            collapsed: true
+            fields:
+              - { label: "Imagem", name: "image", widget: "image" }
+              - { label: "Legenda da imagem", name: "image_legend", widget: "string" }
+              - { label: "Título", name: "title", widget: "markdown", minimal: true, buttons: ['italic'], editorComponents: [] }
+              - { label: "Conteúdo", name: "body", widget: "markdown", editorComponents: [] }
+          - label: "Texto Espaço"
+            name: "about_space"
+            widget: "object"
+            collapsed: true
+            fields:
+              - { label: "Título", name: "title", widget: "markdown", minimal: true, buttons: ['italic'], editorComponents: [] }
+              - { label: "Conteúdo", name: "content", widget: "markdown", buttons: ['bold', 'italic'], editorComponents: [] }
+              - label: "Link"
+                name: "link"
+                widget: "object"
+                collapsed: true
+                fields:
+                  - { label: "Nome do link", name: "title", widget: "string" }
+                  - { label: "Link", name: "href", widget: "string" }
+          - label: "Texto Parceiros"
+            name: "about_partners"
+            widget: "object"
+            collapsed: true
+            fields:
+              - { label: "Título", name: "title", widget: "markdown", minimal: true, buttons: ['italic'], editorComponents: [] }
+              - { label: "Conteúdo", name: "content", widget: "markdown", buttons: ['bold', 'italic'], editorComponents: [] }
+              - label: "Link"
+                name: "link"
+                widget: "object"
+                collapsed: true
+                fields:
+                  - { label: "Nome do link", name: "link_title", widget: "string" }
+                  - { label: "Link", name: "link_href", widget: "string" }
+      - label: "O que fazemos"
+        name: "page-services"
+        file: "content/oque-fazemos/_index.md"
+        media_folder: "."
+        fields:
+          - label: "SEO"
+            name: "seo"
+            widget: "object"
+            collapsed: true
+            fields:
+            - { label: "Título da página", name: "seo_title", widget: "string" }
+            - { label: "Descrição da página", name: "seo_description", widget: "string", pattern: ['.{0,160}', "Descrição não pode ter mais de 160 caracteres"] }
+          - label: "Bem vindo"
+            name: "welcome"
+            widget: "object"
+            collapsed: true
+            fields:
+            - { label: "Título", name: "welcome_title", widget: "markdown", minimal: true, buttons: ['italic'], editorComponents: [] }
+            - { label: "Conteúdo", name: "welcome_content", widget: "markdown", minimal: true, buttons: ['bold', 'italic'], editorComponents: [] }
+          - label: "Introdução"
+            name: "service_intro"
+            widget: "object"
+            collapsed: true
+            fields:
+              - { label: "Conteúdo", name: "content", widget: "markdown", editorComponents: [] }
+          - label: "Psicoterapia"
+            name: "service_psi"
+            widget: "object"
+            collapsed: true
+            fields:
+              - { label: "Título", name: "title", widget: "markdown", minimal: true, buttons: ['italic'], editorComponents: [] }
+              - { label: "Conteúdo", name: "content", widget: "markdown", editorComponents: [] }
+          - label: "Organizacional"
+            name: "service_org"
+            widget: "object"
+            collapsed: true
+            fields:
+              - { label: "Título", name: "title", widget: "markdown", minimal: true, buttons: ['italic'], editorComponents: [] }
+              - { label: "Conteúdo", name: "content", widget: "markdown", editorComponents: [] }
+          - label: "Social"
+            name: "service_social"
+            widget: "object"
+            collapsed: true
+            fields:
+              - { label: "Título", name: "title", widget: "markdown", minimal: true, buttons: ['italic'], editorComponents: [] }
+              - { label: "Conteúdo", name: "content", widget: "markdown", editorComponents: [] }
+      - label: "Blog"
+        name: "page-blog"
+        file: "content/blog/_index.md"
+        media_folder: "."
+        fields:
+          - label: "SEO"
+            name: "seo"
+            widget: "object"
+            collapsed: true
+            fields:
+            - { label: "Título da página", name: "seo_title", widget: "string" }
+            - { label: "Descrição da página", name: "seo_description", widget: "string", pattern: ['.{0,160}', "Descrição não pode ter mais de 160 caracteres"] }
+          - label: "Bem vindo"
+            name: "welcome"
+            widget: "object"
+            collapsed: true
+            fields:
+            - { label: "Título", name: "welcome_title", widget: "markdown", minimal: true, buttons: ['italic'], editorComponents: [] }
+            - { label: "Conteúdo", name: "welcome_content", widget: "markdown", minimal: true, buttons: ['bold', 'italic'], editorComponents: [] }
+      - label: "Perguntas Frequentes"
+        name: "page-faq"
+        file: "content/perguntas-frequentes/_index.md"
+        media_folder: "."
+        fields:
+          - label: "SEO"
+            name: "seo"
+            widget: "object"
+            collapsed: true
+            fields:
+            - { label: "Título da página", name: "seo_title", widget: "string" }
+            - { label: "Descrição da página", name: "seo_description", widget: "string", pattern: ['.{0,160}', "Descrição não pode ter mais de 160 caracteres"] }
+          - label: "Bem vindo"
+            name: "welcome"
+            widget: "object"
+            collapsed: true
+            fields:
+            - { label: "Título", name: "welcome_title", widget: "markdown", minimal: true, buttons: ['italic'], editorComponents: [] }
+            - { label: "Conteúdo", name: "welcome_content", widget: "markdown", minimal: true, buttons: ['bold', 'italic'], editorComponents: [] }
+          - { label: "Introdução", name: "body", widget: "markdown", minimal: true, editorComponents: [] }
+      - label: "Fale Conosco"
+        name: "page-contact"
+        file: "content/fale-conosco/_index.md"
+        media_folder: "."
+        fields:
+          - label: "SEO"
+            name: "seo"
+            widget: "object"
+            collapsed: true
+            fields:
+            - { label: "Título da página", name: "seo_title", widget: "string" }
+            - { label: "Descrição da página", name: "seo_description", widget: "string", pattern: ['.{0,160}', "Descrição não pode ter mais de 160 caracteres"] }
+          - label: "Bem vindo"
+            name: "welcome"
+            widget: "object"
+            collapsed: true
+            fields:
+            - { label: "Título", name: "welcome_title", widget: "markdown", minimal: true, buttons: ['italic'], editorComponents: [] }
+            - { label: "Conteúdo", name: "welcome_content", widget: "markdown", minimal: true, buttons: ['bold', 'italic'], editorComponents: [] }
+      - label: "Agende"
+        name: "page-schedule"
+        file: "content/agende/_index.md"
+        media_folder: "."
+        fields:
+          - label: "SEO"
+            name: "seo"
+            widget: "object"
+            collapsed: true
+            fields:
+            - { label: "Título da página", name: "seo_title", widget: "string" }
+            - { label: "Descrição da página", name: "seo_description", widget: "string", pattern: ['.{0,160}', "Descrição não pode ter mais de 160 caracteres"] }
+          - label: "Bem vindo"
+            name: "welcome"
+            widget: "object"
+            collapsed: true
+            fields:
+            - { label: "Título", name: "welcome_title", widget: "markdown", minimal: true, buttons: ['italic'], editorComponents: [] }
+            - { label: "Conteúdo", name: "welcome_content", widget: "markdown", minimal: true, buttons: ['bold', 'italic'], editorComponents: [] }
+      - label: "Trabalhe conosco"
+        name: "page-work"
+        file: "content/trabalhe-conosco/_index.md"
+        media_folder: "."
+        fields:
+          - label: "SEO"
+            name: "seo"
+            widget: "object"
+            collapsed: true
+            fields:
+            - { label: "Título da página", name: "seo_title", widget: "string" }
+            - { label: "Descrição da página", name: "seo_description", widget: "string", pattern: ['.{0,160}', "Descrição não pode ter mais de 160 caracteres"] }
+          - label: "Bem vindo"
+            name: "welcome"
+            widget: "object"
+            collapsed: true
+            fields:
+            - { label: "Título", name: "welcome_title", widget: "markdown", minimal: true, buttons: ['italic'], editorComponents: [] }
+            - { label: "Conteúdo", name: "welcome_content", widget: "markdown", minimal: true, buttons: ['bold', 'italic'], editorComponents: [] }     
+      - label: "Cadastro de paciente"
+        name: "page-register"
+        file: "content/cadastro-paciente/_index.md"
+        media_folder: "."
+        fields:
+          - label: "SEO"
+            name: "seo"
+            widget: "object"
+            collapsed: true
+            fields:
+            - { label: "Título da página", name: "seo_title", widget: "string" }
+            - { label: "Descrição da página", name: "seo_description", widget: "string", pattern: ['.{0,160}', "Descrição não pode ter mais de 160 caracteres"] }
+          - label: "Bem vindo"
+            name: "welcome"
+            widget: "object"
+            collapsed: true
+            fields:
+            - { label: "Título", name: "welcome_title", widget: "markdown", minimal: true, buttons: ['italic'], editorComponents: [] }
+            - { label: "Conteúdo", name: "welcome_content", widget: "markdown", minimal: true, buttons: ['bold', 'italic'], editorComponents: [] }
+          - { label: "Termo", name: "body", widget: "markdown", editorComponents: [] }
+  - label: "Perguntas Frequentes"
+    name: "faq"
+    folder: "content/faq"
+    media_folder: "."
+    create: true
+    fields:
+      - {label: "Pergunta", name: "title", widget: "string"}
+      - {label: "Resposta", name: "body", widget: "markdown"}
+      - {label: "Imagem", name: "thumbnail", widget: "image"}
+  - label: "Blog"
+    name: "blog"
+    folder: "content/blog"
+    media_folder: "."
+    create: true
+    fields:
+      - label: "SEO"
+        name: "seo"
+        widget: "object"
+        collapsed: true
+        fields:
+          - { label: "Título da página", name: "seo_title", widget: "string" }
+          - { label: "Descrição da página", name: "seo_description", widget: "string", pattern: ['.{0,160}', "Descrição não pode ter mais de 160 caracteres"] }
+      - {label: "Publicado", name: "status", widget: "boolean", default: true}
+      - {label: "Data da publicação", name: "date", widget: "datetime"}
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Publicado por", name: "author", widget: "string"}
+      - {label: "Conteúdo", name: "body", widget: "markdown"}
+      - {label: "Imagem", name: "thumbnail", widget: "image"}
+  - label: "Equipe"
+    name: "team"
+    folder: "content/team"
+    sortableFields: ['weight']
+    media_folder: "."
+    create: true
+    fields:
+      - {label: "Imagem", name: "thumbnail", widget: "image"}
+      - {label: "Ordem", name: "weight", widget: "number"}
+      - {label: "Nome", name: "title", widget: "string"}
+      - {label: "Profissao", name: "role", widget: "string"}
+      - {label: "CRP", name: "crp", widget: "string"}
+      - {label: "Mini Currículo", name: "body", widget: "markdown"}
+  - label: "Espaço"
+    name: "space"
+    folder: "content/space"
+    media_folder: "."
+    sortableFields: ['weight']
+    create: true
+    fields:
+      - {label: "Ordem", name: "weight", widget: "number"}
+      - {label: "Imagem", name: "thumbnail", widget: "image"}
+  - label: "Parceiros"
+    name: "partners"
+    folder: "content/partners"
+    media_folder: "."
+    create: true
+    fields:
+      - {label: "Imagem", name: "thumbnail", widget: "image"}
+      - {label: "Nome", name: "title", widget: "string"}
+      - {label: "Link", name: "link", widget: "string"}
+  - label: "Na Mídia"
+    name: "midia"
+    folder: "content/midia"
+    media_folder: "."
+    create: true
+    fields:
+      - {label: "Publicado", name: "status", widget: "boolean", default: true}
+      - {label: "Data da publicação", name: "date", widget: "datetime"}
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Imagem", name: "thumbnail", widget: "image"}
+      - label: "Link"
+        name: "link"
+        widget: "object"
+        collapsed: true
+        fields:
+          - { label: "Nome do link", name: "link_title", widget: "string" }
+          - { label: "Link", name: "link_href", widget: "string" }

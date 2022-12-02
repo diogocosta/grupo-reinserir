@@ -1,0 +1,93 @@
+.media-block {
+    padding: 8rem 0 4rem 0;
+}
+
+.media-block__title {
+    display: flex;
+    justify-content: space-between;
+}
+
+.media-block__columns {
+    display: flex;
+    margin-top: 3rem;
+    flex-wrap: wrap;
+}
+
+.media-block__column {
+    width: calc(33.33333% - 2rem);
+    margin-right: 3rem;
+}
+
+.media-block__column:nth-child(3n) {
+    margin-right: 0;
+}
+
+.media-block-item h4 {
+    font-family: $main-font-family-serif;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 1.75rem;
+    line-height: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.media-block-item figure {
+    -webkit-mask-image: url("../images/svg/faq-block-mask-two.svg");
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    margin-bottom: 1rem;
+}
+
+.media-block-item figure img {
+    width: auto;
+    height: 260px;
+    object-fit: cover;
+}
+
+
+.media-block-item__button {
+    margin-top: 1rem;
+}
+
+.media-block-item__button a {
+    transition: all ease-in 0.3s;
+    padding-bottom: 0rem;
+    font-weight: 700;
+    color: $main-color-primary;
+    border-bottom: 3px solid rgba(255,255,255,0);
+}
+  
+.media-block-item__button a:hover {
+    padding-bottom: 0.2rem;
+    border-bottom: 3px solid $main-color-primary-hover;
+}
+
+@media screen and (max-width: 960px) {
+    .media-block {
+        padding: 3rem 0;
+    }
+
+    .media-block__title {
+        flex-direction: column;
+    }
+
+    .media-block__columns {
+        flex-direction: column;
+        margin-top: -3rem;
+    }
+
+    .media-block__column {
+        margin-right: 0;
+        min-width: 100%;
+        margin-top: 2rem;
+    }
+
+    .media-block-item {
+        margin-top: 2rem;
+    }
+
+    .media-block-item h4 {
+        font-size: 1.5rem;
+        line-height: 2rem;
+    }
+}

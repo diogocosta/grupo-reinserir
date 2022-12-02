@@ -1,0 +1,34 @@
+{{ define "main" }}
+    {{ partial "welcome.html" . }}
+
+    <div class="content-about" data-aos="fade-up">
+        <div class="full-container">
+            <div class="sublead-content">
+                <h3>{{ .Params.about_text.title | markdownify }}</h3>
+
+                {{ .Params.about_text.body | markdownify }}
+            </div>
+
+            <div class="content-about__image" data-aos="fade-up">
+                {{ $image := .Resources.GetMatch .Params.about_text.image }}
+                {{ $small_image := $image.Resize "10x" }}
+
+                <figure>
+                    <img
+                        class="lazyload"
+                        alt="{{ .Params.image_legend  }}"
+                        loading="lazy"
+                        src="{{ ((.Resources.GetMatch .Params.about_text.image).Resize "10x").RelPermalink }}"
+                        data-src="{{ ((.Resources.GetMatch .Params.about_text.image)).RelPermalink }}" />
+                </figure>
+                <figcaption>{{ .Params.image_legend }}</figcaption>
+            </div>
+        </div>
+    </div>
+
+    {{ partial "team.html" . }}
+    {{ partial "space.html" . }}
+    {{ partial "partners.html" . }}
+    {{ partial "onmedia-list.html" . }}
+
+{{ end }}

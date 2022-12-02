@@ -1,0 +1,44 @@
+/* Base */
+
+html {
+    box-sizing: border-box;
+    font-size: $main-font-base-size;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: georgia, serif;
+    font-weight: normal;
+    word-wrap: break-word;
+    font-kerning: normal;
+    -moz-font-feature-settings: "kern", "liga", "clig", "calt";
+    -ms-font-feature-settings: "kern", "liga", "clig", "calt";
+    -webkit-font-feature-settings: "kern", "liga", "clig", "calt";
+    font-feature-settings: "kern", "liga", "clig", "calt";
+    font-size: $main-font-size;
+    font-family: $main-font-family;
+    line-height: $main-line-height;
+    color: $main-color-base;
+    padding-top: 170px;
+}
+
+a {
+    -webkit-text-decoration-skip: objects;
+    color: $main-color-base;
+    text-decoration: none;
+    transition: all .3s linear;
+}
+
+a:active {
+    outline-width: 0;
+}
+
+a:hover {
+    color: $main-color-primary;
+    outline-width: 0;
+    transition: all .3s linear;   
+}

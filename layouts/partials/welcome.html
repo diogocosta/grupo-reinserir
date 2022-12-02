@@ -1,0 +1,19 @@
+<div class="main-title">
+    <div class="main-container">
+        <div class="main-title__column">
+            <h1>{{ $.Params.welcome.welcome_title | markdownify }}</h1>
+
+            <div class="lead-content">
+                {{ $.Params.welcome.welcome_content | markdownify }}
+            </div>
+
+            {{ if $.Params.welcome.welcome_link.welcome_link_title }}
+                <div class="main-title__button">
+                    <a href="{{ $.Params.welcome.welcome_link.welcome_link_href }}" class="link-arrow lead">
+                        {{ $.Params.welcome.welcome_link.welcome_link_title }}
+                    </a>
+                </div>
+            {{ end }}
+        </div>
+    </div>
+</div>

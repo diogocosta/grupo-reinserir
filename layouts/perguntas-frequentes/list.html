@@ -1,0 +1,46 @@
+{{ define "main" }}
+    {{ partial "welcome.html" . }}
+
+    <div class="content">
+        <div class="main-container">
+            <div class="sublead-content">
+                {{ .Content }}
+            </div>
+        </div>
+    </div>
+
+    <div class="questions">
+        <div class="main-container">
+            {{ $faq := .Site.GetPage "section" "faq" }}
+            {{ with $faq }}
+
+                {{ range .Pages }}
+                <div id="{{ .Permalink }}" data-aos="fade-up">
+                    <div class="questions__content">                
+                        <div class="questions__ask">
+                            <h3>{{ .Title }}</h3>
+                        </div>
+
+                        <div class="questions__answer">
+                            <figure>
+                                <img
+                                    class="lazyload"
+                                    alt="Grupo Reinserir"
+                                    loading="lazy"
+                                    src="{{ (($faq.Resources.GetMatch .Params.thumbnail).Resize "10x").RelPermalink }}"
+                                    data-src="{{ (($faq.Resources.GetMatch .Params.thumbnail)).RelPermalink }}" />
+                            </figure>
+
+                            <div class="sublead-content">
+                                 {{ .Content }}
+                            </div>
+                        </div> 
+                    </div>
+                </div>
+                {{ end }}
+
+            {{ end }}
+        </div>
+    </div>
+
+{{ end }}

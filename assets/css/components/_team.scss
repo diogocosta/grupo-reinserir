@@ -1,0 +1,170 @@
+.team {
+    padding: 4rem 3rem;
+    
+    .full-container h3 {
+        margin-bottom: 3rem;
+    }
+
+    &__columns {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    &__column {
+        width: calc(33% - 1rem);
+        margin-bottom: 4rem;
+        margin-left: 1rem;
+        text-align: center;
+    }
+
+    &__info {
+        margin-top: 1rem;
+    }
+
+    &__columns figure {
+        max-width: 240px;
+        height: 240px;
+        margin: 0 auto;
+        -webkit-mask-image: url("../images/svg/content-image-mask.svg");
+        -webkit-mask-size: contain;
+        -webkit-mask-repeat: no-repeat;
+        margin-right: 2rem;
+    }
+
+    &__columns figure img {
+        width: 100%;
+    }
+
+    &__columns h4 {
+        font-weight: 700;
+        font-size: 1.25rem;
+    }
+
+    &__description {
+        line-height: 1.75rem;
+        position: fixed;
+        background-color: rgba(0,0,0,.3);
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        display: none;
+        z-index: 100;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    &__description.show {
+        display: flex;
+
+        div {
+            padding: 3rem;
+            background-color: #fff;
+            width: 80%;
+            border-radius: .3rem;
+            position: relative;
+            text-align: left;
+            font-size: .9rem;
+            
+            h4 {
+                margin-bottom: 1rem;
+            }
+        }
+    }
+
+    &__description-close {
+        content: ".";
+        width: 50px;
+        height: 50px;
+        display: block;
+        text-indent: -9999999px;
+        position: absolute;
+        top: -25px;
+        right: -25px;
+        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='30' height='30'%3E%3Cdefs%3E%3Cpath id='a' d='M19.8 11.01l-1-1.01-4 3.99L10.81 10 9.8 11.01l4 3.99-4 3.99L10.81 20l3.99-3.99 4 3.99 1-1.01L15.81 15z'/%3E%3C/defs%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cpath fill='%23D91E23' d='M29.6 13.43a15.7 15.7 0 00-.23-2.27l-.16-.83c-.23-1.26-.6-2.5-1.18-3.64-.32-.62-.7-1.22-1.13-1.77l-.54-.68a9.39 9.39 0 00-2.87-2.39c-.33-.18-.66-.34-1-.5-.27-.14-.57-.24-.86-.36-.45-.19-.93-.31-1.4-.44-.47-.11-.93-.2-1.4-.28-.5-.06-1-.14-1.5-.17-.57-.04-1.14-.07-1.72-.08-.39-.01-.78-.03-1.17-.02-.7.03-1.37.18-2.03.38-.56.16-1.12.36-1.67.57l-.9.35c-.22.08-.45.2-.67.3-.43.18-.84.38-1.26.6-.23.12-.48.23-.7.37-.22.13-.46.25-.67.39l-.63.44c-.27.19-.53.43-.79.64-.38.3-.73.67-1.08 1.03-.33.32-.64.65-.94 1-.32.38-.65.76-.95 1.16-.42.56-.86 1.13-1.17 1.75a7.8 7.8 0 00-.66 2.1c-.07.36-.11.72-.16 1.07-.08.5-.1 1-.13 1.49-.06 1.07-.04 2.17.15 3.23.2 1.1.47 2.2.76 3.28.06.2.13.42.21.62l.28.68c.24.54.48 1.1.81 1.6.35.52.72 1.02 1.11 1.5.3.37.66.7.99 1.05.31.33.6.67.92 1 .33.33.67.66 1.04.96.45.38.9.77 1.39 1.08.48.3 1.03.51 1.56.73.96.4 2.01.6 3.05.62l.84.01a9.4 9.4 0 002-.17c.93-.21 1.86-.38 2.78-.62.96-.25 1.93-.48 2.87-.83.3-.11.58-.24.85-.42.24-.17.47-.36.7-.55.37-.3.7-.65 1.04-.98.37-.36.72-.73 1.07-1.1.32-.36.67-.69.99-1.05.37-.44.67-.92.93-1.44l.36-.47c.17-.22.33-.45.48-.68.14-.22.3-.43.43-.65l.2-.36c.24-.38.42-.8.62-1.2.13-.26.26-.52.36-.8.09-.24.14-.47.19-.7.16-.47.3-.95.38-1.45.08-.5.15-1.02.18-1.54.02-.52.05-1.04.03-1.56z'/%3E%3Cuse fill='%23FFF' xlink:href='%23a'/%3E%3C/g%3E%3C/svg%3E");
+        background-size: contain;
+    }
+
+    &__link {
+        font-weight: 500;
+        font-size: 0.9rem;
+        margin-top: 0.3rem;
+    }
+
+    &__link a {
+        color: #999;
+        
+        &:hover {
+            color: var(--main-color-primary);
+        }
+    }
+}
+
+@media screen and (max-width: 960px) {
+    .team {
+        padding: 3rem 0;
+        
+        .full-container h3 {
+            margin-bottom: 3rem;
+        }
+
+    
+        &__column {
+            width: calc(50% - 1rem);
+            margin-bottom: 2rem;
+
+            &:nth-child(even) {
+                .team__description {
+                    margin-left: -100%;
+                }
+            }
+        }
+        
+        &__columns figure {
+            max-width: 120px;
+            height: 120px;
+        }
+        
+        &__columns h4 {
+            font-size: 1rem;
+        }
+
+        &__description {
+            position: relative;
+            background-color: rgba(0,0,0,0);
+            width: 80vw;
+            margin-top: 2rem;
+            margin-left: 7.5%;
+        }
+    
+        &__description.show {
+            div {
+                padding: 2rem;
+                background-color: #f1f1f1;
+                width: 100%;
+                border-radius: .3rem;
+                position: relative;
+                text-align: left;
+                font-size: .9rem;
+                
+                h4 {
+                    margin-bottom: 1rem;
+                }
+            }
+        }
+    
+        &__description-close {
+            content: ".";
+            width: 50px;
+            height: 50px;
+            display: block;
+            text-indent: -9999999px;
+            position: absolute;
+            top: -25px;
+            right: -25px;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='30' height='30'%3E%3Cdefs%3E%3Cpath id='a' d='M19.8 11.01l-1-1.01-4 3.99L10.81 10 9.8 11.01l4 3.99-4 3.99L10.81 20l3.99-3.99 4 3.99 1-1.01L15.81 15z'/%3E%3C/defs%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cpath fill='%23D91E23' d='M29.6 13.43a15.7 15.7 0 00-.23-2.27l-.16-.83c-.23-1.26-.6-2.5-1.18-3.64-.32-.62-.7-1.22-1.13-1.77l-.54-.68a9.39 9.39 0 00-2.87-2.39c-.33-.18-.66-.34-1-.5-.27-.14-.57-.24-.86-.36-.45-.19-.93-.31-1.4-.44-.47-.11-.93-.2-1.4-.28-.5-.06-1-.14-1.5-.17-.57-.04-1.14-.07-1.72-.08-.39-.01-.78-.03-1.17-.02-.7.03-1.37.18-2.03.38-.56.16-1.12.36-1.67.57l-.9.35c-.22.08-.45.2-.67.3-.43.18-.84.38-1.26.6-.23.12-.48.23-.7.37-.22.13-.46.25-.67.39l-.63.44c-.27.19-.53.43-.79.64-.38.3-.73.67-1.08 1.03-.33.32-.64.65-.94 1-.32.38-.65.76-.95 1.16-.42.56-.86 1.13-1.17 1.75a7.8 7.8 0 00-.66 2.1c-.07.36-.11.72-.16 1.07-.08.5-.1 1-.13 1.49-.06 1.07-.04 2.17.15 3.23.2 1.1.47 2.2.76 3.28.06.2.13.42.21.62l.28.68c.24.54.48 1.1.81 1.6.35.52.72 1.02 1.11 1.5.3.37.66.7.99 1.05.31.33.6.67.92 1 .33.33.67.66 1.04.96.45.38.9.77 1.39 1.08.48.3 1.03.51 1.56.73.96.4 2.01.6 3.05.62l.84.01a9.4 9.4 0 002-.17c.93-.21 1.86-.38 2.78-.62.96-.25 1.93-.48 2.87-.83.3-.11.58-.24.85-.42.24-.17.47-.36.7-.55.37-.3.7-.65 1.04-.98.37-.36.72-.73 1.07-1.1.32-.36.67-.69.99-1.05.37-.44.67-.92.93-1.44l.36-.47c.17-.22.33-.45.48-.68.14-.22.3-.43.43-.65l.2-.36c.24-.38.42-.8.62-1.2.13-.26.26-.52.36-.8.09-.24.14-.47.19-.7.16-.47.3-.95.38-1.45.08-.5.15-1.02.18-1.54.02-.52.05-1.04.03-1.56z'/%3E%3Cuse fill='%23FFF' xlink:href='%23a'/%3E%3C/g%3E%3C/svg%3E");
+            background-size: contain;
+        }
+    }    
+}

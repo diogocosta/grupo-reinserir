@@ -1,0 +1,57 @@
+{{ $team := .Site.GetPage "section" "team" }}
+{{ with $team }}
+
+<div id="nossa-equipe" class="team">
+    <div class="full-container">
+        <h3>Nossa <em>equipe</em></h3>
+    
+        <div class="team__columns">
+            {{ range .Pages }}
+                <div class="team__column">
+                    <figure data-aos="fade-up">
+                        <img
+                            class="lazyload"
+                            alt="{{ .Title }}"
+                            loading="lazy"
+                            src="{{ (($team.Resources.GetMatch .Params.thumbnail).Resize "10x").RelPermalink }}"
+                            data-src="{{ ($team.Resources.GetMatch .Params.thumbnail).RelPermalink }}" />
+                    </figure>
+
+                    <div class="team__info">
+                        <h4>{{ .Title }}</h4>
+                        <p>{{ .Params.role }}</p>
+                        {{ if ne .Params.crp "." }}
+                            <p>{{ .Params.crp}}</p>
+                        {{ end }}
+                        <p class="team__link">
+                            <a href="#" onClick="showModal(event);">Ver Minicurrículo</a>
+                        </p>
+                         <div class="team__description">
+                            <div>
+                                <a href="#" class="team__description-close" onClick="closeModal(event);">Fechar</a>
+                                <h4>{{ .Title }}</h4>
+                                {{ .Content }}</div>
+                         </div>
+                    </div>
+
+
+                </div>
+            {{ end }}
+        </div>
+    </div>
+</div>
+
+<script>
+    function showModal(e) {
+        e.preventDefault();
+        e.srcElement.parentElement.nextSibling.nextSibling.classList.add('show')
+    }
+
+    function closeModal(e) {
+        e.preventDefault();
+        e.srcElement.parentElement.parentElement.classList.remove('show')
+    }
+</script>
+
+{{ end }}
+

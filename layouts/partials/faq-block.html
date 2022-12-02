@@ -1,0 +1,40 @@
+<div class="faq-block-area" data-aos="fade-up">
+    <div class="full-container">
+        <div class="faq-block-area__title">
+            <h3>Perguntas frequentes <br />(e <em>importantes</em>)</h3>
+            <p class="faq-block-area__link">
+                <a href="/perguntas-frequentes" class="link-arrow">Veja todas as perguntas</a>
+            </p>
+        </div>
+
+        {{ $faq := .Site.GetPage "section" "faq" }}
+        {{ with $faq }}
+            <div class="faq-block-area__columns">
+                {{ range first 3 .Pages }}
+                    <div class="faq-block-area__column">
+                        <div class="faq-block">
+                            <figure>
+                                <img
+                                    class="lazyload"
+                                    alt="Grupo Reinserir"
+                                    loading="lazy"
+                                    src="{{ (($faq.Resources.GetMatch .Params.thumbnail).Resize "10x").RelPermalink }}"
+                                    data-src="{{ (($faq.Resources.GetMatch .Params.thumbnail)).RelPermalink }}" />
+                            </figure>
+
+                            <h4><a href="#">{{ .Title }}</a></h4>
+
+                            <div class="faq-block__description">
+                                {{ .Content | safeHTML | truncate 100 }}
+                            </div>
+
+                            <div class="faq-block__button">
+                                <a href="#" class="link-arrow">Saiba mais</a>
+                            </div>
+                        </div>
+                    </div>
+                {{ end }}
+            </div>
+        {{ end }}
+    </div>
+</div>

@@ -1,0 +1,8 @@
+---
+thumbnail: maria-julia.jpg
+weight: 5
+title: Maria Julia Viana da Silva
+role: Psicóloga
+crp: CRP 06/159588
+---
+Psicóloga graduada pela Anhembi Morumbi, conta com formação de Educadora Social pelo Senac. Na trajetória acadêmica dedicou-se a estudar temas da Psicologia Social, elaborando artigos e atividades acadêmicas sobre os impactos que a criminalização e o estigma relacionados ao uso de substâncias psicoativas tem na constituição de jovens, passando pela construção da infância e juventude no Brasil, a atual política de drogas e judicialização. E sobre questões de gênero e sexualidade no que diz respeito as diversas violações e formação da subjetividade. Participou durante graduação de projetos de pesquisa-extensão que discutiam promoção de saúde mental e práticas de Redução de Danos em ambientes educacionais. Experiência na área da saúde, atuando em serviço psicossocial de referência a prevenção e aos cuidados dos agravos a pessoas que fazem uso de substâncias, o CAPS AD. Experiência na área de Psicologia do Trabalho, atuando em ONG com jovens aprendizes, elaborando atividades para discutir saúde mental e subjetividade no trabalho. Também obtém experiência em orientação profissional, elaborando discussões e reflexões sobre a escolha profissional, considerando os determinantes histórico-sociais, objetivando a construção de uma visão crítica em relação ao mundo do trabalho, da profissão e do próprio processo escolha. Atualmente é Psicóloga Clínica no Grupo Reinserir e atende a partir da abordagem histórico-cultural, acreditando na construção de um espaço seguro de fala, validação e enfrentamento que coopere para a construção da emancipação dos sujeitos.

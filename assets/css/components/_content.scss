@@ -1,0 +1,55 @@
+.content {
+    padding: 8rem 3rem;
+
+    .sublead-content {
+        width: 80%;
+    }
+
+    ul {
+        list-style-type: square;
+        list-style-position: inside;
+        margin-bottom: 2rem;
+    }
+
+    &.block-psicoterapia {
+        background: url("../images/svg/block-psicoterapia.svg") no-repeat;
+        background-size: 30%;
+    }
+   
+    &.block-organizacional {
+        background: url("../images/svg/block-organizacional.svg") right no-repeat;
+        background-size: 35%;
+    }
+    
+    &.block-social {
+        background: url("../images/svg/block-social.svg") center center no-repeat;
+        background-size: 40%;
+    }
+}
+
+@media screen and (max-width: 960px) {
+    .content {
+        padding: 3rem 0;
+
+        .main-container {
+            width: 90%;
+        }
+
+        .sublead-content {
+            width: 100%;
+        }
+    
+        &.block-psicoterapia {
+            background-size: 50%;
+        }
+       
+        &.block-organizacional {
+            background-size: 50%;
+            background-position: top right;
+        }
+        
+        &.block-social {
+            background-size: 50%;
+        }
+    }
+}

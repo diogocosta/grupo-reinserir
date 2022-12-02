@@ -1,0 +1,13 @@
+---
+seo:
+  seo_title: O Grupo Reinserir é antirracista e antifascista
+  seo_description: Estamos em um momento de crise mundial do capitalismo que está
+    sendo severamente aprofundado pela crise sanitária provocada pelo
+    coronavírus.
+status: true
+date: 2020-08-06T16:03:36.902Z
+title: O Grupo Reinserir é antirracista e antifascista
+author: Psicóloga Natália Aparecida da Silva CRP 06/144439
+thumbnail: corin.jpg
+---
+Estamos em um momento de crise mundial do capitalismo que está sendo severamente aprofundado pela crise sanitária provocada pelo coronavírus. Historicamente vemos que crises profundas abrem espaço para o crescimento de posições fascistas e extrema direita que se aproveitando da grande instabilidade e falta de confiança nas instituições, buscam implementar um programa anti-trabalhador, contra direitos, racista, LGBTfóbico etc. O fascismo é a ala mais brutal da burguesia que a partir da criação de inimigos (comunistas, liberais, judeus, etc.) se utiliza de sua base violenta e do Estado para eliminar adversários e assim buscar garantir uma "estabilidade" na base do terror, do sangue dos explorados e da opressão contínua para garantir a lucratividade das elites. A Psicologia, como um campo do saber produzido e reproduzido por pessoas, não está alheio a tudo isso. Nos anos 30 tivemos psicólogos como Ach, Spranger, que assumiram a tarefa de criar uma psicologia nazista e fascista, buscando demonstrar as diferenças entre as raças a partir do campo psicológico. Isso acaba com um certo mito que há no campo da psicologia de que todo psicólogo é necessariamente progressista. As recentes eleições para o CFP e CRPs no qual houve uma chapa (Movimento Psicólogos em Ação) defendendo cura gay, entre outras atrocidades que são pautas da extrema direita dentro da Psicologia, demonstram como temos psicólogos no campo da extrema direita buscando se organizar e colocar o programa deles em curso. Diante de tal cenário, é TAREFA dos psicólogos se posicionarem e travar essa luta política dentro da Psicologia, mas também no geral. O Grupo Reinserir vem a público dizer que tem um lado e este é o da democracia, dos direitos e do progresso para uma sociedade sem exploração, opressão, que superemos essa pré-história da humanidade baseada em conflitos e tenhamos de fato uma sociedade pautada na solidariedade. O fascismo é um regime que vai totalmente no oposto disso e por isso tem de ser esmagado na sua gênese. NÃO PASSARÃO!

@@ -1,0 +1,35 @@
+{{ $space := .Site.GetPage "section" "space" }}
+{{ with $space }}
+
+    <div id="nosso-espaco" class="space">
+        <div class="full-container">
+            <h3>{{ $.Params.about_space.title | markdownify }}</h3>
+
+             <div class="space__slider" data-aos="fade-up">
+                {{ $gallery := $space.Resources.ByType "image" }}
+                {{ range $gallery }}
+                    <img
+                        class="lazyload"
+                        alt="Espaço do Grupo Reinserir"
+                        loading="lazy"
+                        src="{{ (.Resize "10x").RelPermalink }}"
+                        data-src="{{ (.Fill "700x550").RelPermalink }}" />
+                {{ end }}
+            </div>
+
+            <div class="space__content" data-aos="fade-up">
+                <div class="sublead-content">
+                    {{ $.Params.about_space.content | markdownify }}
+                </div>
+
+                <div class="space__link">
+                    <a href="{{ $.Params.about_space.link.href }}" class="link-arrow">
+                        {{ $.Params.about_space.link.title }}
+                    </a>
+                </div>
+            </div>
+
+        </div>   
+    </div>
+
+{{ end }}

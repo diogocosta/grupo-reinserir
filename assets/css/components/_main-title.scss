@@ -1,0 +1,68 @@
+.main-title {
+    padding: 6rem 3rem 8rem 3rem;
+    
+    h1 {
+      font-size: $main-font-size-h1;
+      line-height: $main-font-h1-line-height;
+      font-weight: 700;
+      letter-spacing: -.125rem;
+      margin-bottom: .5rem;
+  }
+  
+  .lead-content {
+      font-size: $main-lead-size;
+      line-height: $main-lead-line-height;
+      margin: 1rem 0;
+  }
+
+  .main-container {
+    width: 90%;
+    max-width: 960px;
+    margin: 0 auto;
+  }  
+
+  &__column {
+    max-width: 60%;
+    animation-duration: 1s;
+    animation-name: fadeIn;
+    animation-fill-mode: both;
+  }
+
+}
+  
+  @media screen and (max-width: 960px) {
+    .main-title {
+      padding: 1rem 0 4rem 0;
+      min-height: auto !important;
+
+      h1 {
+        font-size: $mobile-font-size-h1;
+        line-height: $mobile-font-h1-line-height;
+     }
+
+      .lead-content {
+        font-size: $mobile-lead-size;
+        line-height: $mobile-lead-line-height;
+      }
+
+      &__container {
+        width: 100%;
+      }
+    
+      &__column {
+        max-width: 80%;
+      }
+    }
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateX(-20%);
+    }
+  
+    to {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }

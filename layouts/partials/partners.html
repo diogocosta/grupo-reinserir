@@ -1,0 +1,37 @@
+{{ $partners := .Site.GetPage "section" "partners" }}
+{{ with $partners }}
+
+<div class="partners">
+    <div class="full-container">
+        <div class="partners__column" data-aos="fade-up">
+            <h3>{{ $.Params.about_partners.title | markdownify }}</h3>
+
+            <div class="sublead-content">
+                {{ $.Params.about_partners.content | markdownify }}
+            </div>
+
+            <div class="partners__link">
+                <a href="{{ $.Params.about_partners.link.href }}" class="link-arrow">
+                    {{ $.Params.about_partners.link.title }}
+                </a>
+            </div>
+        </div>
+
+        <div class="partners__logos">
+            {{ range .Pages }}
+                <div class="logo" data-aos="fade-up">
+                    <a href="{{ .Params.link }}" target="_blank" rel="noreferrer">
+                        <img
+                            class="lazyload"
+                            alt="{{ .Title }}"
+                            loading="lazy"
+                            src="{{ (($partners.Resources.GetMatch .Params.thumbnail).Resize "10x").RelPermalink }}"
+                            data-src="{{ ($partners.Resources.GetMatch .Params.thumbnail).RelPermalink }}" />
+                    </a>
+                </div>
+            {{ end }}
+        </div>
+    </div>
+</div>
+
+{{ end }}

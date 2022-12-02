@@ -1,0 +1,49 @@
+<div class="columns-services" data-aos="fade-up">
+    <div class="main-container">
+        <h2>{{ $.Params.column_about.column_about_title | markdownify }}</h2>
+
+        <div class="sublead-content">
+            {{ $.Params.column_about.column_about_content | markdownify }}
+        </div>
+
+        <div class="columns-services__columns">
+            <div class="columns-services__column" data-aos="fade-up" data-aos-offset="100">
+                <img src="/images/psicoterapia.svg" alt="Psicoterapia" />
+
+                <div>
+                    {{ $.Params.column_about.column_about_column_one.column_about_column_one_content | markdownify }}
+                </div>
+
+                <p class="columns-services__link">
+                    <a href="{{ $.Params.column_about.column_about_column_one.column_about_column_one_link.column_about_column_one_link_href }}" class="link-arrow">
+                        {{ $.Params.column_about.column_about_column_one.column_about_column_one_link.column_about_column_one_link_title }}
+                    </a>
+                </p>
+            </div>
+
+            <div class="columns-services__column" data-aos="fade-up" data-aos-offset="150">
+                <img src="/images/organizacional.svg" alt="Organizacional" />
+
+                <p>{{ $.Params.column_about.column_about_column_two.column_about_column_two_content | markdownify }}</p>
+
+                <p class="columns-services__link">
+                    <a href="{{ $.Params.column_about.column_about_column_two.column_about_column_two_link.column_about_column_two_link_href }}" class="link-arrow">
+                        {{ $.Params.column_about.column_about_column_two.column_about_column_two_link.column_about_column_two_link_title }}
+                    </a>
+                </p>
+            </div>
+
+            <div class="columns-services__column" data-aos="fade-up" data-aos-offset="200">
+                <img src="/images/social.svg" alt="Social" />
+
+                <p>{{ $.Params.column_about.column_about_column_three.column_about_column_three_content | markdownify }}</p>
+                
+                <p class="columns-services__link">
+                    <a href="{{ $.Params.column_about.column_about_column_three.column_about_column_three_link.column_about_column_three_link_href }}" class="link-arrow">
+                        {{ $.Params.column_about.column_about_column_three.column_about_column_three_link.column_about_column_three_link_title }}
+                    </a>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,43 @@
+.questions__content {
+    padding: 3rem 0;
+}
+
+.questions__answer {
+    display: flex;
+    margin-top: 2rem;
+}
+
+.questions__answer figure {
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-size: contain;
+    -webkit-mask-position: center center;
+    -webkit-mask-image: url('../images/svg/content-image-mask.svg');
+    width: 250px;
+    height: 250px;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    margin-right: 3rem;
+}
+
+.questions__answer .lazyload-placeholder {
+    width: 250px;
+    height: 250px;
+    background-color: #f1f1f1;
+}
+
+.questions__answer img {
+    min-width: 250px;
+    min-height: 250px;
+}
+
+@media screen and (max-width: 960px) {    
+    .questions__answer {
+        flex-direction: column;
+        margin-top: 1rem;
+    }
+    
+    .questions__answer figure {
+        margin-bottom: 1rem;
+        margin-right: 0;
+    }       
+}

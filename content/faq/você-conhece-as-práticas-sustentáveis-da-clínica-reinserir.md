@@ -1,0 +1,9 @@
+---
+title: Você conhece as práticas sustentáveis da Clínica Reinserir?
+thumbnail: 8fea5e2a-5aab-4fe1-804b-301a7cdaa021.jpg
+---
+<!--StartFragment-->
+
+Sustentabilidade e saúde mental tem tudo a ver! Um ambiente sustentável é fundamental para uma vida saudável. Por isto, a Clínica Reinserir se preocupa imensamente com as práticas sustentáveis dentro e fora do consultório. Para quem frequenta a Clínica não é novidade ser abordado com água, café e/ou chá em copo de vidro (exceto neste momento de pandemia, por segurança, optamos não utilizar tais copos). A ideia é que ao retornar com as atividades presenciais, os copos de vidro sejam substituídos por copos biodegradáveis (por conta do fluxo intenso de pacientes no espaço) com a sugestão de que os pacientes levem suas próprias garrafas e/ou canecas. O grupo também se preocupa com o descarte correto dos resíduos, utilizando lixeiras identificadas no consultório (vide imagem). Além disto, a decoração do Reinserir é mega sustentável: caixotes de madeira sendo utilizados como mesas de centro, artesanatos sustentáveis e muuuitas plantas espalhadas pelo consultório (muitas delas sendo presente dos pacientes). De fato, uma Clínica sustentável e que visa promover saúde! Que possamos cuidar do meio ambiente, de nós e do outro (mais ainda neste momento de pandemia). A equipe do Reinserir está a disposição para sanar dúvidas sobre a temática da sustentabilidade. Ah! temos parceria com uma Cooperativa de Materiais Recicláveis muito querida, a @coopercapsoficial!!! Eles também estão a disposição para contar sobre o trabalho dos cooperados e sua importância. Vamos junts?
+
+<!--EndFragment-->

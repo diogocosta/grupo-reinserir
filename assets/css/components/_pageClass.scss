@@ -1,0 +1,64 @@
+.pageClass {
+    background-repeat: no-repeat;
+    background-position: right 180px;
+    animation-duration: 1.5s;
+    animation-name: BackGroundFadeIn;
+    animation-fill-mode: both;
+
+    &--home,
+    &--sucesso {
+      background-image: url('../images/svg/image-home.svg');
+    }
+  
+    &--quem-somos {
+      background-image: url('../images/svg/image-about.svg');  
+    }
+  
+    &--oque-fazemos {
+      background-image: url('../images/svg/image-services.svg');  
+    }
+  
+    &--blog {
+      background-image: url('../images/svg/image-blog.svg');  
+    }
+  
+    &--perguntas-frequentes {
+      background-image: url('../images/svg/image-faq.svg');  
+    }
+  
+    &--fale-conosco {
+      background-image: url('../images/svg/image-contact.svg');  
+    }
+  
+    &--trabalhe-conosco {
+      background-image: url('../images/svg/image-work.svg');  
+    }
+  
+    &--cadastro-paciente {
+      background-image: url('../images/svg/image-register.svg');  
+    }
+  
+    &--agende {
+      background-image: url('../images/svg/image-shedule.svg');  
+    }
+}
+
+@keyframes BackGroundFadeIn {
+  from {
+    background-position: right 400px;
+  }
+
+  to {
+    background-position: right 180px;
+  }
+}
+
+@media screen and (max-width: 960px) {
+  .pageClass {
+    background-size: 75%;
+    background-position: right -50px !important;
+    background-color: rgba(255, 255, 255, .9) !important;
+    background-blend-mode: color;
+  }          
+}
+

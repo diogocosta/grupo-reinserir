@@ -1,0 +1,38 @@
+<div class="media-block" data-aos="fade-up">
+    <div class="full-container">
+        <div class="media-block__title">
+            <h3>Na mídia</h3>
+            <p class="media-block__link">
+                <a href="/quem-somos#midia" class="link-arrow">Veja todas</a>
+            </p>
+        </div>
+
+        {{ $midia := .Site.GetPage "section" "midia" }}
+        {{ with $midia }}
+
+        <div class="media-block__columns">
+            {{ range first 3 .Pages }}
+                <div class="media-block__column">
+                    <div class="media-block-item">
+                        <figure>
+                            <img
+                                class="lazyload"
+                                alt="Grupo Reinserir"
+                                loading="lazy"
+                                src="{{ (($midia.Resources.GetMatch .Params.thumbnail).Resize "10x").RelPermalink }}"
+                                data-src="{{ (($midia.Resources.GetMatch .Params.thumbnail).Resize "x400").RelPermalink }}" />
+                        </figure>
+
+                        <h4>{{ .Title }}</h4>
+
+                        <div class="media-block-item__button">
+                            <a href="{{ .Params.link.link_href }}" target="_blank" rel="noreferrer">Leia o artigo</a>
+                        </div>
+                    </div>
+                </div>
+            {{ end }}
+        </div>
+
+        {{ end }}
+    </div>
+</div>

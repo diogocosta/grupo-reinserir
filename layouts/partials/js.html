@@ -1,0 +1,33 @@
+{{ $lazysize := resources.Get "js/lazysizes.min.js" }}
+{{ $aos := resources.Get "js/aos.min.js" }}
+{{ $headroom := resources.Get "js/headroom.min.js" }}
+{{ $jquery := resources.Get "js/jquery.min.js" }}
+{{ $slider := resources.Get "js/slick.min.js" }}
+{{ $mask := resources.Get "js/mask.min.js" }}
+
+{{ $js := slice $lazysize $headroom $aos | resources.Concat "js/bundle.js" }}
+{{ $about := slice $jquery $slider | resources.Concat "js/about.js" }}
+{{ $contact := slice $jquery $mask | resources.Concat "js/contact.js" }}
+
+<script src="{{ $js.RelPermalink }}"></script>
+<script>
+  AOS.init();
+
+  const header = document.querySelector(".main-header");
+  const headroom = new Headroom(header);
+  headroom.init();
+</script>
+
+{{ if eq .Section "quem-somos" }}
+    <script src="{{ $about.RelPermalink }}"></script>
+    <script>
+        $('.space__slider').slick({
+            autoplay: true,
+            autoplaySpeed: 4000
+        });
+    </script>
+{{ end }}
+
+{{ if or (eq .Section "fale-conosco") (eq .Section "agende") (eq .Section "cadastro-paciente") (eq .Section "trabalhe-conosco") }}
+    <script src="{{ $contact.RelPermalink }}"></script>
+{{ end }}

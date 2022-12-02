@@ -1,0 +1,59 @@
+{{ define "main" }}
+    {{ partial "welcome.html" . }}
+
+    <div class="page-form" data-aos="fade-up">
+        <div class="main-container">
+            <div class="page-form__content">
+                <form class="form" action="https://submit-form.com/LNiTLrDT2td3ZbE-58h9v" target="_self">
+                    <input type="hidden" name="_redirect" value="{{ "sucesso" | absURL }}" />
+                    
+                    <h3>Envie uma mensagem</h3>
+
+                    <div class="form__row">
+                        <label for="Nome">
+                            Seu nome
+                            <input name="Nome" id="Nome" type="text" class="form__control" required>
+                        </label>
+                    </div>
+
+                    <div class="form__row">
+                        <label for="email">
+                            Seu email
+                            <input name="Email" id="Email" type="email" class="form__control" required>
+                        </label>
+                    </div>
+
+                    <div class="form__row">
+                        <label for="subject">
+                            Assunto da mensagem
+                            <input name="Assunto" class="form__control" required>
+                        </label>
+                    </div>
+
+                    <div class="form__row">
+                        <label for="message">
+                            Mensagem
+                            <textarea name="Mensagem" id="Mensagem" class="form__control" rows="10" required></textarea>
+                        </label>
+                    </div>
+
+                    <div class="form__row form__row--md">
+                        <label for="prevent">
+                            Quanto é  4 + 2?
+                            <span class="form__help">Para previnir SPAN</span>
+                            <input name="prevent" id="prevent" class="form__control" pattern="6">
+                        </label>
+                    </div>
+
+                    <div class="form__button">
+                        <button type="submit" aria-label="Send">Enviar mensagem</button>
+                    </div>
+                </form>
+            </div>
+
+            {{ partial "contact-aside.html" . }}
+
+        </div>
+    </div>
+
+{{ end }}

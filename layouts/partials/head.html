@@ -1,0 +1,68 @@
+<head>
+    <title>{{ with .Params.seo.seo_title }}{{ . }}{{ end }} | Grupo Reinserir</title>
+    <meta charset="UTF-8">
+    <meta name="language" content="{{ .Site.LanguageCode }}">
+    <meta name="description" content="{{ with .Params.seo.seo_description }}{{ . }}{{ end }}">
+    <meta name="keywords" content="{{ delimit .Keywords " , " }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="canonical" href="{{ .Permalink | absURL }}" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="{{ .Title }}" />
+    <meta property="og:description" content="{{ with .Params.seo.seo_description }}{{ . }}{{ end }}" />
+    <meta property="og:url" content="{{ .Permalink | absURL }}" />
+    <meta property="og:image" content="{{ "/images/grupo-reinserir-banner.jpg" | absURL }}" />
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="{{ .Title }}" />
+    <meta name="twitter:description" content="{{ with .Params.seo.seo_description }}{{ . }}{{ end }}"/>
+    <meta property="twitter:image" content="{{ "/images/grupo-reinserir-banner.jpg" | absURL }}" />
+    <meta property="twitter:url" content="{{ .Permalink | absURL }}" />
+
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ "/images/apple-touch-icon.png" | absURL }}" />
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ "/images/favicon-32x32.png" | absURL }}" />
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ "/images/favicon-16x16.png" | absURL }}" />
+    <link rel="manifest" href="{{ "/images/site.webmanifest" | absURL }}" />
+    <link rel="mask-icon" href="{{ "/images/safari-pinned-tab.svg" | absURL }}" color="#5bbad5" />
+    <meta name="msapplication-TileColor" content="#da532c" />
+    <meta name="theme-color" content="#ffffff" />
+
+    <link rel="dns-prefetch" href="//fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;700&family=Noto+Serif:ital,wght@1,400;1,700&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" type="image/png" href="{{ "/images/favicon.ico" | absURL }}" />
+
+    {{ with resources.Get "css/critical.scss" | toCSS | minify }}
+        <style>{{ .Content | safeCSS }}</style>
+    {{ end }}
+
+    {{ $style := resources.Get "css/globals.scss" | toCSS | minify | fingerprint -}}
+        <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+    {{ if .IsHome }}
+    {{- $style := resources.Get "css/home.scss" | toCSS | minify | fingerprint -}}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+    {{ end }}
+    {{- if eq .Section "quem-somos" -}} 
+    {{- $style := resources.Get "css/about.scss" | toCSS | minify | fingerprint -}}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+    {{ end }}
+    {{- if eq .Section "oque-fazemos" -}} 
+    {{- $style := resources.Get "css/services.scss" | toCSS | minify | fingerprint -}}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+    {{ end }}
+    {{- if eq .Section "blog" -}} 
+    {{- $style := resources.Get "css/blog.scss" | toCSS | minify | fingerprint -}}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+    {{ end }}
+    {{- if or (eq .Section "fale-conosco") (eq .Section "agende") (eq .Section "cadastro-paciente") (eq .Section "trabalhe-conosco") -}} 
+    {{- $style := resources.Get "css/contact.scss" | toCSS | minify | fingerprint -}}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+    {{ end }}
+    {{- if eq .Section "perguntas-frequentes" -}} 
+    {{- $style := resources.Get "css/faq.scss" | toCSS | minify | fingerprint -}}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+    {{ end }}
+</head>
+

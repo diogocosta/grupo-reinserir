@@ -1,0 +1,5 @@
+---
+title: Como serão os atendimentos em tempos de pandemia?
+thumbnail: pandemia.jpg
+---
+Em tempos de pandemia, a prática do atendimento online tem sido um bom recurso para dar continuidade aos tratamentos psicológicos que já ocorriam presencialmente, e também para disponibilizar o serviço para novos pacientes. O trabalho da psicologia é de máxima importância neste momento, no qual há interferências advindas do desafio que é estar em isolamento social. Aqui no Reinserir contamos com uma equipe de psicólogs habilitads para atender de forma online os pacientes neste momento, onde nos encontramos em constante processo de adaptação e transformação coletiva. Nossos atendimentos estão acontecendo 100% online, pois além de acreditar nesta modalidade, também valorizamos não só a saúde mental, mas também a física de nossos pacientes e de sua rede de convivência.

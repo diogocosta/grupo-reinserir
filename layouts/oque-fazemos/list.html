@@ -1,0 +1,42 @@
+{{ define "main" }}
+    {{ partial "welcome.html" . }}
+
+    <div class="content" data-aos="fade-up">
+        <div class="main-container">
+            <div class="sublead-content">
+                {{ .Params.service_intro.content | markdownify }}
+            </div>
+        </div>
+    </div>
+
+    <div class="content block-psicoterapia" data-aos="fade-up">
+        <div class="main-container">
+            <h3>{{ .Params.service_psi.title | markdownify }}</h3>
+
+            <div class="sublead-content">
+                {{ .Params.service_psi.content | markdownify }}
+            </div>
+        </div>
+    </div>
+
+    <div class="content block-organizacional" data-aos="fade-up">
+        <div class="main-container">
+            <h3>{{ .Params.service_org.title | markdownify }}</h3>
+
+            <div class="sublead-content">
+                {{ .Params.service_org.content | markdownify }}
+            </div>
+        </div>
+    </div>
+
+    <div class="content block-social" data-aos="fade-up">
+        <div class="main-container">
+            <h3>{{ .Params.service_social.title | markdownify }}</h3>
+
+            <div class="sublead-content">
+                {{ .Params.service_social.content | markdownify }}
+            </div>
+        </div>
+    </div>
+
+{{ end }}

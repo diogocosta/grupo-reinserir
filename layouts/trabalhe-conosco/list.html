@@ -1,0 +1,73 @@
+{{ define "main" }}
+    {{ partial "welcome.html" . }}
+
+    <div class="page-form" data-aos="fade-up">
+        <div class="main-container">
+            <div class="page-form__content">
+                <form action="https://submit-form.com/zKwwW3g8la-pfecw1XAVz" target="_self">
+                    <input type="hidden" name="_redirect" value="{{ "sucesso" | absURL }}" />
+                    
+                    <h3>Fale sobre você.</h3>
+
+                    <div class="form__row">
+                        <label for="Nome">
+                            Seu nome
+                            <input name="Nome" id="Nome" type="text" class="form__control" required>
+                        </label>
+                    </div>
+
+                    <div class="form__row">
+                        <label for="cargo-pretendido">
+                            Cargo pretendido
+                            <input name="cargo-pretendido" id="cargo-pretendido" type="text" class="form__control" required>
+                        </label>
+                    </div>
+
+                    <div class="form__row">
+                        <label for="link-linkedin">
+                            Link para o Linkedin (opcional)
+                            <input name="link-linkedin" id="link-linkedin" type="text" class="form__control" required>
+                        </label>
+                    </div>
+
+                     <div class="form__row">
+                        <label for="formacao">
+                            Formação
+                            <textarea name="formacao" id="formacao" class="form__control" rows="10" required></textarea>
+                        </label>
+                    </div>
+
+                    <div class="form__row">
+                        <label for="experiencia">
+                            Experiência profissional
+                            <textarea name="experiencia" id="experiencia" class="form__control" rows="10" required></textarea>
+                        </label>
+                    </div>
+
+                    <div class="form__row">
+                        <label for="apresentacao">
+                            Apresentação
+                            <textarea name="apresentacao" id="apresentacao" class="form__control" rows="10" required></textarea>
+                        </label>
+                    </div>
+
+                    <div class="form__row form__row--md">
+                        <label for="prevent">
+                            Quanto é  6 + 3?
+                            <span class="form__help">Para previnir SPAN</span>
+                            <input name="prevent" id="prevent" class="form__control" pattern="9">
+                        </label>
+                    </div>
+
+                    <div class="form__button">
+                        <button type="submit" aria-label="Send">Enviar mensagem</button>
+                    </div>
+                </form>
+            </div>
+
+            {{ partial "contact-aside.html" . }}
+
+        </div>
+    </div>
+
+{{ end }}

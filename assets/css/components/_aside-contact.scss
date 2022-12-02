@@ -1,0 +1,25 @@
+.aside-contact h4 {
+    margin-bottom: .5rem;
+}
+
+.aside-contact__address {
+    margin-bottom: 2rem;
+    font-size: 1.1rem;
+}
+
+.aside-contact__phone {
+    margin-bottom: 2rem;
+}
+
+.aside-contact__phone .phone {
+    font-size: 1.5rem;
+    margin: .3rem 0;
+}
+
+
+@media screen and (max-width: 960px) {
+    .aside-contact {
+        padding: 0;
+        margin-bottom: 3rem;
+    }
+}

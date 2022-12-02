@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+    {{- partial "head.html" . -}}
+    <body class="pageClass pageClass--{{ if eq .Kind "home"}}home{{ end }}{{ if eq .Kind "section"}}{{ .Section }}{{ end }}">
+        {{- partial "header.html" . -}}
+
+        <main data-scroll-container>
+        {{- block "main" . }}{{- end }}
+        </main>
+
+        {{- partialCached "footer.html" . -}}
+
+        {{- partial "js.html" . -}}
+    </body>
+</html>
+
+ 

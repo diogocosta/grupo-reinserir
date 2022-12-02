@@ -1,0 +1,30 @@
+<div class="column-image-right" data-aos="fade-up">
+    <div class="main-container">
+        <div class="column-image-right__column">
+            <h3>{{ $.Params.column_right.column_right_title | markdownify }}</h3>
+
+            <div class="sublead-content">
+                {{ $.Params.column_right.column_right_content | markdownify }}
+            </div>
+
+            <div class="column-image-right__link">
+                <a href="{{ $.Params.column_right.column_right_column_link.column_right_column_link_href }}" class="link-arrow">
+                    {{ $.Params.column_right.column_right_column_link.column_right_column_link_title }}
+                </a>
+            </div>
+        </div>
+
+        <div class="column-image-right__image">
+            <div class="column-image-right__image-mask"></div>
+
+             {{ range $.Page.Resources.Match $.Params.column_right.column_right_image }}
+                    {{ $small_image := .Resize "10x" }}
+                    <img
+                        class="lazyload"
+                        alt="Grupo Reinserir"
+                        src="{{ $small_image.RelPermalink }}"
+                        data-src="{{ .RelPermalink }}" />
+                {{ end }}
+        </div>
+    </div>
+</div>

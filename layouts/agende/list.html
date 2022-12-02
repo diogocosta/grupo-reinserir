@@ -1,0 +1,124 @@
+{{ define "main" }}
+    {{ partial "welcome.html" . }}
+
+    <div class="page-form" data-aos="fade-up">
+        <div class="main-container">
+            <div class="page-form__content">
+                <form action="https://submit-form.com/hgxnfbie36EmXP1x74JGG" target="_self">
+                    <input type="hidden" name="_redirect" value="{{ "sucesso" | absURL }}" />
+
+                    <h3>Agendar sessão</h3>
+
+                    <div class="form__row">
+                        <label for="Nome">
+                            Seu nome
+                            <input name="Nome" id="Nome" type="text" class="form__control" required>
+                        </label>
+                    </div>
+
+                    <div class="form__row">
+                        <label for="email">
+                            Seu email
+                            <input name="Email" id="Email" type="email" class="form__control" required>
+                        </label>
+                    </div>
+
+                    <div class="form__row">
+                        <label for="subject">
+                            Telefone
+                            <input name="Telefone" class="form__control" required>
+                        </label>
+                    </div>
+
+                    <div class="form__columns">
+                        <div class="form__row">
+                            <label for="subject">
+                                Cidade
+                                <input name="Cidade" class="form__control" required>
+                            </label>
+                        </div>
+
+                        <div class="form__row form__row--sm">
+                            <label for="subject">
+                                Estado
+                                <select id="estado" name="Estado" class="form__control" required>
+                                    <option value="AC">AC</option>
+                                    <option value="AL">AL</option>
+                                    <option value="AP">AP</option>
+                                    <option value="AM">AM</option>
+                                    <option value="BA">BA</option>
+                                    <option value="CE">CE</option>
+                                    <option value="DF">DF</option>
+                                    <option value="ES">ES</option>
+                                    <option value="GO">GO</option>
+                                    <option value="MA">MA</option>
+                                    <option value="MT">MT</option>
+                                    <option value="MS">MS</option>
+                                    <option value="MG">MG</option>
+                                    <option value="PA">PA</option>
+                                    <option value="PB">PB</option>
+                                    <option value="PR">PR</option>
+                                    <option value="PE">PE</option>
+                                    <option value="PI">PI</option>
+                                    <option value="RJ">RJ</option>
+                                    <option value="RN">RN</option>
+                                    <option value="RS">RS</option>
+                                    <option value="RO">RO</option>
+                                    <option value="RR">RR</option>
+                                    <option value="SC">SC</option>
+                                    <option value="SP" selected>SP</option>
+                                    <option value="SE">SE</option>
+                                    <option value="TO">TO</option>
+                                </select>
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="form__row">
+                        <h4>Qual é o melhor horário para atendimento?</h4>
+
+                        <div class="form__row-checkbox">
+                            <input name="melhor-horario"
+                                type="radio" class="form__radio" value="Qualquer horário" required>
+                            <label for="melhor-horario">Qualquer horário</label>
+                        </div>
+
+                        <div class="form__row-checkbox">
+                            <input name="melhor-horario" type="radio"
+                                class="form__radio" value="Horário comercial" required>
+                            <label for="melhor-horario">Horário comercial (seg-sex das 8 ás 18)</label>
+                        </div>
+
+                         <div class="form__row-checkbox">
+                            <input name="melhor-horario"
+                                type="radio" class="form__radio" value="Durante a semana á noite" required>
+                            <label for="melhor-horario">Durante a semana á noite</label>
+                        </div>
+
+                         <div class="form__row-checkbox">
+                            <input name="melhor-horario"
+                                type="radio" class="form__radio" value="Aos sábado" required>
+                            <label for="melhor-horario">Aos sábado</label>
+                        </div>
+                    </div>
+
+                    <div class="form__row form__row--md">
+                        <label for="prevent">
+                            Quanto é  5 + 3?
+                            <span class="form__help">Para previnir SPAN</span>
+                            <input name="prevent" id="prevent" class="form__control" pattern="8">
+                        </label>
+                    </div>
+
+                    <div class="form__button">
+                        <button type="submit" aria-label="Send">Agendar sessão</button>
+                    </div>
+                </form>
+            </div>
+
+            {{ partial "contact-aside.html" . }}
+
+        </div>
+    </div>
+
+{{ end }}

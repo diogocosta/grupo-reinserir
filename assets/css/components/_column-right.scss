@@ -1,0 +1,101 @@
+.column-image-right {
+    padding: 4rem 0;
+
+    .main-container {
+        display: flex;
+        align-items: center;
+    }
+    
+    &__column {
+        max-width: calc(100% - 435px);
+        margin-right: 3rem;
+    }
+    
+    &__link {
+        margin-top: 1rem;
+    }
+    
+    &__image {
+        min-width: 434px;
+        min-height: 434px;
+        position: relative;
+        overflow: hidden;
+    }
+    
+    &__image img {
+        width: 100%;
+        z-index: 1;
+    }
+    
+    &__image-mask {
+        width: 435px;
+        height: 435px;
+        position: absolute;
+        background: url('../images/svg/column-image-right-mask.svg') no-repeat;
+        z-index: 10;
+        margin-left: -1px;
+    }
+    
+    &__image:after {
+        width: 88px;
+        height: 88px;
+        display: block;
+        content: "*";
+        position: absolute;
+        top: 0;
+        right: 5%;
+        z-index: 10;
+        text-indent: -99999px;
+        background: url('../images/svg/column-image-star.svg') no-repeat;
+    }
+}
+
+@media screen and (max-width: 960px) {
+    .column-image-right {
+        padding: 2rem 0;
+    
+        .main-container {
+            flex-direction: column;
+        }
+        
+        &__column {
+            max-width: 100%;
+            margin-right: 0;
+            order: 2;
+        }
+
+        &__column h3 {
+            text-align: center;
+        }
+        
+        &__link {
+            margin-top: 1rem;
+        }
+        
+        &__image {
+            min-width: 300px;
+            min-height: 300px;
+            order: 1;
+            margin-bottom: 2rem;
+        }
+        
+        &__image img {
+            max-width: 300px;
+            max-height: 300px;
+        }
+        
+        &__image-mask {
+            width: 300px;
+            height: 300px;
+            background-size: cover;
+            margin-left: 0;
+        }
+        
+        &__image:after {
+            width: 66px;
+            height: 66px;
+            right: 2%;
+            background-size: contain;
+        }
+    }
+}

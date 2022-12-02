@@ -1,0 +1,28 @@
+{{ define "main" }}
+    {{ partial "welcome.html" . }}
+
+    <div class="articles-list">
+        <div class="full-container">
+            <div class="articles-list__columns">
+
+                {{ range .Pages }}
+                    <div class="article-item" data-aos="fade-up">
+                        <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+
+                        <p class="article-item__author">
+                            Escrito por {{ .Params.author }}</p>
+
+                        <div class="article-item__description">
+                            {{ .Content | plainify | truncate 190 }}
+                        </div>
+
+                        <div class="article-item__button">
+                            <a href="{{ .Permalink }}" class="link-arrow">Leia o artigo</a>
+                        </div>
+                    </div>
+                {{ end }}
+
+            </div>
+        </div>
+    </div>
+{{ end }}
