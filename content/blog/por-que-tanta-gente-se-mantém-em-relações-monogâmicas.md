@@ -6,7 +6,7 @@ status: true
 date: 2023-04-09T04:04:28.424Z
 title: Por que tanta gente se mantém em relações monogâmicas?
 author: Psicóloga Maria Julia Viana da Silva CRP 06/159588
-thumbnail: 68f005d3-91e2-4adb-a851-ea14e9831e03.jpg
+thumbnail: 7cc40702-051b-4b65-b3c4-7911f94e0fbd.jpg
 ---
 <!--StartFragment-->
 
