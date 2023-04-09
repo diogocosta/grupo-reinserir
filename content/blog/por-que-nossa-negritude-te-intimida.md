@@ -6,7 +6,7 @@ status: true
 date: 2023-04-09T16:08:31.890Z
 title: Por que nossa negritude te intimida?
 author: " Sociólogo Rodrigo Breato"
-thumbnail: 140c1377-7a8f-434e-9b1a-4344fa6f2aca.jpg
+thumbnail: 7edb0d02-eb06-4d66-b925-e8c053adc5cb.jpg
 ---
 <!--StartFragment-->
 
