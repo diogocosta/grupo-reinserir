@@ -1,6 +1,6 @@
 ---
 thumbnail: 9bb5ee03-bbd7-468e-8ad2-9a493f73f57e.jpg
-weight: 12
+weight: 10
 title: Bárbara Assis Ferreira de Souza
 role: Psicóloga
 crp: " 06/161713"
