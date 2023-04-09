@@ -1,10 +1,10 @@
 ---
 seo:
   seo_description: Será que assim ele fica?
-  seo_title: '"Tô cansada": sobre a vontade de agradar o outro e a mim. '
+  seo_title: '"Tô cansada": sobre a vontade de agradar o outro e a mim'
 status: true
 date: 2023-04-09T16:25:39.828Z
-title: '"Tô cansada": sobre a vontade de agradar o outro e a mim. '
+title: '"Tô cansada": sobre a vontade de agradar o outro e a mim'
 author: Psicóloga Maria Julia Viana da Silva CRP 06/159588
 thumbnail: 2588cf91-7202-4cee-865e-b17419134250.jpg
 ---
