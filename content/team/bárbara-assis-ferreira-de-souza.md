@@ -1,5 +1,5 @@
 ---
-thumbnail: 80df53c0-8204-4320-95d7-3121a4f34cd4.jpg
+thumbnail: 9bb5ee03-bbd7-468e-8ad2-9a493f73f57e.jpg
 weight: 15
 title: Bárbara Assis Ferreira de Souza
 role: Psicóloga
