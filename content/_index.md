@@ -18,7 +18,7 @@ column_about:
     Uma proposta que *integra* saúde, \
     trabalho e sociedade.
   column_about_content: >-
-    O Grupo Reinserir é composto hoje por 25 (vinte e cinco) psicólogos que ao
+    O Grupo Reinserir é composto hoje por 26 (vinte e seis) psicólogos que ao
     longo de suas trajetórias profissionais atuaram e continuam atuando com
     diversos projetos nas áreas: social, organizacional e clínica. 
 
