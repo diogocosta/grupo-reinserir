@@ -1,0 +1,10 @@
+---
+thumbnail: 63982929-ec66-4998-b3f8-024c9e8e15d4.jpg
+weight: 2
+title: "Priscila Pereira Nunes "
+role: Psicóloga
+crp: 12/19984
+---
+Psicóloga desde 2020, pela Universidade Federal de Santa Catarina. Durante a graduação buscou se envolver em diferentes projetos, atuando como Bolsista de Iniciação Científica pelo CNPq, realizando estágios não-obrigatórios em diferentes contextos e realizando seus estágios obrigatórios no campo Organizacional e na área de Saúde. Teve diversas experiências na área de Psicologia Organizacional, realizando estágios não obrigatórios e obrigatórios na área de Gestão de Pessoas e Recrutamento e Seleção. Chegou a atuar por cerca de quase dois anos após formada na área, mas hoje dedica-se apenas aos atendimentos clínicos.
+Participou de três projetos de pesquisa, sobre os Psicólogos Organizacionais no Sul do país, com Adolescentes e suas representações sobre jogos e também participou de um Projeto envolvendo pessoas com diagnóstico de Esquizofrenia atendidas em um ambulatório do sul do país, onde pode aplicar avaliações psicológicas para estas pessoas e seus familiares e se vincular aos grupos sobre suas vivências a partir do diagnóstico. Estas pesquisas geraram artigos acadêmicos que podem ser acessados em seu currículo Lattes. Ainda durante a graduação, realizou estágio no Serviço de atendimento Psicológico da UFSC, realizando atendimentos de Famílias, Casais e Adultos. 
+Hoje realiza seus atendimentos a partir da Teoria da Psicologia Relacional Sistêmica, uma teoria que busca compreender os indivíduos em seus diferentes contextos e suas relações. Também realiza atendimentos clínicos observando as interseccionalidades de cada pessoa, seu gênero, raça ,classe social, compreendendo os atravessamentos sociais da individualidade de cada pessoa. Também busca referências em outras teorias de acordo com cada demanda, pois compreende que uma única teoria não dá conta da vida. Realiza atendimentos online.
