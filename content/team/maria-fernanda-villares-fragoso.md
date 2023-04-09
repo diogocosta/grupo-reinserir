@@ -1,5 +1,5 @@
 ---
-thumbnail: ef32d74f-7efb-40be-94fd-b7a6e5e2c367.jpg
+thumbnail: ddb5eb78-2ae8-491b-8331-91978bf30425.jpg
 weight: 5
 title: "Maria Fernanda Villares Fragoso "
 role: Psicóloga
