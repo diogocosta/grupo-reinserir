@@ -1,8 +1,8 @@
 backend:
     name: git-gateway
-    branch: main # Branch to update (optional; defaults to master)
-
-local_backend: true
+    branch: main
+    repo: diogocosta/grupo-reinserir
+    
 media_folder: "/static/images"
 public_folder: /images
 
