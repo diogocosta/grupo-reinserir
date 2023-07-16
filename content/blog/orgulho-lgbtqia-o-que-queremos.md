@@ -7,7 +7,7 @@ status: true
 date: 2023-07-16T22:16:32.387Z
 title: "ORGULHO LGBTQIA+: O QUE QUEREMOS?"
 author: Psicóloga Maria Julia Viana da Silva CRP 06/159588
-thumbnail: gh.jpg
+thumbnail: bshshdushdus.jpg
 ---
 <!--StartFragment-->
 
