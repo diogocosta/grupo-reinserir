@@ -7,7 +7,7 @@ status: true
 date: 2023-07-16T22:42:18.010Z
 title: '"Eu quero viver sem questionar se quando tô feliz você fica incomodado"'
 author: Psicóloga Maria Julia Viana da Silva CRP 06/159588
-thumbnail: c46d3bc1-5395-4587-a42f-e654fb9a9c52.jpg
+thumbnail: yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy.jpg
 ---
 <!--StartFragment-->
 
