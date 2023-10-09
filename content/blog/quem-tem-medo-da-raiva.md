@@ -9,7 +9,7 @@ status: true
 date: 2023-10-09T01:28:54.882Z
 title: Quem tem medo da raiva?
 author: Psicóloga Maria Julia Viana da Silva CRP 06/159588
-thumbnail: llllllllllllll.jpg
+thumbnail: t.jpg
 ---
 <!--StartFragment-->
 
