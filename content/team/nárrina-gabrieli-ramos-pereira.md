@@ -1,5 +1,5 @@
 ---
-thumbnail: 9e5844d6-5da7-4acc-8cd2-0cf9c8e90551.jpg
+thumbnail: sem-título.jpg
 weight: 4
 title: "Nárrina Gabrieli Ramos Pereira "
 role: Psicóloga
