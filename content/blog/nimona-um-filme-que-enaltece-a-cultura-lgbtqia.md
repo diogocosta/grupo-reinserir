@@ -5,7 +5,7 @@ seo:
 status: true
 date: 2023-10-09T00:51:49.095Z
 title: '"Nimona": um filme que enaltece a cultura LGBTQIA+'
-author: Escrito pela Psicanalista Marielle Cristine de Melo Santos
+author: Psicanalista Marielle Cristine de Melo Santos
 thumbnail: mmm.jpg
 ---
 <!--StartFragment-->
