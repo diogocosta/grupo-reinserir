@@ -6,7 +6,7 @@ status: true
 date: 2023-10-12T02:25:16.323Z
 title: Mãe controladora e pai "banana". O que há por trás dessa receita tão popular?
 author: " Psicóloga Nárrina Gabrieli Ramos Pereira CRP 06/159448 "
-thumbnail: ac795c43-b4ac-46e4-aea9-c42508f5c659.jpg
+thumbnail: 5d7fa000-88a6-4a3d-a7f4-6e5c38787a01.jpg
 ---
 Machismo é claro. 
 
