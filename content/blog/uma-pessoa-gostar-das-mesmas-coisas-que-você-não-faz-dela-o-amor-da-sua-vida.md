@@ -8,7 +8,7 @@ status: true
 date: 2023-10-29T22:29:14.849Z
 title: Uma pessoa gostar das mesmas coisas que você, não faz dela o amor da sua vida
 author: Psicóloga Thayná da Cruz Viana CRP 06/191696
-thumbnail: 0c11dc26-31d3-4ab9-af39-b4bba734cc77.jpg
+thumbnail: sem-títulon.jpg
 ---
 <!--StartFragment-->
 
