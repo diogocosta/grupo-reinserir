@@ -7,7 +7,7 @@ status: true
 date: 2024-02-15T01:58:46.557Z
 title: "Imagem Corporal: Percepção e Modificações"
 author: Psicóloga Amanda Viana Ribeiro CRP 06/182343
-thumbnail: sem-título.jpg
+thumbnail: sem-m.jpg
 ---
 <!--StartFragment-->
 
