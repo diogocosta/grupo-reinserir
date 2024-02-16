@@ -1,5 +1,5 @@
 ---
-thumbnail: sem-título.jpg
+thumbnail: mkmkmkmkmkmkmkmk.jpg
 weight: 9
 title: Felipe dos Santos Minichelli
 role: Psicólogo
