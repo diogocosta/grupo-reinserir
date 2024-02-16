@@ -1,5 +1,5 @@
 ---
-thumbnail: sem-título.jpg
+thumbnail: 521a9fb1-f054-4e84-89e8-83db7ac01a27.jpg
 weight: 4
 title: Amanda Viana Ribeiro
 role: Psicóloga
