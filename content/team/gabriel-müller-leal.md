@@ -1,5 +1,5 @@
 ---
-thumbnail: sem-título.jpg
+thumbnail: gabriel.jpg
 weight: 5
 title: Gabriel Müller Leal
 role: "Psicólogo "
