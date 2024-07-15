@@ -7,7 +7,7 @@ date: 2024-07-15T03:03:01.144Z
 title: E o bofe chorão?
 author: Psicóloga Nárrina Gabrieli Ramos Pereira CRP 06/159448 e Psicóloga
   Natália Aparecida da Silva CRP 06/144439
-thumbnail: thumbnail_4769a721-43db-454a-bfbc-780d917be266.jpg
+thumbnail: 97dd9e69-c8a6-47e7-a1fd-4ffc84289dd8.jpg
 ---
 <!--StartFragment-->
 
