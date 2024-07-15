@@ -8,7 +8,7 @@ date: 2024-07-15T02:44:47.526Z
 title: A não-monogamia e o machismo nosso de cada dia
 author: " Psicóloga Nárrina Gabrieli Ramos Pereira CRP 06/159448 e Psicóloga
   Natália Aparecida da Silva CRP 06/144439"
-thumbnail: e40abd5b-f686-40f0-b4ab-2c16b4466700.jpg
+thumbnail: 1.jpg
 ---
 <!--StartFragment-->
 
