@@ -6,7 +6,7 @@ status: true
 date: 2024-07-15T03:36:19.962Z
 title: '"A pessoa com quem me relaciono é racista. E agora?"'
 author: Sociólogo Rodrigo Breato e Psicóloga Natália Aparecida da Silva CRP 06/144439
-thumbnail: 33ab219a-c8f3-4164-a870-b8db98e4f916.jpg
+thumbnail: linn.jpg
 ---
 <!--StartFragment-->
 
