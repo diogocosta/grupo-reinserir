@@ -15,7 +15,7 @@ date: 2024-07-15T03:49:24.668Z
 title: '"Dependência emocional" a gente cuida construindo e fortalecendo outras
   relações'
 author: " Psicóloga Nárrina Gabrieli Ramos Pereira CRP 06/159448"
-thumbnail: 1.jpg
+thumbnail: mkmkmkmk.jpg
 ---
 <!--StartFragment-->
 
