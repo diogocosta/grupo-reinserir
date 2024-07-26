@@ -8,7 +8,7 @@ status: true
 date: 2024-07-15T04:03:17.239Z
 title: Como a psicologia categoriza as crianças transexuais?
 author: Psicóloga Nárrina Gabrieli Ramos Pereira CRP 06/159448
-thumbnail: 1.jpg
+thumbnail: sem-título.jpg
 ---
 <!--StartFragment-->
 
