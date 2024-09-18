@@ -6,7 +6,7 @@ status: true
 date: 2024-07-15T03:58:55.973Z
 title: A crise do outro não é algo pessoal contra você
 author: Psicóloga Nárrina Gabrieli Ramos Pereira CRP 06/159448
-thumbnail: 33ab219a-c8f3-4164-a870-b8db98e4f916.jpg
+thumbnail: imagem-do-whatsapp-de-2024-09-18-à-s-15.09.46_f6c33f1e.jpg
 ---
 <!--StartFragment-->
 
