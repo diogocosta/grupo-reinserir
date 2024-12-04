@@ -1,5 +1,5 @@
 ---
-thumbnail: be143c75-a307-4182-bc03-ff5f1445c238.jpg
+thumbnail: sem-título.jpg
 weight: 11
 title: Juliana Silva
 role: Atendimento e Gerente de Mídias Sociais
