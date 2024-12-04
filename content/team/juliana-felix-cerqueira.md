@@ -1,5 +1,5 @@
 ---
-thumbnail: 0000000000000000000000000000.jpg
+thumbnail: 3c61fad7-5786-4417-b70a-008993d040b6.jpg
 weight: 5
 title: Juliana Felix Cerqueira
 role: Psicóloga
