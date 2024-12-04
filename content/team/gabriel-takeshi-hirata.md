@@ -3,7 +3,7 @@ thumbnail: 2110c5b9-dae3-4237-a312-715bfdd6772b.jpg
 weight: 7
 title: Gabriel Takeshi Hirata
 role: Psicanalista
-crp: "0"
+crp: .
 ---
 Psicanalista, que em seu percurso formativo tem a ética instituinte de coletivos situados nos territórios periféricos de São Paulo. Compreende nessa ética que o território - e consequentemente  o contexto sócio-político em que vivemos - é uma questão de como nos relacionamos com aquilo que nos impede de falar e de sermos escutados. 
 
