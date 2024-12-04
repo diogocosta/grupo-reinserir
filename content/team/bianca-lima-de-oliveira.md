@@ -1,7 +1,7 @@
 ---
 thumbnail: 94f3d7ea-20c1-4d2b-a3b1-abe3a74e7b86.jpg
 weight: 6
-title: Bianca Lima de Oliveira
+title: Bianca Spinola Lapa
 role: Psicóloga
 crp: 06/158048
 ---
