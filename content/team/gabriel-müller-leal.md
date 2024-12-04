@@ -1,7 +1,7 @@
 ---
 thumbnail: gabriel.jpg
 weight: 5
-title: Gabriel Müller Leal
+title: Gabriel de Andrade Carvalho Müller Leal
 role: "Psicólogo "
 crp: 04/44038
 ---
