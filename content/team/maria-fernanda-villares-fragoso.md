@@ -1,11 +1,14 @@
 ---
-thumbnail: ddb5eb78-2ae8-491b-8331-91978bf30425.jpg
+thumbnail: bdd91c80-b6e7-450d-9f6a-4e570a545197.jpg
 weight: 5
 title: "Maria Fernanda Villares Fragoso "
 role: Psicóloga
 crp: 06/190603
 ---
-Psicóloga formada pela Pontifícia Universidade Católica de São Paulo. Realiza pós-graduação no aprimoramento da DERDIC/PUC-SP: "Psicanálise e Saúde Mental: intervenções institucionais na clínica psicanalítica com crianças". Fez os cursos de Acompanhamento Terapêutico no Instituto A Casa e, atualmente, realiza o estágio de acompanhamento terapêutico em um Serviço de Residência Terapêutica (SRT). 
-Participa de grupos de estudo/pesquisa sobre Psicanálise e Ciência pelo olhar da teoria freudiana e lacaniana e realiza um curso de formação em psicanálise lacaniana no Instituto Gerar de Psicanálise. 
-Compõe a equipe da Rede SUR: Psicanálise e Intervenção Social, através do qual tem realizado trabalhos como: escuta territorial, coordenação de grupo de crianças e atendimentos na rua para população do território na fila de um Centro Municipal de Educação Infantil (CEMEI). 
-Realizou cursos como "Psicanálise e a Questão Queer"; "A recepção do perspectivismo ameríndio na área psi"; "Feminismo Decolonial: temas e conceitos centrais" no Espaço Cult; além de grupos de estudos e monitorias em psicanálise lacaniana e psicanálise de grupos.
+Psicóloga e Psicanalista formada pela PUC-SP. Pós-graduada pela PUC-SP nos aprimoramentos “Psicanálise e Saúde Mental: intervenções institucionais na clínica psicanalítica com crianças” e “A clínica psicanalítica com crianças e adolescentes nas instituições de saúde pública”. 
+
+Formada em Acompanhamento Terapêutico pelo Instituto A Casa. Participante das formações clínicas do Fórum do Campo Lacaniano de São Paulo. Compõe a equipe da Rede SUR: Psicanálise e Intervenção Social, coletivo de clínica pública que trabalha em articulação com a psicanálise, nas situações sociais críticas. 
+
+Realizou curso sobre psicanálise lacaniana no Instituto Gerar de Psicanálise, além de outros cursos no Espaço Cult: “Psicanálise e a Questão Queer”, “A recepção do perspectivismo ameríndio pela área psi”, “Feminismo Decolonial: temas e conceitos centrais”. Realizou grupos de estudos sobre as psicoses em Lacan e monitoria sobre o processo grupal em articulação com a psicanálise. 
+
+Tem experiência com atendimento de grupos, crianças, adolescentes e adultos.
