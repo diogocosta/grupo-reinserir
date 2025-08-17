@@ -7,7 +7,7 @@ date: 2025-08-17T00:59:49.535Z
 title: Tudo que acelera o coração é ansiedade?
 author: Escrito por Psicóloga Nárrina Gabrieli Ramos Pereira CRP 06/159448 e
   Psicóloga Natália Aparecida da Silva CRP 06/144439
-thumbnail: sem-título.jpg
+thumbnail: nanana.jpg
 ---
 <!--StartFragment-->
 
