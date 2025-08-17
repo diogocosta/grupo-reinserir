@@ -8,7 +8,7 @@ status: true
 date: 2025-08-17T01:11:05.448Z
 title: O refúgio das relações acolhedoras
 author: Psicóloga Maria Julia Viana da Silva CRP 06/159588
-thumbnail: sem-título.jpg
+thumbnail: lol.jpg
 ---
 <!--StartFragment-->
 
