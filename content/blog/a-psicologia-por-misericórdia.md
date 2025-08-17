@@ -8,7 +8,7 @@ status: true
 date: 2025-08-17T00:25:18.279Z
 title: A psicologia por misericórdia
 author: Psicóloga Maria Julia Viana da Silva CRP 06/159588
-thumbnail: sem-título.jpg
+thumbnail: mi.jpg
 ---
 <!--StartFragment-->
 
