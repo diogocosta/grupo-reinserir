@@ -7,7 +7,7 @@ status: true
 date: 2025-08-17T00:50:11.261Z
 title: O preço da competitividade
 author: Psicóloga Maria Julia Viana da Silva CRP 06/159588
-thumbnail: sem-título.jpg
+thumbnail: mkmkmkmkmkm.jpg
 ---
 <!--StartFragment-->
 
