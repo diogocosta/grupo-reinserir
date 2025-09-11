@@ -3,7 +3,7 @@ seo:
   seo_title: "Neurodivergente: será que eu sou?"
   seo_description: Quem, nos últimos anos, não passou por um vídeo sobre TDAH e
     pensou “ah então é isso que eu tenho”, não é mesmo?
-status: true
+status: false
 date: 2025-08-17T22:10:50.819Z
 title: "Neurodivergente: será que eu sou?"
 author: Psicóloga Nárrina Gabrieli Ramos Pereira CRP 06/159448
