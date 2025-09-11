@@ -7,25 +7,31 @@
 
     <nav id="main-navigation" class="main-navigation">
         <ul>
-            <li><a href="/quem-somos" {{ if eq .Permalink "/quem-somos/"}}class="current"{{end}}>Quem Somos</a></li>
-            <li><a href="/oque-fazemos" {{ if eq .Permalink "/oque-fazemos/"}}class="current"{{end}}>O que fazemos</a></li>
-            <li><a href="/blog" {{ if eq .Permalink "/blog/"}}class="current"{{end}}>Blog</a></li>
-            <li><a href="/fale-conosco" {{ if eq .Permalink "/fale-conosco/"}}class="current"{{end}}>Fale Conosco</a></li>
-            <li><a href="/agende" class="link-special {{ if eq .Permalink "/agende/"}}current{{end}}">Agende uma sessão</a></li>
+            <li><a href="/quem-somos" {{ if eq .Permalink "/quem-somos/" }}class="current" {{end}}>Quem Somos</a></li>
+            <li><a href="/oque-fazemos" {{ if eq .Permalink "/oque-fazemos/" }}class="current" {{end}}>O que fazemos</a>
+            </li>
+            <li><a href="/blog" {{ if eq .Permalink "/blog/" }}class="current" {{end}}>Blog</a></li>
+            <li><a href="/fale-conosco" {{ if eq .Permalink "/fale-conosco/" }}class="current" {{end}}>Fale Conosco</a>
+            </li>
+            <li><a href="https://l.instagram.com/?u=https%3A%2F%2Fwww.amazon.com.br%2Fdp%2F652810204X%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAadvCPZgFfSC3raSQe3mH_i14zZdTN0x_fxGtZq3fwEW0A4H1_QOUn2f1nBgsw_aem_WVXx6z9OVF46TE81WVHsPQ&e=AT3fbZtvA4VqwZLW9PEkHuAl72ugrArpMnkICEsFpUYTkLdlJwauw7xykUL5rHljtA10eKMKaeHYjoojryNi8N7E8uLfLQ5k6WVjcN0p5g"
+                    class="link-special" target="_blank" style="color: #D8262D;">Compre nosso livro!</a></li>
+            <li><a href="/agende" class="link-special {{ if eq .Permalink " /agende/"}}current{{end}}">Agende uma
+                    sessão</a></li>
         </ul>
 
         <ul class="main-navigation__social">
-            <li><a href="https://api.whatsapp.com/send/?phone=%2B55011951064510&text=ol%C3%A1+Reinserir&type=phone_number&app_absent=0" target="_blank" rel="noreferrer" class="social social--whatsapp">Whatsapp</a></li>
-            <li><a href="https://www.facebook.com/gruporeinserir" target="_blank" rel="noreferrer" class="social social--facebook">Facebook</a></li>
-            <li><a href="https://www.instagram.com/gruporeinserir/" target="_blank" rel="noreferrer" class="social social--instagram">Instagram</a></li>
-            <li><a href="https://www.tiktok.com/@gruporeinserirpsicologia" target="_blank" rel="noreferrer" class="social social--tiktok">TikTok</a></li>
+            <li><a href="https://api.whatsapp.com/send/?phone=%2B55011951064510&text=ol%C3%A1+Reinserir&type=phone_number&app_absent=0"
+                    target="_blank" rel="noreferrer" class="social social--whatsapp">Whatsapp</a></li>
+            <li><a href="https://www.facebook.com/gruporeinserir" target="_blank" rel="noreferrer"
+                    class="social social--facebook">Facebook</a></li>
+            <li><a href="https://www.instagram.com/gruporeinserir/" target="_blank" rel="noreferrer"
+                    class="social social--instagram">Instagram</a></li>
+            <li><a href="https://www.tiktok.com/@gruporeinserirpsicologia" target="_blank" rel="noreferrer"
+                    class="social social--tiktok">TikTok</a></li>
         </ul>
     </nav>
-    
-    <button
-        class="main-header__button-mobile-menu"
-        aria-label="See Menu"
-        onClick="openMenuMobile(event)"></button>
+
+    <button class="main-header__button-mobile-menu" aria-label="See Menu" onClick="openMenuMobile(event)"></button>
 </header>
 
 <script>

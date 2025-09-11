@@ -1,0 +1,26 @@
+<div class="column-book" data-aos="fade-up">
+    <div class="main-container">
+        <div class="column-book-left__column">
+            <h3>{{ $.Params.column_book.column_book_title | markdownify }}</h3>
+
+            <div class="sublead-content">
+                {{ $.Params.column_book.column_book_content | markdownify }}
+            </div>
+
+            <div class="column-book-left__link">
+                <a href="{{ $.Params.column_book.column_book_column_link.column_book_column_link_href }}"
+                    class="link-arrow" target="_blank">
+                    {{ $.Params.column_book.column_book_column_link.column_book_column_link_title }}
+                </a>
+            </div>
+        </div>
+
+        <div class="column-book__image">
+            {{ range $.Page.Resources.Match $.Params.column_book.column_book_image }}
+            {{ $small_image := .Resize "10x" }}
+            <img class="lazyload" alt="Grupo Reinserir" loading="lazy" src="{{ $small_image.RelPermalink }}"
+                data-src="{{ .RelPermalink }}" />
+            {{ end }}
+        </div>
+    </div>
+</div>

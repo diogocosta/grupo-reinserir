@@ -1,0 +1,37 @@
+.column-book {
+  padding: 4rem 0;
+
+  .main-container {
+    display: flex;
+    align-items: center;
+  }
+
+  &__column {
+    margin-left: auto;
+  }
+
+  &__link {
+    margin-top: 1rem;
+  }
+
+  &__image {
+    position: relative;
+    overflow: hidden;
+    min-width: 50%;
+
+    img {
+      width: 100%;
+      z-index: 1;
+      position: relative;
+    }
+  }
+}
+
+@media screen and (max-width: 960px) {
+.column-book {
+  .main-container {
+    flex-direction: column;
+  }
+  &__image { order: -1;}
+}
+}
