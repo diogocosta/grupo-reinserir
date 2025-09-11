@@ -4,7 +4,7 @@ seo:
   seo_description: Aprendi a amar sem a necessidade de ser única e que amar outras
     pessoas enquanto amava você não diminuía o que sentia e, com isso, percebi
     que o amor tem tantos outros jeitos de ser.
-status: true
+status: false
 date: 2025-08-17T21:52:22.989Z
 title: Tudo o que (des)aprendi sobre o amor
 author: Psicóloga Maria Julia Viana da Silva CRP 06/159588
