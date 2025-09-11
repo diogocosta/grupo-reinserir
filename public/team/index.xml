@@ -2,306 +2,199 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Grupo Reinserir</title>
-    <link>https://www.gruporeinserir.com.br/team/</link>
+    <link>http://localhost:1313/team/</link>
     <description>Recent content on Grupo Reinserir</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>pt-BR</language><atom:link href="https://www.gruporeinserir.com.br/team/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>pt-BR</language>
+    <atom:link href="http://localhost:1313/team/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Natália Aparecida da Silva </title>
-      <link>https://www.gruporeinserir.com.br/team/nata%CC%81lia-silva/</link>
+      <link>http://localhost:1313/team/nat%C3%A1lia-silva/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/team/nata%CC%81lia-silva/</guid>
-      <description>Psicóloga Graduada pela Universidade Anhembi Morumbi, conta em sua trajetória acadêmica com os estudos de Mediação de Conflitos e Educadora Social Pelo Senac, extensão em Sujeitos da Psicanálise pela Pontifícia Universidade Católica e pesquisas em Psicologia Social sobre gênero e sexualidade, com ênfase na população trans e travesti. Vasta experiência na área Organizacional e do Trabalho, com destaque para Recrutamento e Seleção de pessoas. Na área de Psicologia Hospitalar, possui experiência com atendimentos psicológicos individuais a pacientes com insuficiência renal crônica e a seus familiares.</description>
+      <guid>http://localhost:1313/team/nat%C3%A1lia-silva/</guid>
+      <description>&lt;p&gt;Psicóloga Graduada pela Universidade Anhembi Morumbi, conta em sua trajetória acadêmica com os estudos de Mediação de Conflitos e Educadora Social Pelo Senac, extensão em Sujeitos da Psicanálise pela Pontifícia Universidade Católica e pesquisas em Psicologia Social sobre gênero e sexualidade, com ênfase na população trans e travesti. Vasta experiência na área Organizacional e do Trabalho, com destaque para Recrutamento e Seleção de pessoas. Na área de Psicologia Hospitalar, possui experiência com atendimentos psicológicos individuais a pacientes com insuficiência renal crônica e a seus familiares. Atuação na área Social em instituição de terceiro setor (ONG) como Gestora de Projetos e Psicóloga Social. Fundadora do Grupo Reinserir, uma clínica de Psicologia que desenvolve diversos projetos nas áreas: clínica, organizacional e social. No que diz respeito aos atendimentos clínicos, atende com Orientação Psicanalítica.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Diogo Freitas Costa </title>
-      <link>https://www.gruporeinserir.com.br/team/diogo-freitas-costa/</link>
+      <link>http://localhost:1313/team/diogo-freitas-costa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/team/diogo-freitas-costa/</guid>
-      <description>Psicólogo graduado pela Universidade Anhembi Morumbi. Durante a graduação realizou atendimento de crianças, adolescentes e adultos. Estagiou na ONG Rede Cidadã e no CAPS Adulto Cidade Ademar. Formado como Coordenador de Grupos pelo Instituto de Psicologia Social de Porto Alegre Pichon-Rivière. Oferece atendimento presencial e online sob orientação psicanalítica&amp;hellip;
-Antes de ser psicólogo, cursou Comunicação Social com habilitação em Design Digital na Universidade Ibero-Americana. Atuou por 15 anos como designer e programador em agências e startups, atendendo grandes clientes como Google, Abril, WalMart, Magazine Luiza e muitos outros.</description>
+      <guid>http://localhost:1313/team/diogo-freitas-costa/</guid>
+      <description>&lt;p&gt;Psicólogo graduado pela Universidade Anhembi Morumbi. Durante a graduação realizou atendimento de crianças, adolescentes e adultos. Estagiou na ONG Rede Cidadã e no CAPS Adulto Cidade Ademar. Formado como Coordenador de Grupos pelo Instituto de Psicologia Social de Porto Alegre Pichon-Rivière. Oferece atendimento presencial e online sob orientação psicanalítica&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Antes de ser psicólogo, cursou Comunicação Social com habilitação em Design Digital na Universidade Ibero-Americana. Atuou por 15 anos como designer e programador em agências e startups, atendendo grandes clientes como Google, Abril, WalMart, Magazine Luiza e muitos outros.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Kézia Silva Castro de Almeida</title>
+      <link>http://localhost:1313/team/k%C3%A9zia-silva-castro-de-almeida/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/team/k%C3%A9zia-silva-castro-de-almeida/</guid>
+      <description>&lt;p&gt;Psicóloga Clínica (USJT), pesquisadora de saúde mental no Brasil e psicanalista em formação.&lt;/p&gt;&#xA;&lt;p&gt;Atuou com projetos de Diversidade e Inclusão no setor corporativo. Trabalhou com enfrentamento a violência doméstica, prestando acolhimento as vítimas.&lt;/p&gt;&#xA;&lt;p&gt;Participou de formações em Psicanálise e Relações Raciais e de Gênero com foco na clínica. Militou em movimento estudantil  e desenvolveu projetos de pesquisa nos mesmos temas.&lt;/p&gt;&#xA;&lt;p&gt;Atua na clínica desde 2020 desenvolvendo um trabalho de escuta com um olhar sensível para as questões sociais e seus atravessamentos no sofrimento de cada sujeito. Atendimentos para adultos e idosos, on-line ou presencial.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Priscila Pereira Nunes </title>
-      <link>https://www.gruporeinserir.com.br/team/priscila-pereira-nunes/</link>
+      <link>http://localhost:1313/team/priscila-pereira-nunes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/team/priscila-pereira-nunes/</guid>
-      <description>Psicóloga desde 2020, pela Universidade Federal de Santa Catarina. Durante a graduação buscou se envolver em diferentes projetos, atuando como Bolsista de Iniciação Científica pelo CNPq, realizando estágios não-obrigatórios em diferentes contextos e realizando seus estágios obrigatórios no campo Organizacional e na área de Saúde. Teve diversas experiências na área de Psicologia Organizacional, realizando estágios não obrigatórios e obrigatórios na área de Gestão de Pessoas e Recrutamento e Seleção. Chegou a atuar por cerca de quase dois anos após formada na área, mas hoje dedica-se apenas aos atendimentos clínicos.</description>
+      <guid>http://localhost:1313/team/priscila-pereira-nunes/</guid>
+      <description>&lt;p&gt;Psicóloga desde 2020, pela Universidade Federal de Santa Catarina. Durante a graduação buscou se envolver em diferentes projetos, atuando como Bolsista de Iniciação Científica pelo CNPq, realizando estágios não-obrigatórios em diferentes contextos e realizando seus estágios obrigatórios no campo Organizacional e na área de Saúde. Teve diversas experiências na área de Psicologia Organizacional, realizando estágios não obrigatórios e obrigatórios na área de Gestão de Pessoas e Recrutamento e Seleção. Chegou a atuar por cerca de quase dois anos após formada na área, mas hoje dedica-se apenas aos atendimentos clínicos.&#xA;Participou de três projetos de pesquisa, sobre os Psicólogos Organizacionais no Sul do país, com Adolescentes e suas representações sobre jogos e também participou de um Projeto envolvendo pessoas com diagnóstico de Esquizofrenia atendidas em um ambulatório do sul do país, onde pode aplicar avaliações psicológicas para estas pessoas e seus familiares e se vincular aos grupos sobre suas vivências a partir do diagnóstico. Estas pesquisas geraram artigos acadêmicos que podem ser acessados em seu currículo Lattes. Ainda durante a graduação, realizou estágio no Serviço de atendimento Psicológico da UFSC, realizando atendimentos de Famílias, Casais e Adultos.&#xA;Hoje realiza seus atendimentos a partir da Teoria da Psicologia Relacional Sistêmica, uma teoria que busca compreender os indivíduos em seus diferentes contextos e suas relações. Também realiza atendimentos clínicos observando as interseccionalidades de cada pessoa, seu gênero, raça ,classe social, compreendendo os atravessamentos sociais da individualidade de cada pessoa. Também busca referências em outras teorias de acordo com cada demanda, pois compreende que uma única teoria não dá conta da vida. Realiza atendimentos online.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Alanis Domingues Cardoso</title>
+      <link>http://localhost:1313/team/alanis-domingues-cardoso/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/team/alanis-domingues-cardoso/</guid>
+      <description>&lt;p&gt;Psicóloga Histórico Cultural&lt;/p&gt;&#xA;&lt;p&gt;Formada em 2019 pela Universidade Anhembi Morumbi, iniciou sua trajetória clínica no ano seguinte, na modalidade online, devido a Covid -19. Atuou também durante três anos em um Centro de Atenção Psicossocial Infantojuvenil e na Unidade de Acolhimento IJ como Acompanhante Terapêutica de crianças e adolescentes.&lt;/p&gt;&#xA;&lt;p&gt;Ao longo de sua formação, se debruçou principalmente sobre o uso de substâncias e redução de danos, realizando uma pesquisa de campo sobre o uso de drogas pela juventude na periferia de São Paulo.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Helena Gullo Barcellos da Silva</title>
-      <link>https://www.gruporeinserir.com.br/team/helena-gullo-barcellos-da-silva/</link>
+      <link>http://localhost:1313/team/helena-gullo-barcellos-da-silva/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/team/helena-gullo-barcellos-da-silva/</guid>
-      <description>Psicóloga graduada pela PUC-SP. Realizou dois anos do curso de aperfeiçoamento &amp;ldquo;Clínica psicanalítica: conflito e sintoma&amp;rdquo; do Instituto Sedes Sapientiae. Também realizou o curso de Acompanhamento Terapêutico do Instituto A Casa. Já trabalhou como acompanhante terapêutica e é psicóloga voluntária do programa &amp;ldquo;Com Tato&amp;rdquo;-pertencente ao Instituto Fazendo História- que oferece psicoterapia gratuita para as crianças e adolescentes acolhidos em SAICAS. Experiência em instituições como Projeto Quixote, voltado ao atendimento de crianças e adolescentes em situação de vulnerabilidade social e o Centro de Acolhida do Amparo Maternal, serviço de acolhimento para mães e bebês.</description>
+      <guid>http://localhost:1313/team/helena-gullo-barcellos-da-silva/</guid>
+      <description>&lt;p&gt;Psicóloga graduada pela PUC-SP.&#xA;Realizou dois anos do curso de aperfeiçoamento &amp;ldquo;Clínica psicanalítica: conflito e sintoma&amp;rdquo; do Instituto Sedes Sapientiae. Também realizou o curso de Acompanhamento Terapêutico do Instituto A Casa. Já trabalhou como acompanhante terapêutica e é psicóloga voluntária do programa &amp;ldquo;Com Tato&amp;rdquo;-pertencente ao Instituto Fazendo História- que oferece psicoterapia gratuita para as crianças e adolescentes acolhidos em SAICAS.&#xA;Experiência em instituições como Projeto Quixote, voltado ao atendimento de crianças e adolescentes em situação de vulnerabilidade social e o Centro de Acolhida do Amparo Maternal, serviço de acolhimento para mães e bebês.&#xA;Durante a graduação participou do programa de Educação pelo Trabalho para a Saúde (PET Saúde). Neste programa, acompanhou o trabalho das equipes multiprofissionais em serviços de atenção à saúde como CAPS-IJ Freguesia do Ó Brasilândia, CER Freguesia do Ó e UBS Jardim Vista Alegre.&#xA;Seus atendimentos clínicos a crianças, adolescentes e adultos são orientados a partir da abordagem psicanalítica.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Marielle Cristine de Melo Santos </title>
-      <link>https://www.gruporeinserir.com.br/team/marielle-cristine-de-melo-santos/</link>
+      <link>http://localhost:1313/team/marielle-cristine-de-melo-santos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/team/marielle-cristine-de-melo-santos/</guid>
-      <description>Psicanalista atuante desde 2019, iniciou seus estudos em Psicanálise na Sociedade Brasileira de Psicanálise Integrativa. Participou da Clínica Social atendendo principalmente mulheres em estado de vulnerabilidade na mesma Instituição.
-Participa de grupos de estudos da teoria Freudiana e Pesquisa sobre Raça, Classe e Gênero.
-Cursos de aperfeiçoamento: O inferno do dever - O discurso do obsessivo; Psicanálise e os Olhares sobre Sexualidade e Gênero.
-Atende em consultório particular em São Paulo e online para todo o Brasil e brasileiros que moram no exterior.</description>
+      <guid>http://localhost:1313/team/marielle-cristine-de-melo-santos/</guid>
+      <description>&lt;p&gt;Psicanalista atuante desde 2019, iniciou seus estudos em Psicanálise na Sociedade Brasileira de Psicanálise Integrativa. Participou da Clínica Social atendendo principalmente mulheres em estado de vulnerabilidade na mesma Instituição.&lt;/p&gt;&#xA;&lt;p&gt;Participa de grupos de estudos da teoria Freudiana e Pesquisa sobre Raça, Classe e Gênero.&lt;/p&gt;&#xA;&lt;p&gt;Cursos de aperfeiçoamento:&#xA;O inferno do dever - O discurso do obsessivo;&#xA;Psicanálise e os Olhares sobre Sexualidade e Gênero.&lt;/p&gt;&#xA;&lt;p&gt;Atende em consultório particular em São Paulo e online para todo o Brasil e brasileiros que moram no exterior.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Raiani da Silva Rodrigues Cheregatto</title>
-      <link>https://www.gruporeinserir.com.br/team/raiani-da-silva-rodrigues-cheregatto/</link>
+      <link>http://localhost:1313/team/raiani-da-silva-rodrigues-cheregatto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/team/raiani-da-silva-rodrigues-cheregatto/</guid>
-      <description>Graduada em Psicologia pela Universidade Presbiteriana Mackenzie (2020).
-Foi monitora do Laboratório de Estudos da Violência e Vulnerabilidade Social (LEVV).
-Atuou durante dois anos no Instituto de Saúde, colaborando com a realização de pesquisas científicas que têm como objetivo gerar subsídios para o Sistema Único de Saúde (SUS). Co-autora de capítulos de livros, articulando, principalmente, os seguintes temas: saúde coletiva, raça, gênero e classe.
-Experiência em Centros de Atenção Psicossocial (CAPS), serviços do SUS voltados ao cuidado em saúde mental.</description>
+      <guid>http://localhost:1313/team/raiani-da-silva-rodrigues-cheregatto/</guid>
+      <description>&lt;p&gt;Graduada em Psicologia pela Universidade Presbiteriana Mackenzie (2020).&lt;/p&gt;&#xA;&lt;p&gt;Foi monitora do Laboratório de Estudos da Violência e Vulnerabilidade Social (LEVV).&lt;/p&gt;&#xA;&lt;p&gt;Atuou durante dois anos no Instituto de Saúde, colaborando com a realização de pesquisas científicas que têm como objetivo gerar subsídios para o Sistema Único de Saúde (SUS). Co-autora de capítulos de livros, articulando, principalmente, os seguintes temas: saúde coletiva, raça, gênero e classe.&lt;/p&gt;&#xA;&lt;p&gt;Experiência em Centros de Atenção Psicossocial (CAPS), serviços do SUS voltados ao cuidado em saúde mental.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Ari Derviche</title>
-      <link>https://www.gruporeinserir.com.br/team/ari-derviche/</link>
+      <title>Victor Bastos Ventura</title>
+      <link>http://localhost:1313/team/victor-bastos-ventura/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/team/ari-derviche/</guid>
-      <description>Formado pela PUC-SP e atua na área clínica, atualmente está finalizando uma Especialização em Psicologia Analítica pelo Instituto Freedom.
-Atualmente faz atendimentos sociais para ex-alunes da Escola Comum, cursinho popular, e para pessoas transmasculinas pelo IBRAT-SP (Instituto Brasileiro de Transmasculinidsdes), tendo feito uma formação pelo Instituto para esses atendimentos.
-Se interessa pela atuação social, tendo estagiado no CAPS-IJ Brasilândia (Centro de Atenção Psicossocial Infantojuvenil), no SAE HIV Vila Prudente (Serviço de Atendimento Especializado em HIV) e na Chapelaria Social, organização sem fins lucrativos para a população de rua, durante a sua graduação.</description>
+      <guid>http://localhost:1313/team/victor-bastos-ventura/</guid>
+      <description>&lt;p&gt;Psicólogo Analítico-comportamental.&lt;/p&gt;&#xA;&lt;p&gt;Formado em 2023 pela Universidade Estadual Paulista &amp;ldquo;Júlio de Mesquita Filho&amp;rdquo;, com início da sua trajetória clínica no mesmo ano, no formato online. Ao logo da sua trajetória acadêmica e de estágios trabalhou com atendimentos individuais e em grupo, com o desenvolvimento de habilidades sociais. Se debruçando em estudos sobre as relações étnico-raciais nas psicologias e educação.&lt;/p&gt;&#xA;&lt;p&gt;Além disso, tem atuado na educação desde 2018 na gestão do projeto de extensão universitária cursinho pré-universitário “Ferradura” e comprometimento com a psicologia e sociedade antirracista.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Igor Majeau de Queiroz</title>
-      <link>https://www.gruporeinserir.com.br/team/igor-majeau-de-queiroz/</link>
+      <title>Luana Silva Santos</title>
+      <link>http://localhost:1313/team/luana-silva-santos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/team/igor-majeau-de-queiroz/</guid>
-      <description>Psicólogo formado pela Universidade de São Paulo (USP) e especialista em Saúde Mental pelo SUS (CEFOR). Já realizou formação como acompanhante terapêutico pelo Instituto ATenda e participa de grupos de estudos psicanalíticos. No campo acadêmico, desenvolveu pesquisas e artigos que foram apresentadas no Congresso Psicanálise em Fruição (2018) e no Simpósio Internacional de Iniciação Científica e Tecnológica da USP (2018). Foi membro do projeto ‘’Gemelar’’, que consiste em uma parceria entre o Instituto Sedes Sapientiae e a Universidade de São Paulo, se propondo a realizar atendimentos e pesquisas voltadas para pessoas que possuem irmãos gêmeos.</description>
+      <guid>http://localhost:1313/team/luana-silva-santos/</guid>
+      <description>&lt;p&gt;Psicóloga formada pela Universidade Nove de Julho. Acredita na importância da psicoterapia e atendimento clínico, mas sempre leva em consideração questões sociais, raciais, culturais, de gênero e todas as demais interseccionalidades que formam os indivíduos. Explorou diversas abordagens teóricas durante sua formação, destacando-se pela afinidade com a abordagem socio-histórica de Vygotsky, pois essa abordagem permite considerar todas as partes que constituem os seres humanos, refletindo suas complexidades individuais e sociais.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Helena Patrícia Oliveira de Brito</title>
-      <link>https://www.gruporeinserir.com.br/team/helena-patri%CC%81cia-oliveira-de-brito/</link>
+      <title>Nárrina Gabrieli Ramos Pereira </title>
+      <link>http://localhost:1313/team/n%C3%A1rrina-gabrieli-ramos-pereira-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/team/helena-patri%CC%81cia-oliveira-de-brito/</guid>
-      <description>Psicóloga graduada pela Universidade São Judas Tadeu (USJT), com aprimoramento em Avaliação na Clínica Psicodinâmica pela Universidade São Judas Tadeu (USJT), pós-graduada em Gestão de Pessoas pela Faculdade Anhanguera e pós-graduanda em Psicologia Analítica pelo Instituto Junguiano de Ensino e Pesquisa (IJEP).
-Durante a graduação fez estágios na clínica social da faculdade.
-Em sua trajetória profissional atuou por 9 anos em RH (com Recrutamento e Seleção).
-Atualmente atua como psicóloga clínica realizando atendimento particular para adultos.</description>
+      <guid>http://localhost:1313/team/n%C3%A1rrina-gabrieli-ramos-pereira-1/</guid>
+      <description>&lt;p&gt;Formada em psicologia pela UAM, pesquisadora em saúde desde 2016, pós graduada em Epidemiologia e Vigilâncias em Saúde, foi redutora de danos pelo grupo Div3rso da UNIFESP - Baixada Santista, trabalhando no acompanhamento de trabalhadoras sexuais do território portuário;&lt;/p&gt;&#xA;&lt;p&gt;Participou da atenção primária na saúde pública atuando em CAPS e com estratégias de educação permanente dos trabalhadores pela Escola Municipal de Saúde do SUS.&lt;/p&gt;&#xA;&lt;p&gt;Ampla experiência em orientação parental e acompanhamento de crianças e adolescentes em desenvolvimento atípico, com ênfase nos processos de aprendizagem, adaptação de materiais didáticos e consultoria institucional para DI - diversidade e inclusão.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Thayná da Cruz Viana</title>
+      <link>http://localhost:1313/team/thayn%C3%A1-da-cruz-viana/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/team/thayn%C3%A1-da-cruz-viana/</guid>
+      <description>&lt;p&gt;Psicóloga formada pela Universidade Nove de Julho (UNINOVE) através do programa Prouni. Durante a formação, fez estágios em psicologia clínica e apoio psicopedagógico para universitários, além de estágios extracurriculares em Psicologia Organizacional e educação infantil.&#xA;Acredita numa prática psicológica que seja pautada na compreensão de como as questões de classe, raça e gênero afetam a saúde mental.&lt;/p&gt;&#xA;&lt;p&gt;Participou do curso de extensão Introdução ao Pensamento de Fratz Fanon (FFLCH - USP), do evento de lançamento do livro Tentativas de Aniquilamento de Subjetividades LGBTIs (CFP) e foi monitora no 5° Congresso Brasileiro Psicologia: Ciência e Profissão.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gabriel de Andrade Carvalho Müller Leal</title>
+      <link>http://localhost:1313/team/gabriel-m%C3%BCller-leal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/team/gabriel-m%C3%BCller-leal/</guid>
+      <description>&lt;p&gt;Psicólogo Social e Gestalt-terapeuta&lt;/p&gt;&#xA;&lt;p&gt;Aberto e com a escuta e olhar atento a totalidade do sujeito e a seu contexto social. Formou-se em 2014 pela Universidade Federal de Minas Gerais (UFMG) com ênfase em psicologia social, atuando desde então como psicólogo clínico. Em 2017 formaliza seus estudos sobre a Gestalt-Terapia no Instituto Mineiro de Gestalt-Terapia.&lt;/p&gt;&#xA;&lt;p&gt;Sai de Belo Horizonte para morar em São Paulo no início de 2023. Trabalha como psicólogo social em um Serviço de Proteção à Crianças e Adolescentes Vítimas de Violência no território do Jabaquara. Trabalha com atendimentos individuais e multiprofissionais, assim como coordena grupos de diferentes metodologias com o público adulto e adolescente. Nesse ambiente seu enfoque recaí sobre a temática da violência desde a perspectiva de sua ressignificação e da proteção.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Juliana Felix Cerqueira</title>
+      <link>http://localhost:1313/team/juliana-felix-cerqueira/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/team/juliana-felix-cerqueira/</guid>
+      <description>&lt;p&gt;Psicóloga (Anhembi Morumbi; 2019)&lt;/p&gt;&#xA;&lt;p&gt;Tecnólogo em Recursos Humanos (UNIP; 2013)&lt;/p&gt;&#xA;&lt;p&gt;Concluiu o curso de Psicologia em 2019 como um marco importante em seu desenvolvimento pessoal e profissional. Este sonho nasce aos 15 anos, onde teve seu primeiro contato com a Psicologia ao realizar um curso profissionalizante em que um dos temas abordados era a importância do cuidado com a saúde mental.&lt;/p&gt;&#xA;&lt;p&gt;Aos 17 anos, sua carreira profissional se iniciou na área administrativa no setor de recursos humanos. O início da graduação em Psicologia veio um pouco mais tarde, aos 22 anos.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Juliana Princesa Machado</title>
-      <link>https://www.gruporeinserir.com.br/team/juliana-princesa-machado/</link>
+      <link>http://localhost:1313/team/juliana-princesa-machado/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/team/juliana-princesa-machado/</guid>
-      <description>Psicóloga, realizando pós-graduação em Saúde Mental pela Faculdade de Ciências Médicas da Santa Casa de SP (FCMSCSP).
-Membro do PsiA (Laboratório de Pesquisas e Intervenções em Psicanálise) no Instituto de Psicologia da USP (IP-USP) desde o início de 2018, desenvolvendo atividades relacionadas a pesquisa científica, grupos de estudo e atendimentos clínicos como psicoterapeuta na clínica escola do IP-USP com discussão em grupos de supervisão.
-Pesquisadora em diversos projetos que estudam sexualidade e relações de gênero; feminilidade e psicanálise; promoção de saúde de pessoas com deficiência intelectual; violência obstétrica relacionada à classe social e a vulnerabilidade socioeconômica.</description>
+      <guid>http://localhost:1313/team/juliana-princesa-machado/</guid>
+      <description>&lt;p&gt;Psicóloga, realizando pós-graduação em Saúde Mental pela Faculdade de Ciências Médicas da Santa Casa de SP (FCMSCSP).&lt;/p&gt;&#xA;&lt;p&gt;Membro do PsiA (Laboratório de Pesquisas e Intervenções em Psicanálise) no Instituto de Psicologia da USP (IP-USP) desde o início de 2018, desenvolvendo atividades relacionadas a pesquisa científica, grupos de estudo e atendimentos clínicos como psicoterapeuta na clínica escola do IP-USP com discussão em grupos de supervisão.&lt;/p&gt;&#xA;&lt;p&gt;Pesquisadora em diversos projetos que estudam sexualidade e relações de gênero; feminilidade e psicanálise; promoção de saúde de pessoas com deficiência intelectual; violência obstétrica relacionada à classe social e a vulnerabilidade socioeconômica. Atuando com divulgação científica em congressos nacionais e internacionais.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Lara Felippini Mesquita</title>
-      <link>https://www.gruporeinserir.com.br/team/lara-felippini-mesquita/</link>
+      <link>http://localhost:1313/team/lara-felippini-mesquita/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/team/lara-felippini-mesquita/</guid>
-      <description>Psicóloga clínica e social Graduada pela Universidade Presbiteriana Mackenzie (2021).
-Comunicadora Oral no IX Simpósio de Psicologia Política de 2021 com a pesquisa &amp;ldquo;Movimentos Sociais: A politização dos entregadores por aplicativo&amp;rdquo;.
-Estágio hospitalar pelo INCOR, e também pelo CCA Aziz AB Saber onde trabalhei com crianças e adolescentes lidando com atividades e dinâmicas baseadas nas demandas dos atendidos.
-Roda de conversa com trabalhadoras domésticas através da UPM de forma remota em meio a pandemia e atendia mulheres vulnerabilizadas pelo desemprego do momento pandêmico como também suas relações familiares e solitárias devido ao isolamento.</description>
+      <guid>http://localhost:1313/team/lara-felippini-mesquita/</guid>
+      <description>&lt;p&gt;Psicóloga clínica e social Graduada pela Universidade Presbiteriana Mackenzie (2021).&lt;/p&gt;&#xA;&lt;p&gt;Comunicadora Oral no IX Simpósio de Psicologia Política de 2021 com a pesquisa &amp;ldquo;Movimentos Sociais: A politização dos entregadores por aplicativo&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;Estágio hospitalar pelo INCOR, e também pelo CCA Aziz AB Saber onde trabalhei com crianças e adolescentes lidando com atividades e dinâmicas baseadas nas demandas dos atendidos.&lt;/p&gt;&#xA;&lt;p&gt;Roda de conversa com trabalhadoras domésticas através da UPM de forma remota em meio a pandemia e atendia mulheres vulnerabilizadas pelo desemprego do momento pandêmico como também suas relações familiares e solitárias devido ao isolamento.&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>Maria Fernanda Villares Fragoso </title>
-      <link>https://www.gruporeinserir.com.br/team/maria-fernanda-villares-fragoso/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/team/maria-fernanda-villares-fragoso/</guid>
-      <description>Psicóloga formada pela Pontifícia Universidade Católica de São Paulo. Realiza pós-graduação no aprimoramento da DERDIC/PUC-SP: &amp;ldquo;Psicanálise e Saúde Mental: intervenções institucionais na clínica psicanalítica com crianças&amp;rdquo;. Fez os cursos de Acompanhamento Terapêutico no Instituto A Casa e, atualmente, realiza o estágio de acompanhamento terapêutico em um Serviço de Residência Terapêutica (SRT). Participa de grupos de estudo/pesquisa sobre Psicanálise e Ciência pelo olhar da teoria freudiana e lacaniana e realiza um curso de formação em psicanálise lacaniana no Instituto Gerar de Psicanálise.</description>
-    </item>
-    
     <item>
       <title>Maria Julia Viana da Silva</title>
-      <link>https://www.gruporeinserir.com.br/team/maria-julia-viana/</link>
+      <link>http://localhost:1313/team/maria-julia-viana/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/team/maria-julia-viana/</guid>
-      <description>Psicóloga graduada pela Anhembi Morumbi, conta com formação de Educadora Social pelo Senac. Na trajetória acadêmica dedicou-se a estudar temas da Psicologia Social, elaborando artigos e atividades acadêmicas sobre os impactos que a criminalização e o estigma relacionados ao uso de substâncias psicoativas tem na constituição de jovens, passando pela construção da infância e juventude no Brasil, a atual política de drogas e judicialização. E sobre questões de gênero e sexualidade no que diz respeito as diversas violações e formação da subjetividade.</description>
+      <guid>http://localhost:1313/team/maria-julia-viana/</guid>
+      <description>&lt;p&gt;Psicóloga graduada pela Anhembi Morumbi, conta com formação de Educadora Social pelo Senac. Na trajetória acadêmica dedicou-se a estudar temas da Psicologia Social, elaborando artigos e atividades acadêmicas sobre os impactos que a criminalização e o estigma relacionados ao uso de substâncias psicoativas tem na constituição de jovens, passando pela construção da infância e juventude no Brasil, a atual política de drogas e judicialização. E sobre questões de gênero e sexualidade no que diz respeito as diversas violações e formação da subjetividade. Participou durante graduação de projetos de pesquisa-extensão que discutiam promoção de saúde mental e práticas de Redução de Danos em ambientes educacionais. Experiência na área da saúde, atuando em serviço psicossocial de referência a prevenção e aos cuidados dos agravos a pessoas que fazem uso de substâncias, o CAPS AD. Experiência na área de Psicologia do Trabalho, atuando em ONG com jovens aprendizes, elaborando atividades para discutir saúde mental e subjetividade no trabalho. Também obtém experiência em orientação profissional, elaborando discussões e reflexões sobre a escolha profissional, considerando os determinantes histórico-sociais, objetivando a construção de uma visão crítica em relação ao mundo do trabalho, da profissão e do próprio processo escolha. Atualmente é Psicóloga Clínica no Grupo Reinserir e atende a partir da abordagem histórico-cultural, acreditando na construção de um espaço seguro de fala, validação e enfrentamento que coopere para a construção da emancipação dos sujeitos.&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>Raffaella Tessicini Perracini</title>
-      <link>https://www.gruporeinserir.com.br/team/raffaella-tessicini-perracini/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/team/raffaella-tessicini-perracini/</guid>
-      <description>Formada em Psicologia na PUC-SP, atuou em instituições como Projeto Quixote, ABRAZ, e CEI, com públicos e objetivos diversos. No Projeto Quixote acompanhou crianças e adolescentes em situação de vulnerabilidade social em oficinas de jogos e brincadeiras, arte, dança, entre outras. Atuou como co-coordenadora de um grupo terapêutico formado por duplas de idosos com Alzheimer e seus cuidadores na ABRAZ, cuja finalidade era aproximar afetivamente as duplas, ao mesmo tempo que buscando estimular cognitivamente os idosos.</description>
-    </item>
-    
-    <item>
-      <title>Bianca Lima de Oliveira</title>
-      <link>https://www.gruporeinserir.com.br/team/bianca-lima-de-oliveira/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/team/bianca-lima-de-oliveira/</guid>
-      <description>Graduada em Psicologia pela PUC-SP, de abordagem psicanalítica, tem experiência em atendimento à população em situações de vulnerabilidade social na clínica particular e em projetos com instituições parceiras. Dentre eles, o projeto Conectando mulheres - defendendo direitos voltados para atenção à saúde mental de mulheres defensoras de direitos humanos, e um projeto de clínica social na zona sul da capital de São Paulo, no qual integra a equipe como psicóloga voluntária.</description>
-    </item>
-    
     <item>
       <title>Laís Rodrigues </title>
-      <link>https://www.gruporeinserir.com.br/team/la%C3%ADs-rodrigues/</link>
+      <link>http://localhost:1313/team/la%C3%ADs-rodrigues/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/team/la%C3%ADs-rodrigues/</guid>
-      <description>Psicóloga Clínica e Organizacional formada pela Universidade Cruzeiro do Sul e Especializada pela PUC-São Paulo. Com ampla experiência em estratégias de diversidade e inclusão para empregabilidade e saúde mental das populações subrepresentadas. Atendimento clinico na Terapia Cognitiva Comportamental (TCC).</description>
+      <guid>http://localhost:1313/team/la%C3%ADs-rodrigues/</guid>
+      <description>&lt;p&gt;Psicóloga Clínica e Organizacional formada pela Universidade Cruzeiro do Sul e Especializada pela PUC-São Paulo.&#xA;Com ampla experiência em estratégias de diversidade e inclusão para empregabilidade e saúde mental das populações subrepresentadas.&#xA;Atendimento clinico na Terapia Cognitiva Comportamental (TCC).&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Michel Petrella Silva</title>
-      <link>https://www.gruporeinserir.com.br/team/michel-petrella/</link>
+      <link>http://localhost:1313/team/michel-petrella/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/team/michel-petrella/</guid>
-      <description>Psicólogo Graduado pela Universidade Anhembi Morumbi. Foi duas vezes bolsista de pesquisa, atuando em Psicologia Social e Psicanálise, elaborando artigos e apresentações em congressos sobre temas como: situações sociais críticas, situação de rua, inclusão social, espaço público, cidade e psicanálise em espaços públicos. Experiência sólida na área da Saúde, onde atuou em duas instituições de saúde mental pública de média/alta complexidade (CAPS II Adulto) com ênfase em trabalho multiprofissional, psicoterapia psicanálitica individual e grupal e oficinas terapêuticas para pacientes com sofrimentos mentais graves e persistentes.</description>
+      <guid>http://localhost:1313/team/michel-petrella/</guid>
+      <description>&lt;p&gt;Psicólogo e Psicanalista. Especialista em Psicanálise e Análise do Contemporâneo pela PUCRS.&lt;/p&gt;&#xA;&lt;p&gt;Na graduação foi bolsista em duas pesquisas, atuando em Psicologia Social e Psicanálise, elaborando artigos, apresentações em congressos e outras atividades acadêmicas sobre temas como situações sociais críticas, situação de rua, inclusão social, espaço público, cidade e psicanálise em espaços públicos. Na especialização produziu o trabalho intitulado: &amp;ldquo;Aspectos terapêuticos da regressão e da depressão na psicanálise contemporânea&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;Experiência na área da Saúde onde atuou em instituições de saúde mental pública de média/alta complexidade - CAPS - com ênfase em trabalho multiprofissional, psicoterapia psicanalítica individual e grupal e oficinas terapêuticas para pacientes com sofrimentos mentais graves e persistentes.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Marina Barreto Rogano</title>
-      <link>https://www.gruporeinserir.com.br/team/marina-barreto-rogano/</link>
+      <title>Gabriel Takeshi Hirata</title>
+      <link>http://localhost:1313/team/gabriel-takeshi-hirata/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/team/marina-barreto-rogano/</guid>
-      <description>Psicóloga formada pela PUCSP e aprimoranda no Instituto Sedes Sapientiae. Foi monitora da disciplina de psicanálise e do curso de pós-graduação “Psicanálise nas Situações Sociais Críticas&amp;quot; oferecido pelo COGEAE. Participa de grupos de estudo sobre teoria freudiana e lacaniana, além de outros autores da psicanálise, bem como estudos sobre questões raciais e sociais. Compõe a equipe da Rede SUR: Psicanálise e Intervenção Social, através da qual tem realizado diversos trabalhos, dentre eles: a criação de um dispositivo de atendimento online durante a pandemia, coordenação de grupos de adultos, de crianças, de funcionárias de um CEI, bem como atendimentos na rua para pessoas que aguardam em uma fila de doação de pão.</description>
+      <guid>http://localhost:1313/team/gabriel-takeshi-hirata/</guid>
+      <description>&lt;p&gt;Psicanalista, que em seu percurso formativo tem a ética instituinte de coletivos situados nos territórios periféricos de São Paulo. Compreende nessa ética que o território - e consequentemente  o contexto sócio-político em que vivemos - é uma questão de como nos relacionamos com aquilo que nos impede de falar e de sermos escutados.&lt;/p&gt;&#xA;&lt;p&gt;Dentro dessa dinâmica, a clínica é esse lugar potencial para a fala emergir livre de julgamentos, e assim ser melhor cuidada em relação ao nosso desejo frente a uma realidade sistematicamente desigual.&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>Patrícia Brandão de Lima</title>
-      <link>https://www.gruporeinserir.com.br/team/patri%CC%81cia-branda%CC%83o-de-lima/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/team/patri%CC%81cia-branda%CC%83o-de-lima/</guid>
-      <description>Psicóloga graduada pela PUC-SP, aprimoranda no Instituto Sedes Sapientiae. Além disso, realizou curso de Acompanhamento Terapêutico pelo Instituto A Casa.
-Desde a graduação, dedica-se ao trabalho com a população que se encontra em vulnerabilidade social. Criou um projeto de pesquisa de iniciação científica intitulado “ Função Materna no contexto da interação mãe-bebê em casos de vulnerabilidade social”. Também atuou como cronista num projeto com interface entre academia e política pública na esfera municipal: atuando na rede de assistência social, numa parceria do CEDEPE com a SMADS e a UNESCO.</description>
-    </item>
-    
-    <item>
-      <title>Sheila Giannini de Melo</title>
-      <link>https://www.gruporeinserir.com.br/team/sheila-giannini/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/team/sheila-giannini/</guid>
-      <description>Psicóloga graduada pelo Centro Universitário Padre Anchieta.
-Teve seu Trabalho de Conclusão de Curso, voltado à psicologia e religião, onde almeja manter seus estudos e aprimoramentos.
-Possui experiência desde a faculdade, com atendimento clínico à adultos; grupos sociais e psicoeducacionais com crianças e adolescentes.
-Participou do CAIS Jundiaí (Centro de Acolhimento e Inclusão Social da População TT), prestando atendimentos individuais e em grupo à população LGBTQIAP+ e negra.
-Voluntária no &amp;ldquo;Projeto SAP - Serviço de Apoio Psicopedagógico&amp;rdquo; no Centro Universitário Padre Anchieta, realizando atendimentos emergenciais de modo on-line, além de Plantão Psicológico.</description>
-    </item>
-    
     <item>
       <title>Vinicius Pereira Costa da Silva</title>
-      <link>https://www.gruporeinserir.com.br/team/vinicius-pereira/</link>
+      <link>http://localhost:1313/team/vinicius-pereira/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/team/vinicius-pereira/</guid>
-      <description>Psicólogo graduado pela Universidade Anhembi Morumbi. Durante a graduação participou de projetos de extensão em Redução de Danos em contextos educacionais e em práticas psicológicas em Emergências e Desastres.
-Na área da saúde, possui experiência atuando no CAPS AD, serviço psicossocial de referência para prevenção e cuidado de pessoas que fazem uso de substâncias.
-Na área psicossocial, possui experiência na elaboração e realização de projetos socioeducativos com crianças e adolescentes em situação de vulnerabilidade social.</description>
+      <guid>http://localhost:1313/team/vinicius-pereira/</guid>
+      <description>&lt;p&gt;Psicólogo graduado pela Universidade Anhembi Morumbi. Durante a graduação participou de projetos de extensão em Redução de Danos em contextos educacionais e em práticas psicológicas em Emergências e Desastres.&lt;/p&gt;&#xA;&lt;p&gt;Na área da saúde, possui experiência atuando no CAPS AD, serviço psicossocial de referência para prevenção e cuidado de pessoas que fazem  uso de substâncias.&lt;/p&gt;&#xA;&lt;p&gt;Na área psicossocial, possui experiência na elaboração e realização de projetos socioeducativos com crianças e adolescentes em situação de vulnerabilidade social.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Beatriz Assis Ferreira de Souza</title>
-      <link>https://www.gruporeinserir.com.br/team/beatriz-assis/</link>
+      <link>http://localhost:1313/team/beatriz-assis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/team/beatriz-assis/</guid>
-      <description>Psicóloga graduada pela Universidade Nove de Julho (UNINOVE). Realiza aprimoramento em Psicologia Sócio Histórica no Instituto de Psicologia Sócio Histórica (IPSH). É colunista na revista digital ONERB e possui um projeto de grupo terapêutico em andamento.
-Iniciou seus estudos sobre subjetividade negra e sofrimento pelo racismo estrutural ao final da sua formação, através de congressos de Psicologia e aproximação com a Associação Nacional de Psicólogos Negros (ANPSINEP). Continua se aprofundando nesses conhecimentos através da Psicologia Preta.</description>
+      <guid>http://localhost:1313/team/beatriz-assis/</guid>
+      <description>&lt;p&gt;Psicóloga graduada pela Universidade Nove de Julho (UNINOVE). Realiza aprimoramento em Psicologia Sócio Histórica no Instituto de Psicologia Sócio Histórica (IPSH). É colunista na revista digital ONERB e possui um projeto de grupo terapêutico em andamento.&lt;/p&gt;&#xA;&lt;p&gt;Iniciou seus estudos sobre subjetividade negra e sofrimento pelo racismo estrutural ao final da sua formação, através de congressos de Psicologia e aproximação com a Associação Nacional de Psicólogos Negros (ANPSINEP). Continua se aprofundando nesses conhecimentos através da Psicologia Preta.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Grace Joana de Santana</title>
-      <link>https://www.gruporeinserir.com.br/team/grace-joana-de-santana/</link>
+      <title>Felipe dos Santos Minichelli</title>
+      <link>http://localhost:1313/team/felipe-dos-santos-minichelli/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/team/grace-joana-de-santana/</guid>
-      <description>Formada pela Universidade Cruzeiro do Sul e cursando especialização em Psicologia Clínica pela PUC-RS.
-Durante a graduação estagiou no Centro Temporário de Acolhimento (CTA) Brás com pessoas em situação de rua, no Centro de Acolhida Especial (CAE) Nova Esperança atuando com crianças em vulnerabilidade, no Centro de Atenção Psicossocial III (CAPS III) da Vila Matilde, e no time de esporte adaptado Ronins.
-Atualmente atua nas áreas clínica e organizacional com foco em desenvolvimento humano.</description>
+      <guid>http://localhost:1313/team/felipe-dos-santos-minichelli/</guid>
+      <description>&lt;p&gt;Psicólogo Afirmativo e Terapeuta Cognitivo-Comportamental&lt;/p&gt;&#xA;&lt;p&gt;Formado em 2021 pela Universidade Cruzeiro do Sul. Em 2022 realizou um curso de aperfeiçoamento na PUC-SP: ‘’Neuropsicologia, cognição e emoção’’.&lt;/p&gt;&#xA;&lt;p&gt;Em sua trajetória clínica, se deparou sempre com uma psicologia dentro de um padrão heteronormativo, excluindo vivências sociais-políticas. A partir disso, se debruçou com a Terapia Afirmativa, voltada para pessoas LGBTQIAPN+, e desde o começo da sua trajetória clínica atende pessoas da comunidade.&lt;/p&gt;&#xA;&lt;p&gt;Atualmente, o psicólogo atende online pessoas de todo o Brasil e também brasileiros que morem no exterior. O seu foco nos atendimentos é no público adolescente e adulto.&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>Ulisses Alberto Miranda Neto</title>
-      <link>https://www.gruporeinserir.com.br/team/ulisses-alberto-miranda-neto/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/team/ulisses-alberto-miranda-neto/</guid>
-      <description>Psicólogo graduado na PUC-SP, aonde chegou a compor o Grupo de Pesquisa sobre Controle Aversivo (com apresentação de pôster na ABPMC 2015), e as monitorias de Psicopatologia I e Psicanálise III.
-Já graduado, iniciou sua formação de analista no Instituto Sedes Sapientiae com o curso de extensão &amp;ldquo;Sobre a Contratransferência: o analista implicado&amp;rdquo;, além de compor a monitoria de duas disciplinas do curso de especialização &amp;ldquo;Psicanálise nas situações sociais críticas&amp;rdquo; do COGEAE</description>
-    </item>
-    
     <item>
       <title>Bárbara Assis Ferreira de Souza</title>
-      <link>https://www.gruporeinserir.com.br/team/b%C3%A1rbara-assis-ferreira-de-souza/</link>
+      <link>http://localhost:1313/team/b%C3%A1rbara-assis-ferreira-de-souza/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/team/b%C3%A1rbara-assis-ferreira-de-souza/</guid>
-      <description>Psicóloga clínica sob orientação psicanalítica há dois anos, trabalho com foco a população LGBTQIA+, mulheres e homens pretxs, pois, foi um caminho natural que minha clínica foi encontrando e hoje busco estudos a fim de ampliar minha escuta e torná-la cada vez mais acolhedora. Formada pela Universidade Nove de Julho, na universidade, além da prática clínica, desenvolveu trabalhos com grupos em extrema vulnerabilidade, como a população de rua em Centros de Acolhida.</description>
+      <guid>http://localhost:1313/team/b%C3%A1rbara-assis-ferreira-de-souza/</guid>
+      <description>&lt;p&gt;Psicóloga clínica sob orientação psicanalítica há dois anos, trabalho com foco a população LGBTQIA+, mulheres e homens pretxs, pois, foi um caminho natural que minha clínica foi encontrando e hoje busco estudos a fim de ampliar minha escuta e torná-la cada vez mais acolhedora.&#xA;Formada pela Universidade Nove de Julho, na universidade, além da prática clínica, desenvolveu trabalhos com grupos em extrema vulnerabilidade, como a população de rua em Centros de Acolhida. Durante a quarentena até o início desse ano, foi voluntária na ONG ACOLHE LGBT+ que oferecia atendimento psicológico à pessoas LGBTQIA+ em situação de vulnerabilidade e participou de grupos de estudos como: Psicanálise e População LGBTTQIAP+ e Construções e Construções clínicas e relações étnico-raciais.&#xA;Há um ano iniciou curso de formação em Psicanálise na Escola Estrutural de Psicanálise e atualmente trabalha com diversas demandas como ansiedade, depressão, transtornos alimentares, sempre visando proporcionar uma escuta ampliada, ou seja, levando em consideração não somente o diagnóstico, mas sim, o contexto, a história de vida e tudo mais que possa nos atravessar enquanto como pessoas.&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>Erivânia da Silva Teixeira</title>
-      <link>https://www.gruporeinserir.com.br/team/erivania-teixeira/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/team/erivania-teixeira/</guid>
-      <description>Psicóloga graduada pelo Centro Universitário Padre Anchieta.
-Durante a graduação atuou com atendimentos clínicos à adultos; realização de projetos na área psicossocial com crianças e adolescentes; autoregulação da aprendizagem com alunos ingressantes no ensino superior.
-Voluntária no &amp;ldquo;Projeto SAP - Serviço de Apoio Psicopedagógico&amp;rdquo; no Centro Universitário Padre Anchieta, realizando atendimentos emergenciais e on-line, além de Plantão Psicológico.
-Realização de atendimentos individuais e em grupo de travestis e transexuais através do CAIS Jundiaí (Centro de Acolhimento e Inclusão Social da População TT).</description>
-    </item>
-    
     <item>
       <title>Juliana Silva</title>
-      <link>https://www.gruporeinserir.com.br/team/juliana-silva/</link>
+      <link>http://localhost:1313/team/juliana-silva/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/team/juliana-silva/</guid>
-      <description>Graduada pela Universidade Paulista (Unip), pós- graduada pela Universidade Presbiteriana Mackenzie e especializada em Redes Sociais, Colaboração e Mobilidade pela Pontifícia Universidade Católica de São Paulo (PUC-SP).
-Experiência na área de Mídias Sociais, sendo responsável pelo planejamento, gerenciamento, monitoramento (SAC 2.0), criação de imagens com templates prontos e divulgação de conteúdos relevantes relacionados aos serviços/produtos nas redes sociais dos clientes.
-Atualmente, é responsável pelas mídias e atendimento do Grupo Reinserir.</description>
+      <guid>http://localhost:1313/team/juliana-silva/</guid>
+      <description>&lt;p&gt;Graduada pela Universidade Paulista (Unip), pós- graduada pela Universidade Presbiteriana Mackenzie e especializada em Redes Sociais, Colaboração e Mobilidade pela Pontifícia Universidade Católica de São Paulo (PUC-SP).&lt;/p&gt;&#xA;&lt;p&gt;Experiência na área de Mídias Sociais, sendo responsável pelo planejamento, gerenciamento, monitoramento (SAC 2.0), criação de imagens com templates prontos e divulgação de conteúdos relevantes relacionados aos serviços/produtos nas redes sociais dos clientes.&lt;/p&gt;&#xA;&lt;p&gt;Atualmente, é responsável pelas mídias e atendimento do Grupo Reinserir.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Silvia Santana de Oliveira </title>
-      <link>https://www.gruporeinserir.com.br/team/silvia-santana-de-oliveira/</link>
+      <link>http://localhost:1313/team/silvia-santana-de-oliveira/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/team/silvia-santana-de-oliveira/</guid>
-      <description>Profissional graduanda em Ciências Contábeis, atuante na área fiscal há mais de 15 anos com expertise em toda a rotina fiscal e análises criteriosas das legislações, reduzindo custos e gerando informações úteis para a gestão empresarial.
-Sócia da S&amp;amp;A Consultoria Empresarial</description>
+      <guid>http://localhost:1313/team/silvia-santana-de-oliveira/</guid>
+      <description>&lt;p&gt;Profissional graduanda em Ciências Contábeis, atuante na área fiscal há mais de 15 anos com expertise em toda a rotina fiscal e análises criteriosas das legislações, reduzindo custos e gerando informações úteis para a gestão empresarial.&lt;/p&gt;&#xA;&lt;p&gt;Sócia da S&amp;amp;A Consultoria Empresarial&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Rodrigo Breato</title>
-      <link>https://www.gruporeinserir.com.br/team/rodrigo-breato/</link>
+      <link>http://localhost:1313/team/rodrigo-breato/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/team/rodrigo-breato/</guid>
-      <description>Graduado em Sociologia e Política pela FESPSP [2018]
-Formação em Técnico Ótico pela universidade Braz Cubas, com especialização em Optometria pelo Instituto Essilor.
-Hoje atua no Administrativo do Grupo Reinserir, sendo responsável pelos trâmites internos e textos de cunho político e social.</description>
+      <guid>http://localhost:1313/team/rodrigo-breato/</guid>
+      <description>&lt;p&gt;Graduado em Sociologia e Política pela FESPSP [2018]&lt;/p&gt;&#xA;&lt;p&gt;Formação em Técnico Ótico pela universidade Braz Cubas, com especialização em Optometria pelo Instituto Essilor.&lt;/p&gt;&#xA;&lt;p&gt;Hoje atua no Administrativo do Grupo Reinserir, sendo responsável pelos trâmites internos e textos de cunho político e social.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

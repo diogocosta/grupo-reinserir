@@ -2,915 +2,633 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Faq on Grupo Reinserir</title>
-    <link>https://www.gruporeinserir.com.br/faq/</link>
+    <link>http://localhost:1313/faq/</link>
     <description>Recent content in Faq on Grupo Reinserir</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>pt-BR</language><atom:link href="https://www.gruporeinserir.com.br/faq/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>pt-BR</language>
+    <atom:link href="http://localhost:1313/faq/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>&#34;E se eu não pagar o meu psicólogo?&#34;</title>
+      <link>http://localhost:1313/faq/e-se-eu-n%C3%A3o-pagar-o-meu-psic%C3%B3logo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/faq/e-se-eu-n%C3%A3o-pagar-o-meu-psic%C3%B3logo/</guid>
+      <description>&lt;p&gt;Acabamos de sair de uma pandemia que deixou fortes sequelas em todos nós. Não apenas psicológicas e físicas, mas também financeiras. Nestes momentos a primeira coisa que nos vem a cabeça é: cortar gastos.&lt;/p&gt;&#xA;&lt;p&gt;Interromper nosso processo terapêutico as vezes se torna a única saída por não termos mais condições de paga-lo. E está tudo bem, só nós sabemos onde nosso calo aperta, certo?&lt;/p&gt;&#xA;&lt;p&gt;Muitas vezes, quando não temos condições de pagar algo, nos vemos diante do seguinte dilema: pagar e ficar sem o pouco dinheiro que tenho, ou não pagar e correr o risco de sujar meu nome? Muitas vezes nossa única saída acaba sendo a segunda opção.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>&#34;Mas lá na Clínica eu vou só falar?&#34;</title>
-      <link>https://www.gruporeinserir.com.br/faq/mas-la%CC%81-na-cli%CC%81nica-eu-vou-so%CC%81-falar/</link>
+      <link>http://localhost:1313/faq/mas-l%C3%A1-na-cl%C3%ADnica-eu-vou-s%C3%B3-falar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/mas-la%CC%81-na-cli%CC%81nica-eu-vou-so%CC%81-falar/</guid>
-      <description>Não necessariamente! O Grupo Reinserir entende que existem diversas formas do sujeito se expressar, seja através da fala, da escrita, das brincadeiras, das colagens, etc. Sabendo disto, a estrutura da Clínica Reinserir é adaptada para acolher todas estas possibilidades. Em todas as nossas salas de atendimento, existem lousas e giz para que o paciente e/ou cliente possa se expressar, organizar pensamentos e até mesmo a sua rotina, finanças, etc junto ao profissional referência.</description>
+      <guid>http://localhost:1313/faq/mas-l%C3%A1-na-cl%C3%ADnica-eu-vou-s%C3%B3-falar/</guid>
+      <description>&lt;p&gt;Não necessariamente! O Grupo Reinserir entende que existem diversas formas do sujeito se expressar, seja através da fala, da escrita, das brincadeiras, das colagens, etc. Sabendo disto, a estrutura da Clínica Reinserir é adaptada para acolher todas estas possibilidades. Em todas as nossas salas de atendimento, existem lousas e giz para que o paciente e/ou cliente possa se expressar, organizar pensamentos e até mesmo a sua rotina, finanças, etc junto ao profissional referência. Muitos pacientes do Reinserir, se sentem à vontade para projetar na lousa poesias e desenhos de autoria própria, reflexões de artigos com temáticas abordadas em sessão e eventualmente projeções futuras. Além das lousas, por ser uma Clínica que atende crianças e adolescentes o espaço dispõe de diversos brinquedos e jogos (vide imagem), leituras de acordo com a faixa etária do paciente/cliente e notebooks para exibição de vídeos e filmes. Em uma de nossas salas, que foi apelidada carinhosamente por alguns de nossos pacientes como &amp;ldquo;a sala escritório&amp;rdquo;, encontra-se testes psicológicos (manuseados apenas por profissionais da Psicologia), revistas e jornais que também contribuem de forma significativa neste processo de se expressar e transformar. Que possamos sempre buscar maneiras para nos expressar, identificar e nomear expressões, sentimentos e emoções e se possível, compartilhar com alguém e/ou profissional que seja de confiança. A saúde mental agradece!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>&#34;Mas psicoterapeuta pode ter tatuagem?&#34;</title>
-      <link>https://www.gruporeinserir.com.br/faq/mas-psicoterapeuta-pode-ter-tatuagem/</link>
+      <link>http://localhost:1313/faq/mas-psicoterapeuta-pode-ter-tatuagem/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/mas-psicoterapeuta-pode-ter-tatuagem/</guid>
-      <description>A gente entende que o corpo é a maior e mais intensa fronteira entre o que é nosso e o que é do mundo. É aquilo que simboliza e demonstra que experiências internas, externas, subjetivas e objetivas, coletivas e singulares se cruzam, atravessam, coabitam, aos mais chegados, de maneira dialética 8)
-Qual a grande questão, então, de se entender que construir ou intervir no próprio corpo pode ser também uma maneira de materializar, e assim, simbolizar, aquilo que se vive, que se sente e se relaciona.</description>
+      <guid>http://localhost:1313/faq/mas-psicoterapeuta-pode-ter-tatuagem/</guid>
+      <description>&lt;p&gt;A gente entende que o corpo é a maior e mais intensa fronteira entre o que é nosso e o que é do mundo. É aquilo que simboliza e demonstra que experiências internas, externas, subjetivas e objetivas, coletivas e singulares se cruzam, atravessam, coabitam, aos mais chegados, de maneira dialética 8)&lt;/p&gt;&#xA;&lt;p&gt;Qual a grande questão, então, de se entender que construir ou intervir no próprio corpo pode ser também uma maneira de materializar, e assim, simbolizar, aquilo que se vive, que se sente e se relaciona. &lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>&#34;Meu pagamento atrasou. E agora?&#34;</title>
+      <link>http://localhost:1313/faq/meu-pagamento-atrasou-e-agora/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/faq/meu-pagamento-atrasou-e-agora/</guid>
+      <description>&lt;p&gt;Chegou o quinto dia útil e pra muita gente esse é o dia não de alegria, mas de alívio por conseguir o mínimo para pagar suas contas e sobreviver por mais um mês. Nós, enquanto trabalhadores, por muitas vezes vivemos por esse dia o mês inteiro, porém por muitas vezes nossos empregadores não enxergam isso.&lt;br&gt;&#xA;&lt;br&gt;&#xA;Por quê?&lt;br&gt;&#xA;Há muitas décadas somos ensinados a olhar empresas de baixo para cima, como se estivessem nos dando a oportunidade de produzir para eles e desta forma tratam nossos direitos como um favor. Quantas vezes não atrasaram nosso salário por cair em um final de semana? Quantas vezes no dia do pagamento nos deixaram angustiados por um dia inteiro e só nos pagaram no final do dia, mesmo podendo fazer o contrário?&lt;br&gt;&#xA;&lt;br&gt;&#xA;Nós entendemos o quão importante é cumprir com nossas obrigações, mas quem nos emprega entende? Quanto mais a crise econômica aperta, mais eles trabalham em cima de nossos medos. O medo de perder o emprego, de não pagar um aluguel, de não pagar um tratamento de um parente em situação de vulnerabilidade. O que acontece se não pagarmos uma conta e isso acabar acarretando em juros? Por que as contas da empresa são mais importantes que as nossas? Os empregadores precisam entender que eles pagam pelo trabalho e não estamos em uma relação de caridade.&lt;br&gt;&#xA;&lt;br&gt;&#xA;A melhor maneira de respeitar o trabalhador é cumprindo com seus deveres, mas até onde o patrão se importa com a panela de um funcionário cozinhando vento, contanto que ele chegue no horário e trabalhe como se fosse eternamente grato pelo emprego?&lt;br&gt;&#xA;&lt;br&gt;&#xA;Dito isto, nós do Reinserir entendemos que esta demanda se faz cada vez mais presente na vida de muitos dos nossos pacientes e sabemos que isto pode também atravessa-los no processo terapêutico, então é muito importante verbalizar com seu terapeuta sobre sua situação caso esteja vivenciando algo semelhante. Nosso adoecimento passa também pelo lado financeiro e seu terapeuta estará sempre aberto a encontrar possibilidades com você, sem que precise interromper o cuidado com sua saúde mental.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>&#34;Nossa! Vai pra terapia&#34; ???</title>
-      <link>https://www.gruporeinserir.com.br/faq/nossa-vai-pra-terapia/</link>
+      <link>http://localhost:1313/faq/nossa-vai-pra-terapia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/nossa-vai-pra-terapia/</guid>
-      <description>Fazer terapia não é ofensa.
-É isso. Nem precisava de texto. O recado é esse, simples assim.
-Mas vou trazer uma comparação aqui pra a gente pensar…
-Sabe quando uma criança vai tomar injeção e geralmente a mãe ou enfermeira - alguma figura de cuidado - cobrem o rosto da criança pra que ela não veja a agulha e assim “não sinta tanto” a dor?
-Então,
-a gente aprende que não olhar pra aquilo que dói é um jeito válido de lidar com a dor, de sobreviver a ela.</description>
+      <guid>http://localhost:1313/faq/nossa-vai-pra-terapia/</guid>
+      <description>&lt;p&gt;Fazer terapia não é ofensa.&lt;/p&gt;&#xA;&lt;p&gt;É isso. Nem precisava de texto. O recado é esse, simples assim.&lt;/p&gt;&#xA;&lt;p&gt;Mas vou trazer uma comparação aqui pra a gente pensar…&lt;/p&gt;&#xA;&lt;p&gt;Sabe quando uma criança vai tomar injeção e geralmente a mãe ou enfermeira - alguma figura de cuidado - cobrem o rosto da criança pra que ela não veja a agulha e assim “não sinta tanto” a dor?&lt;/p&gt;&#xA;&lt;p&gt;Então,&lt;/p&gt;&#xA;&lt;p&gt;a gente aprende que não olhar pra aquilo que dói é um jeito válido de lidar com a dor, de sobreviver a ela.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>&#34;Preciso estar &#39;pronto&#39; para começar a terapia?&#34;</title>
-      <link>https://www.gruporeinserir.com.br/faq/preciso-estar-pronto-para-come%C3%A7ar-a-terapia/</link>
+      <link>http://localhost:1313/faq/preciso-estar-pronto-para-come%C3%A7ar-a-terapia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/preciso-estar-pronto-para-come%C3%A7ar-a-terapia/</guid>
-      <description>Primeiro mês do ano, geralmente costumamos enxergar como pontapé inicial para começos e recomeços. É muito comum também a pergunta “estou pronto?”, “será que estou pronta para iniciar a faculdade ou aquele curso?” &amp;ldquo;Será que estou pronta para procurar um novo emprego?” e com a terapia não é diferente. Mas afinal, o que é “estar pronto”?
-Atrelamos muito essa percepção de estar pronto com o ter aprendido tudo antes de iniciar algo novo ou até mesmo romper com algo que não faz mais sentido.</description>
+      <guid>http://localhost:1313/faq/preciso-estar-pronto-para-come%C3%A7ar-a-terapia/</guid>
+      <description>&lt;p&gt;Primeiro mês do ano, geralmente costumamos enxergar como pontapé inicial para começos e recomeços. É muito comum também a pergunta “estou pronto?”, “será que estou pronta para iniciar a faculdade ou aquele curso?” &amp;ldquo;Será que estou pronta para procurar um novo emprego?” e com a terapia não é diferente. Mas afinal, o que é “estar pronto”?&lt;br&gt;&#xA;&lt;br&gt;&#xA;Atrelamos muito essa percepção de estar pronto com o ter aprendido tudo antes de iniciar algo novo ou até mesmo romper com algo que não faz mais sentido. Isso nos rouba a possibilidade de descobrir. De sentir. Permita-se sentir, inclusive, a frustração, a decepção, faz parte do aprendizado. Do processo. Assim como para outras coisas, não existe fórmula pronta para a terapia. Se permitir ao processo também é abrir mão dos resultados.&lt;br&gt;&#xA;&lt;br&gt;&#xA;Então começamos o ano com a seguinte reflexão: o que você tem deixado de viver por “não estar pronto?”&lt;br&gt;&#xA;&lt;br&gt;&#xA;Imagem: “preciso saber que existo”. 2021 do @bis0ro&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>“E desde quando terapeuta fica doente?”</title>
-      <link>https://www.gruporeinserir.com.br/faq/e-desde-quando-terapeuta-fica-doente-/</link>
+      <link>http://localhost:1313/faq/e-desde-quando-terapeuta-fica-doente-/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/e-desde-quando-terapeuta-fica-doente-/</guid>
-      <description>“E desde quando terapeuta fica doente?” em tom de riso, foi o que recebi essa semana quando precisei desmarcar algumas sessões. Nesse caso, com carinho e acolhimento de quem também trilha o caminho da psicologia, mas nem sempre é assim.
-É compreensível que por vezes, o desmarque de uma sessão que estava sendo esperada chegue com uma frustração incômoda, a cereja no bolo do dia que estava dando errado, em uma semana deprê, ou coisa do tipo, sei, já aconteceu comigo.</description>
+      <guid>http://localhost:1313/faq/e-desde-quando-terapeuta-fica-doente-/</guid>
+      <description>&lt;p&gt;“E desde quando terapeuta fica doente?” em tom de riso, foi o que recebi essa semana quando precisei desmarcar algumas sessões. Nesse caso, com carinho e acolhimento de quem também trilha o caminho da psicologia, mas nem sempre é assim.&lt;/p&gt;&#xA;&lt;p&gt;É compreensível que por vezes, o desmarque de uma sessão que estava sendo esperada chegue com uma frustração incômoda, a cereja no bolo do dia que estava dando errado, em uma semana deprê, ou coisa do tipo, sei, já aconteceu comigo. &lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>#1 Como tratar?!</title>
-      <link>https://www.gruporeinserir.com.br/faq/1-como-tratar/</link>
+      <link>http://localhost:1313/faq/1-como-tratar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/1-como-tratar/</guid>
-      <description>Essa semana abrimos uma caixinha de dúvidas em nossas redes sociais e uma questão frequente sobre “como tratar” x ou y, nos chamou atenção. Por isso, nas próximas semanas vamos falar um pouquinho sobre adoecimento, tratamento e cura, explorando e tentando superar essa visão medicalizante que aprendemos. Mas o que é “medicalizante”?
-A medicalização é um fenômeno sócio-histórico, cultural, que consiste em absorver questões humanas para o âmbito médico. Isto é, parâmetros de saúde e doença são construídos (geralmente baseados em valores relacionados à lógica de produção) e a partir disso determina-se o que é saúde e o que doença e por consequência, quem deve ser curado.</description>
+      <guid>http://localhost:1313/faq/1-como-tratar/</guid>
+      <description>&lt;p&gt;Essa semana abrimos uma caixinha de dúvidas em nossas redes sociais e uma questão frequente sobre “como tratar” x ou y, nos chamou atenção. &lt;/p&gt;&#xA;&lt;p&gt;Por isso, nas próximas semanas vamos falar um pouquinho sobre adoecimento, tratamento e cura, explorando e tentando superar essa visão medicalizante que aprendemos. &lt;/p&gt;&#xA;&lt;p&gt;Mas o que é “medicalizante”?&lt;/p&gt;&#xA;&lt;p&gt;A medicalização é um fenômeno sócio-histórico, cultural, que consiste em absorver questões humanas para o âmbito médico. Isto é, parâmetros de saúde e doença são construídos (geralmente baseados em valores relacionados à lógica de produção) e a partir disso determina-se o que é saúde e o que doença e por consequência, quem deve ser curado. &lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>#2 O que é adoecimento? </title>
-      <link>https://www.gruporeinserir.com.br/faq/2-o-que-e%CC%81-adoecimento/</link>
+      <link>http://localhost:1313/faq/2-o-que-%C3%A9-adoecimento/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/2-o-que-e%CC%81-adoecimento/</guid>
-      <description>Para a OMS, saúde é um estado de bem estar físico, mental, emocional, espiritual etc. Em uma perspectiva crítica, podemos dizer que uma pessoa saudável é aquela que tem os acessos necessários para suprir suas necessidades, a partir do desenvolvimento humano obtido em cada tempo histórico. Geralmente, o adjetivo de doente é atribuído a quem deixa de corresponder com as necessidades produtivas de sua vida. No geral, a doença é uma gripe forte, uma lesão grave ou um quadro deprimido que sejam suficientes para afastar esse sujeito de seu posto de trabalho.</description>
+      <guid>http://localhost:1313/faq/2-o-que-%C3%A9-adoecimento/</guid>
+      <description>&lt;p&gt;Para a OMS, saúde é um estado de bem estar físico, mental, emocional, espiritual etc. Em uma perspectiva crítica, podemos dizer que uma pessoa saudável é aquela que tem os acessos necessários para suprir suas necessidades, a partir do desenvolvimento humano obtido em cada tempo histórico. &lt;/p&gt;&#xA;&lt;p&gt;Geralmente, o adjetivo de doente é atribuído a quem deixa de corresponder com as necessidades produtivas de sua vida. No geral, a doença é uma gripe forte, uma lesão grave ou um quadro deprimido que sejam suficientes para afastar esse sujeito de seu posto de trabalho.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>#3 O que é tratamento?</title>
-      <link>https://www.gruporeinserir.com.br/faq/3-o-que-e%CC%81-tratamento/</link>
+      <link>http://localhost:1313/faq/3-o-que-%C3%A9-tratamento/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/3-o-que-e%CC%81-tratamento/</guid>
-      <description>No senso comum, e numa perspectiva médica, é o caminho ou ação para retirar alguém de uma posição de doença e torná-la saudável, produtiva. Será que isso é suficiente pra compreender e manejar o sofrimento humano?
-Aqui a gente pensa que não. Encaramos o tratamento terapêutico como um lugar, tempo e espaço, para entender os comportamentos e emoções lidos como sintomas, encontrar, em cada experiência, aquilo que produz o sofrimento e aprender o que fazer com ele, como vivê-lo e quando transformá-lo.</description>
+      <guid>http://localhost:1313/faq/3-o-que-%C3%A9-tratamento/</guid>
+      <description>&lt;p&gt;No senso comum, e numa perspectiva médica, é o caminho ou ação para retirar alguém de uma posição de doença e torná-la saudável, produtiva. &lt;/p&gt;&#xA;&lt;p&gt;Será que isso é suficiente pra compreender e manejar o sofrimento humano?&lt;/p&gt;&#xA;&lt;p&gt;Aqui a gente pensa que não. &lt;/p&gt;&#xA;&lt;p&gt;Encaramos o tratamento terapêutico como um lugar, tempo e espaço, para entender os comportamentos e emoções lidos como sintomas, encontrar, em cada experiência, aquilo que produz o sofrimento e aprender o que fazer com ele, como vivê-lo e quando transformá-lo. &lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>#4 O que é cura?</title>
-      <link>https://www.gruporeinserir.com.br/faq/4-o-que-e%CC%81-cura/</link>
+      <link>http://localhost:1313/faq/4-o-que-%C3%A9-cura/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/4-o-que-e%CC%81-cura/</guid>
-      <description>Remissão de sintomas?
-Ausência de dor e sofrimento?
-Isso existe ou é só mais uma estratégia de venda?!
-Tenho entendido as discussões acerca do conceito de “bem viver” como uma possível superação da ideia falaciosa de cura. Bem viver é o nome dado às tradições de povos originários que compreendem a existência humana em sua natureza, a partir do coletivo e para além das normativas culturais do sistema capitalista. Resgatar essas experiências e entendê-las hoje, em nosso tempo histórico, parece o caminho possível para construir as mudanças que precisamos.</description>
+      <guid>http://localhost:1313/faq/4-o-que-%C3%A9-cura/</guid>
+      <description>&lt;p&gt;Remissão de sintomas?&lt;/p&gt;&#xA;&lt;p&gt;Ausência de dor e sofrimento?&lt;/p&gt;&#xA;&lt;p&gt;Isso existe ou é só mais uma estratégia de venda?!&lt;/p&gt;&#xA;&lt;p&gt;Tenho entendido as discussões acerca do conceito de “bem viver” como uma possível superação da ideia falaciosa de cura. &lt;/p&gt;&#xA;&lt;p&gt;Bem viver é o nome dado às tradições de povos originários que compreendem a existência humana em sua natureza, a partir do coletivo e para além das normativas culturais do sistema capitalista. &lt;/p&gt;&#xA;&lt;p&gt;Resgatar essas experiências e entendê-las hoje, em nosso tempo histórico, parece o caminho possível para construir as mudanças que precisamos. &lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>⅓  O que é ser bem tratade em uma consulta médica ou de terapia?</title>
-      <link>https://www.gruporeinserir.com.br/faq/-o-que-e%CC%81-ser-bem-tratade-em-uma-consulta-me%CC%81dica-ou-de-terapia/</link>
+      <link>http://localhost:1313/faq/-o-que-%C3%A9-ser-bem-tratade-em-uma-consulta-m%C3%A9dica-ou-de-terapia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/-o-que-e%CC%81-ser-bem-tratade-em-uma-consulta-me%CC%81dica-ou-de-terapia/</guid>
-      <description>Algumas experiências recentes me lembraram que, por vezes, a normativa rígida, mecânica e violenta do modelo biomédico de saúde, não nos deixa ter parâmetro do que seria uma experiência de atendimento humanizado.
-Como saber o que cabe a um bom atendimento se eu nunca tive um?!
-Bom, bora lá pensar…
-Indispensavelmente, é necessário se sentir uma pessoa. Uma pessoa, em um atendimento, tem voz, tem vontades, medos e tem sua perspectiva de si respeitada, não é diminuída ou atropelada pela aplicação de uma ‘técnica’ ou ‘protocolo’ de atendimento.</description>
+      <guid>http://localhost:1313/faq/-o-que-%C3%A9-ser-bem-tratade-em-uma-consulta-m%C3%A9dica-ou-de-terapia/</guid>
+      <description>&lt;p&gt;Algumas experiências recentes me lembraram que, por vezes, a normativa rígida, mecânica e violenta do modelo biomédico de saúde, não nos deixa ter parâmetro do que seria uma experiência de atendimento humanizado.&lt;/p&gt;&#xA;&lt;p&gt;Como saber o que cabe a um bom atendimento se eu nunca tive um?!&lt;/p&gt;&#xA;&lt;p&gt;Bom, bora lá pensar…&lt;/p&gt;&#xA;&lt;p&gt;Indispensavelmente, é necessário se sentir uma pessoa. &lt;/p&gt;&#xA;&lt;p&gt;Uma pessoa, em um atendimento, tem voz, tem vontades, medos e tem sua perspectiva de si respeitada, não é diminuída ou atropelada pela aplicação de uma ‘técnica’ ou ‘protocolo’ de atendimento. &lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>⅔  O que é ser bem tratade em uma consulta médica ou de terapia?</title>
-      <link>https://www.gruporeinserir.com.br/faq/-o-que-e%CC%81-ser-bem-tratade-em-uma-consulta-me%CC%81dica-ou-de-terapia/</link>
+      <link>http://localhost:1313/faq/-o-que-%C3%A9-ser-bem-tratade-em-uma-consulta-m%C3%A9dica-ou-de-terapia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/-o-que-e%CC%81-ser-bem-tratade-em-uma-consulta-me%CC%81dica-ou-de-terapia/</guid>
-      <description>Em uma clínica humanizada, suas especificidades são lidas e tratadas como diferenças legítimas entre os sujeitos humanos. E não como um apanhado de coisas que te fazem ser um estranho, híbrido e pejorativamente disruptivo. Se um trabalhador da saúde não sabe manejar isso, provavelmente, existe uma falha no processo dele, ou da instituição a que responde, de entender o humano pra além das normatividades produtivas vigentes. De maneira simples, é compreender que as regras que norteiam nossas convivência social são, historicamente, inventadas.</description>
+      <guid>http://localhost:1313/faq/-o-que-%C3%A9-ser-bem-tratade-em-uma-consulta-m%C3%A9dica-ou-de-terapia/</guid>
+      <description>&lt;p&gt;Em uma clínica humanizada, suas especificidades são lidas e tratadas como diferenças legítimas entre os  sujeitos humanos. E não como um apanhado de coisas que te fazem ser um estranho, híbrido e pejorativamente disruptivo. Se um trabalhador da saúde não sabe manejar isso, provavelmente, existe uma falha no processo dele, ou da instituição a que responde, de entender o humano pra além das normatividades produtivas vigentes. &lt;/p&gt;&#xA;&lt;p&gt;De maneira simples, é compreender que as regras que norteiam nossas convivência social são, historicamente, inventadas.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>A terapia não faz mais efeito!?</title>
-      <link>https://www.gruporeinserir.com.br/faq/a-terapia-na%CC%83o-faz-mais-efeito/</link>
+      <link>http://localhost:1313/faq/a-terapia-n%C3%A3o-faz-mais-efeito/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/a-terapia-na%CC%83o-faz-mais-efeito/</guid>
-      <description>O que você define por evolução? Melhoria continua? Ela precisa acontecer a todo e qualquer momento? Ou esse pensamento é mais uma daquelas famosas resistências que passamos durante o processo?
-Da mesma forma que seu corpo precisa de um treino mais leve às vezes ou aquelas séries com alongamentos, a sua psique também. Ou você acredita que num período de 6 meses, 1 ano ela se recupera de toda uma vida com pequenos traumas sofridos e engolidos à seco?</description>
+      <guid>http://localhost:1313/faq/a-terapia-n%C3%A3o-faz-mais-efeito/</guid>
+      <description>&lt;p&gt;O que você define por evolução? Melhoria continua? Ela precisa acontecer a todo e qualquer momento? Ou esse pensamento é mais uma daquelas famosas resistências que passamos durante o processo?&lt;/p&gt;&#xA;&lt;p&gt;Da mesma forma que seu corpo precisa de um treino mais leve às vezes ou aquelas séries com alongamentos, a sua psique também. Ou você acredita que num período de 6 meses, 1 ano ela se recupera de toda uma vida com pequenos traumas sofridos e engolidos à seco? Quantas horas de terapia foram feitas? Quantas horas semanais você dedica à si e aos refrescos necessários na vida adulta? A balança da sua vida tá equilibrada? Pensa nisso com calma, olha pra você e pro seu processo. A evolução acontece em ciclos de transformação e de vez em quando ela acontece sem percebermos de forma tão explícita 🙂&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Como contribuir com o Reinserir?</title>
-      <link>https://www.gruporeinserir.com.br/faq/como-contribuir-com-o-reinserir/</link>
+      <link>http://localhost:1313/faq/como-contribuir-com-o-reinserir/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/como-contribuir-com-o-reinserir/</guid>
-      <description>Se você se identifica com os nossos posicionamentos, perspectiva clínica e de saúde, tem alguma possibilidade de contribuir com projetos de democratização de acessos (mesmo que pouquinho) mas não sabe muito bem o que fazer, esse post é pra você. 🚩🏳️‍🌈
-Já tem um tempo, que se popularizaram na internet, as vaquinhas virtuais, ou seja, um jeito de custear coletivamente algo, que tá facinho aí no seu celular.
-Por isso, pensamos em uma saída que fosse além do combinado com sua terapeuta.</description>
+      <guid>http://localhost:1313/faq/como-contribuir-com-o-reinserir/</guid>
+      <description>&lt;p&gt;Se você se identifica com os nossos posicionamentos, perspectiva clínica e de saúde, tem alguma possibilidade de contribuir com projetos de democratização de acessos (mesmo que pouquinho) mas não sabe muito bem o que fazer, esse post é pra você. 🚩🏳️‍🌈&lt;/p&gt;&#xA;&lt;p&gt;Já tem um tempo, que se popularizaram na internet, as vaquinhas virtuais, ou seja, um jeito de custear coletivamente algo, que tá facinho aí no seu celular.&lt;/p&gt;&#xA;&lt;p&gt;Por isso, pensamos em uma saída que fosse além do combinado com sua terapeuta. Esse aí continua o mesmo.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Como convencer alguém a fazer terapia?</title>
-      <link>https://www.gruporeinserir.com.br/faq/como-convencer-algue%CC%81m-a-fazer-terapia/</link>
+      <link>http://localhost:1313/faq/como-convencer-algu%C3%A9m-a-fazer-terapia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/como-convencer-algue%CC%81m-a-fazer-terapia/</guid>
-      <description>&amp;ldquo;- Quantas terapeutas são necessárias pra trocar uma lâmpada? -Uma. Mas a lâmpada precisa querer ser trocada&amp;rdquo;.
-A piadinha de tio do pavê é pra ilustrar que a gente: Não convence, uai.
-Pode ser delicado e cuidadoso notar que o processo terapêutico poderia auxiliar alguém que é importante para nós. Mas essa noção de convencer pessoas a fazerem aquilo que achamos correto diz de uma maneira de se relacionar que por aqui, seguimos construindo críticas cada vez mais profundas.</description>
+      <guid>http://localhost:1313/faq/como-convencer-algu%C3%A9m-a-fazer-terapia/</guid>
+      <description>&lt;p&gt;&amp;ldquo;- Quantas terapeutas são necessárias pra trocar uma lâmpada? -Uma. Mas a lâmpada precisa querer ser trocada&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;A piadinha de tio do pavê é pra ilustrar que a gente: Não convence, uai.&lt;/p&gt;&#xA;&lt;p&gt;Pode ser delicado e cuidadoso notar que o processo terapêutico poderia auxiliar alguém que é importante para nós. Mas essa noção de convencer pessoas a fazerem aquilo que achamos correto diz de uma maneira de se relacionar que por aqui, seguimos construindo críticas cada vez mais profundas. O outro deve ter seu processo e autonomia respeitados, sempre.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Como estabelecer limites com os familiares nas festas de fim de ano?</title>
-      <link>https://www.gruporeinserir.com.br/faq/como-estabelecer-limites-com-os-familiares-nas-festas-de-fim-de-ano/</link>
+      <link>http://localhost:1313/faq/como-estabelecer-limites-com-os-familiares-nas-festas-de-fim-de-ano/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/como-estabelecer-limites-com-os-familiares-nas-festas-de-fim-de-ano/</guid>
-      <description>A gente aprende que o amor familiar é incondicional.
-Isso quer dizer sem condições, sem limites, sem restrições.
-Não te parece violento? Para a gente, parece.
-Por isso, não se acanhe ao precisar comunicar seus familiares sobre seus limites ou “condições”.
-Frases como:
-“Eu não quero esse tipo de brincadeira comigo.”
-“Você não deve falar assim comigo.”
-“Pare, eu não estou gostando/achando graça.”
-“Não, eu não vou/quero”
-Podem ser usadas sem grandes cerimônias.</description>
+      <guid>http://localhost:1313/faq/como-estabelecer-limites-com-os-familiares-nas-festas-de-fim-de-ano/</guid>
+      <description>&lt;p&gt;A gente aprende que o amor familiar é incondicional.&lt;br&gt;&#xA;Isso quer dizer sem condições, sem limites, sem restrições.&lt;br&gt;&#xA;Não te parece violento? Para a gente, parece.&lt;br&gt;&#xA;Por isso, não se acanhe ao precisar comunicar seus familiares sobre seus limites ou “condições”.&lt;br&gt;&#xA;&lt;br&gt;&#xA;Frases como:&lt;br&gt;&#xA;“Eu não quero esse tipo de brincadeira comigo.”&lt;br&gt;&#xA;“Você não deve falar assim comigo.”&lt;br&gt;&#xA;“Pare, eu não estou gostando/achando graça.”&lt;br&gt;&#xA;“Não, eu não vou/quero”&lt;br&gt;&#xA;&lt;br&gt;&#xA;Podem ser usadas sem grandes cerimônias. Respeitar o outro não deve ser algo penoso.&lt;br&gt;&#xA;&lt;br&gt;&#xA;E se ainda assim, depois de se comunicar, seus familiares ainda te desrespeitarem ou te agredirem, sim, você pode se retirar desse contexto. Sim, você pode manter a distância que achar necessária.&lt;br&gt;&#xA;&lt;br&gt;&#xA;A convivência familiar faz sentido quando existe respeito mútuo, identificações e afetos satisfatórios. Do contrário, é mera formalidade moral - da qual, sim, muitas vezes somos materialmente/financeiramente dependentes e isso também não deve nos submeter a violências, mesmo que você more com seus pais, você pode comunicar seus limites a eles.&lt;br&gt;&#xA;&lt;br&gt;&#xA;Sobre a imagem: “homem morando onde não lhe cabe mais” @susanocorreia&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Como funciona a psicoterapia com crianças? </title>
-      <link>https://www.gruporeinserir.com.br/faq/como-funciona-a-psicoterapia-com-crianc%CC%A7as/</link>
+      <link>http://localhost:1313/faq/como-funciona-a-psicoterapia-com-crian%C3%A7as/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/como-funciona-a-psicoterapia-com-crianc%CC%A7as/</guid>
-      <description>Como boa parte da infância: brincando. Jogos, bonecos, uma lousa na parede, lápis e giz espalhados por aí, as crianças literalmente pintam o setting. Todas as ferramentas de comunicação disponíveis são importantes, pra contribuir e desenvolver essa psique potente diante de nós, que necessita de um ambiente que permita sua manifestação e crescimento.
-Com o distanciamento social as estratégias se limitam às possibilidades virtuais, mas, ainda assim, é possível investir em um processo psicoterápico a depender da idade e acessos da criança.</description>
+      <guid>http://localhost:1313/faq/como-funciona-a-psicoterapia-com-crian%C3%A7as/</guid>
+      <description>&lt;p&gt;Como boa parte da infância: brincando. &lt;/p&gt;&#xA;&lt;p&gt;Jogos, bonecos, uma lousa na parede, lápis e giz espalhados  por aí, as crianças literalmente pintam o setting. Todas as ferramentas de comunicação disponíveis são importantes, pra contribuir e desenvolver essa psique potente diante de nós, que necessita de um ambiente que permita sua manifestação e crescimento.&lt;/p&gt;&#xA;&lt;p&gt;Com o distanciamento social as estratégias se limitam às possibilidades virtuais, mas, ainda assim, é possível investir em um processo psicoterápico a depender da idade e acessos da criança.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Como funciona a psicoterapia online?</title>
-      <link>https://www.gruporeinserir.com.br/faq/como-funciona-a-psicoterapia-online/</link>
+      <link>http://localhost:1313/faq/como-funciona-a-psicoterapia-online/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/como-funciona-a-psicoterapia-online/</guid>
-      <description>Com delay :P
-Brincadeiras à parte, a psicoterapia online tem sido uma importante ferramenta em saúde mental, principalmente em tempos de “isolamento” social.
-Pra isso, basta um ambiente privado, e o smartphone, ou computador. Mesmo através dos pixels é possível construir uma relação terapêutica.
-As sessões são feitas por chamada de vídeo, mensagens de texto, ou ligações, através de um app seguro, acordado previamente. Uma conexão de rede estável e fones de ouvido podem tornar esse processo mais fácil.</description>
+      <guid>http://localhost:1313/faq/como-funciona-a-psicoterapia-online/</guid>
+      <description>&lt;p&gt;Com delay :P&lt;/p&gt;&#xA;&lt;p&gt;Brincadeiras à parte, a psicoterapia online tem sido uma importante ferramenta em saúde mental, principalmente em tempos de “isolamento” social.&lt;/p&gt;&#xA;&lt;p&gt;Pra isso, basta um ambiente privado, e o smartphone, ou computador. &lt;/p&gt;&#xA;&lt;p&gt;Mesmo através dos pixels é possível construir uma relação terapêutica.&lt;/p&gt;&#xA;&lt;p&gt;As sessões são feitas por chamada de vídeo, mensagens de texto, ou ligações, através de um app seguro, acordado previamente. &lt;/p&gt;&#xA;&lt;p&gt;Uma conexão de rede estável e fones de ouvido podem tornar esse processo mais fácil. &lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Como funciona a terapia de casal? (Ou focada em relações afetivas-sexuais) </title>
-      <link>https://www.gruporeinserir.com.br/faq/como-funciona-a-terapia-de-casal-ou-focada-em-relac%CC%A7o%CC%83es-afetivas-sexuais/</link>
+      <link>http://localhost:1313/faq/como-funciona-a-terapia-de-casal-ou-focada-em-rela%C3%A7%C3%B5es-afetivas-sexuais/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/como-funciona-a-terapia-de-casal-ou-focada-em-relac%CC%A7o%CC%83es-afetivas-sexuais/</guid>
-      <description>Todo processo terapêutico deve ser um lugar seguro de fala, escuta e compartilhamentos. Em casal não é diferente.
-Esse modelo de terapia pode ser alternativa quando as questões, muitas vezes cotidianas, da relação, parecem não serem ouvidas o suficiente apenas por aqueles que as vivem. A mediação de uma terapeuta pode contribuir pra melhora da comunicação.
-É importante lembrar da importância dos processos terapêuticos individuais das pessoas envolvidas nessas relações. Tendo em vista que o sujeito é ainda mais complexo que o romance que o rodeia, a vida a dois (ou mais) não supre todas as demandas de uma existência e por isso a terapia que objetiva pensar uma determinada relação também não contempla todas as demandas dos sujeitos.</description>
+      <guid>http://localhost:1313/faq/como-funciona-a-terapia-de-casal-ou-focada-em-rela%C3%A7%C3%B5es-afetivas-sexuais/</guid>
+      <description>&lt;p&gt;Todo processo terapêutico deve ser um lugar seguro de fala, escuta e compartilhamentos. Em casal não é diferente.&lt;/p&gt;&#xA;&lt;p&gt;Esse modelo de terapia pode ser alternativa quando as questões, muitas vezes cotidianas, da relação, parecem não serem ouvidas o suficiente apenas por aqueles que as vivem. A mediação de uma terapeuta pode contribuir pra melhora da comunicação.&lt;/p&gt;&#xA;&lt;p&gt;É importante lembrar da importância dos processos terapêuticos individuais das pessoas envolvidas nessas relações. Tendo em vista que o sujeito é ainda mais complexo que o romance que o rodeia, a vida a dois (ou mais) não supre todas as demandas de uma existência e por isso a terapia que objetiva pensar uma determinada relação também não contempla todas as demandas dos sujeitos. É um recorte específico, uma cena entre muitas das vidas envolvidas. Entender esse limite é indispensável para o desenvolvimento do processo.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Como pesquisar o CRP de um psicólogo?</title>
-      <link>https://www.gruporeinserir.com.br/faq/como-pesquisar-o-crp-de-um-psic%C3%B3logo/</link>
+      <link>http://localhost:1313/faq/como-pesquisar-o-crp-de-um-psic%C3%B3logo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/como-pesquisar-o-crp-de-um-psic%C3%B3logo/</guid>
-      <description>Falamos que voltaríamos aqui para falar como pesquisar o CRP de psi, certo? E cá estamos.
-Para exercer a profissão de psi, além da graduação, o profissional precisa realizar a sua inscrição no Conselho Regional de Psicologia (CRP) no Estado em que atua. E mantê-lo ativo. Para saber se um psi tem seu registro ativo e está habilitado a exercer a profissão, existe dentro do site do Conselho Federal Psicologia um portal de busca.</description>
+      <guid>http://localhost:1313/faq/como-pesquisar-o-crp-de-um-psic%C3%B3logo/</guid>
+      <description>&lt;p&gt;Falamos que voltaríamos aqui para falar como pesquisar o CRP de psi, certo?&#xA;E cá estamos.&lt;/p&gt;&#xA;&lt;p&gt;Para exercer a profissão de psi, além da graduação, o profissional precisa realizar a sua inscrição no Conselho Regional de Psicologia (CRP) no Estado em que atua. E mantê-lo ativo. Para saber se um psi tem seu registro ativo e está habilitado a exercer a profissão, existe dentro do site do Conselho Federal Psicologia um portal de busca.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Como serão os atendimentos em tempos de pandemia?</title>
-      <link>https://www.gruporeinserir.com.br/faq/como-sera%CC%83o-os-atendimentos-em-tempos-de-pandemia/</link>
+      <link>http://localhost:1313/faq/como-ser%C3%A3o-os-atendimentos-em-tempos-de-pandemia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/como-sera%CC%83o-os-atendimentos-em-tempos-de-pandemia/</guid>
-      <description>Em tempos de pandemia, a prática do atendimento online tem sido um bom recurso para dar continuidade aos tratamentos psicológicos que já ocorriam presencialmente, e também para disponibilizar o serviço para novos pacientes. O trabalho da psicologia é de máxima importância neste momento, no qual há interferências advindas do desafio que é estar em isolamento social. Aqui no Reinserir contamos com uma equipe de psicólogs habilitads para atender de forma online os pacientes neste momento, onde nos encontramos em constante processo de adaptação e transformação coletiva.</description>
+      <guid>http://localhost:1313/faq/como-ser%C3%A3o-os-atendimentos-em-tempos-de-pandemia/</guid>
+      <description>&lt;p&gt;Em tempos de pandemia, a prática do atendimento online tem sido um bom recurso para dar continuidade aos tratamentos psicológicos que já ocorriam presencialmente, e também para disponibilizar o serviço para novos pacientes. O trabalho da psicologia é de máxima importância neste momento, no qual há interferências advindas do desafio que é estar em isolamento social. Aqui no Reinserir contamos com uma equipe de psicólogs habilitads para atender de forma online os pacientes neste momento, onde nos encontramos em constante processo de adaptação e transformação coletiva. Nossos atendimentos estão acontecendo 100% online, pois além de acreditar nesta modalidade, também valorizamos não só a saúde mental, mas também a física de nossos pacientes e de sua rede de convivência.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Como sobreviver sem terapia no recesso!?</title>
-      <link>https://www.gruporeinserir.com.br/faq/como-sobreviver-sem-terapia-no-recesso/</link>
+      <link>http://localhost:1313/faq/como-sobreviver-sem-terapia-no-recesso/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/como-sobreviver-sem-terapia-no-recesso/</guid>
-      <description>O título é em tom de piadinha mas a preocupação tem sido recorrente nas sessões.
-Ao final do ano, ritual já muito bem conhecido, com os feriados de natal e ano novo, muitas coisas param temporariamente seu funcionamento. Terapeutas costumam parar também e com isso chegam as temidas 3 ou 4 semanas sem terapia.
-Se esse medo te assola, você pode combinar estratégias com sua terapeuta. Escrever, ouvir música, fazer exercícios, todas essas coisas que a gente já sabe que gosta e faz bem, sabe?</description>
+      <guid>http://localhost:1313/faq/como-sobreviver-sem-terapia-no-recesso/</guid>
+      <description>&lt;p&gt;O título é em tom de piadinha mas a preocupação tem sido recorrente nas sessões.&lt;/p&gt;&#xA;&lt;p&gt;Ao final do ano, ritual já muito bem conhecido, com os feriados de natal e ano novo, muitas coisas param temporariamente seu funcionamento. Terapeutas costumam parar também e com isso chegam as temidas 3 ou 4 semanas sem terapia.&lt;/p&gt;&#xA;&lt;p&gt;Se esse medo te assola, você pode combinar estratégias com sua terapeuta. Escrever, ouvir música, fazer exercícios, todas essas coisas que a gente já sabe que gosta e faz bem, sabe?!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Como vocês lidam com a diversidade?</title>
-      <link>https://www.gruporeinserir.com.br/faq/como-voce%CC%82s-lidam-com-a-diversidade/</link>
+      <link>http://localhost:1313/faq/como-voc%C3%AAs-lidam-com-a-diversidade/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/como-voce%CC%82s-lidam-com-a-diversidade/</guid>
-      <description>Nós aprendemos com, para e por ela! Entendendo que os sujeitos são infinitos em suas possibilidades, as e os psis do Reinserir adotam perspectivas teóricas e práticas que excedam o padrão de meramente adaptar pessoas à cruel lógica de produção desse sistema, que ocasiona muitos sofrimentos encontrados na clínica. Aqui as cobras ganham asas!
-“Suspender o céu é ampliar o nosso horizonte existencial. É enriquecer as nossas subjetividades, que é a matéria que este tempo que nós vivemos quer consumir.</description>
+      <guid>http://localhost:1313/faq/como-voc%C3%AAs-lidam-com-a-diversidade/</guid>
+      <description>&lt;p&gt;Nós aprendemos com, para e por ela! Entendendo que os sujeitos são infinitos em suas possibilidades, as e os psis do Reinserir adotam perspectivas teóricas e práticas que excedam o padrão de meramente adaptar pessoas à cruel lógica de produção desse sistema, que ocasiona muitos sofrimentos encontrados na clínica. Aqui as cobras ganham asas!&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;“Suspender o céu é ampliar o nosso horizonte existencial. É enriquecer as nossas subjetividades, que é a matéria que este tempo que nós vivemos quer consumir. Se existe uma ânsia por consumir a natureza, existe também uma por consumir subjetividades - as nossas subjetividades. Então vamos vivê-las com a liberdade que fomos capazes de inventar, não botar ela no mercado. (&amp;hellip;) Definitivamente não somos iguais, e é maravilhoso saber que cada um de nós que está aqui é diferente do outro, como constelações. O fato de podermos compartilhar esse espaço, de estarmos juntos viajando não significa que somos iguais, significa exatamente que somos capazes de atrair uns aos outros pelas nossas diferenças, que deveriam guiar nosso roteiro de vida.”&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Cooperativismo é sobre solidariedade</title>
-      <link>https://www.gruporeinserir.com.br/faq/cooperativismo-e%CC%81-sobre-solidariedade/</link>
+      <link>http://localhost:1313/faq/cooperativismo-%C3%A9-sobre-solidariedade/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/cooperativismo-e%CC%81-sobre-solidariedade/</guid>
-      <description>E solidariedade é uma prática política. É uma escolha, diante de uma percepção coletiva e democrática de mundo. É olhar o outro em si e a si no outro. Entender-se enquanto ‘um-múltiplo’.
-Não por dom, ou missão espiritual, não por um dogma religioso - mas também, se te fizer sentido. Ser solidário é ser parte de algo, não ser só. Como toda prática, é intermediada por um pensar-sentir e também o constrói, de volta.</description>
+      <guid>http://localhost:1313/faq/cooperativismo-%C3%A9-sobre-solidariedade/</guid>
+      <description>&lt;p&gt;E solidariedade é uma prática política. É uma escolha, diante de uma percepção coletiva e democrática de mundo. É olhar o outro em si e a si no outro. Entender-se enquanto ‘um-múltiplo’.&lt;/p&gt;&#xA;&lt;p&gt;Não por dom, ou missão espiritual, não por um dogma religioso - mas também, se te fizer sentido. Ser solidário é ser parte de algo, não ser só. Como toda prática, é intermediada por um pensar-sentir e também o constrói, de volta. É processo contínuo de interação e transformação entre si e o mundo. &lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>E como o cooperativismo atravessa o Reinserir?</title>
-      <link>https://www.gruporeinserir.com.br/faq/e-como-o-cooperativismo-atravessa-o-reinserir/</link>
+      <link>http://localhost:1313/faq/e-como-o-cooperativismo-atravessa-o-reinserir/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/e-como-o-cooperativismo-atravessa-o-reinserir/</guid>
-      <description>Legalmente, o Reinserir é uma empresa, com CNPJ.
-Na prática, temos algumas divisões e diferenças de vínculos, que vocês podem conferir ali nos destaques. Coisas que foram se encaixando no nosso processo de construção, de forma que desse conta das demandas das chegadas e saídas e tornasse o projeto viável, apesar da ausência de um grande fluxo de investimento monetário. Como já falamos, somos um grupo de trabalhadores, psicólogos, construindo uma alternativa.</description>
+      <guid>http://localhost:1313/faq/e-como-o-cooperativismo-atravessa-o-reinserir/</guid>
+      <description>&lt;p&gt;Legalmente, o Reinserir é uma empresa, com CNPJ.&lt;/p&gt;&#xA;&lt;p&gt;Na prática, temos algumas divisões e diferenças de vínculos, que vocês podem conferir ali nos destaques. Coisas que foram se encaixando no nosso processo de construção, de forma que desse conta das demandas das chegadas e saídas e tornasse o projeto viável, apesar da ausência de um grande fluxo de investimento monetário. Como já falamos, somos um grupo de trabalhadores, psicólogos, construindo uma alternativa. Não contamos com financiamentos externos, por hora.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>E o retorno às atividades presenciais?</title>
-      <link>https://www.gruporeinserir.com.br/faq/e-o-retorno-a%CC%80s-atividades-presenciais/</link>
+      <link>http://localhost:1313/faq/e-o-retorno-%C3%A0s-atividades-presenciais/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/e-o-retorno-a%CC%80s-atividades-presenciais/</guid>
-      <description>Por aqui, estamos organizando… novo espaço, novas pessoas…
-mas por aí vocês já estão lutando, né?
-E aí aparecem umas coisas estranhas, uns medos, vergonhas, angústias, as habilidades sociais parecem ter ido pro isolamento e não saído mais. Mas fala sério, quem, depois de 2 anos de pandemia, distanciamento, preocupação e perdas, vai voltar pra vida com a mesma facilidade de sempre?
-As caretas que acostumamos fazer por baixo da máscara?</description>
+      <guid>http://localhost:1313/faq/e-o-retorno-%C3%A0s-atividades-presenciais/</guid>
+      <description>&lt;p&gt;Por aqui, estamos organizando… novo espaço, novas pessoas…&lt;/p&gt;&#xA;&lt;p&gt;mas por aí vocês já estão lutando, né?&lt;/p&gt;&#xA;&lt;p&gt;E aí aparecem umas coisas estranhas, uns medos, vergonhas, angústias, as habilidades sociais parecem ter ido pro isolamento e não saído mais. &lt;/p&gt;&#xA;&lt;p&gt;Mas fala sério, quem, depois de 2 anos de pandemia, distanciamento, preocupação e perdas, vai voltar pra vida com a mesma facilidade de sempre?&lt;/p&gt;&#xA;&lt;p&gt;As caretas que acostumamos fazer por baixo da máscara? Fazem parte;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>E os valores das sessões? Por que não são divulgados?</title>
-      <link>https://www.gruporeinserir.com.br/faq/e-os-valores-das-sesso%CC%83es-por-que-na%CC%83o-sa%CC%83o-divulgados/</link>
+      <link>http://localhost:1313/faq/e-os-valores-das-sess%C3%B5es-por-que-n%C3%A3o-s%C3%A3o-divulgados/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/e-os-valores-das-sesso%CC%83es-por-que-na%CC%83o-sa%CC%83o-divulgados/</guid>
-      <description>O Reinserir é uma rede, um grupo de psis de diferentes formações e abordagens, com um compromisso social em comum. Por isso, cada pessoa atendida combina com sua ou seu terapeuta qual será o valor da sessão. Esse valor acordado está entre um valor sugerido, aquele “ideal”, e um valor mínimo, considerado como atendimento social, que respeita as diretrizes dos Conselhos da profissão e que assegura o custo da estrutura necessária para o atendimento.</description>
+      <guid>http://localhost:1313/faq/e-os-valores-das-sess%C3%B5es-por-que-n%C3%A3o-s%C3%A3o-divulgados/</guid>
+      <description>&lt;p&gt;O Reinserir é uma rede, um grupo de psis de diferentes formações e abordagens, com um compromisso social em comum. Por isso, cada pessoa atendida combina com sua ou seu terapeuta qual será o valor da sessão. Esse valor acordado está entre um valor sugerido, aquele “ideal”, e um valor mínimo, considerado como atendimento social, que respeita as diretrizes dos Conselhos da profissão e que assegura o custo da estrutura necessária para o atendimento.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>E se eu me atrasar pra terapia?</title>
-      <link>https://www.gruporeinserir.com.br/faq/e-se-eu-me-atrasar-pra-terapia/</link>
+      <link>http://localhost:1313/faq/e-se-eu-me-atrasar-pra-terapia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/e-se-eu-me-atrasar-pra-terapia/</guid>
-      <description>Essa semana temos tópico de reunião de condomínio por aqui 🤓
-Intercorrências, imprevistos, remarcações, atrasos, acontecem. Com qualquer pessoa. Assim que você souber da impossibilidade de estar disponível no horário agendado, avisa sua terapeuta. Esses 50 minutos na agenda podem fazer diferença pra ela ou pra outra pessoa.
-Esses dias uma prima tipicamente paulistana veio resolver uma coisa aqui perto de casa, cidade pequena, e surpresa exclamou “nossa, aqui as pessoas respeitam o tempo!</description>
+      <guid>http://localhost:1313/faq/e-se-eu-me-atrasar-pra-terapia/</guid>
+      <description>&lt;p&gt;Essa semana temos tópico de reunião de condomínio por aqui 🤓&lt;/p&gt;&#xA;&lt;p&gt;Intercorrências, imprevistos, remarcações, atrasos, acontecem. Com qualquer pessoa. &lt;/p&gt;&#xA;&lt;p&gt;Assim que você souber da impossibilidade de estar disponível no horário agendado, avisa sua terapeuta. Esses 50 minutos na agenda podem fazer diferença pra ela ou pra outra pessoa.&lt;/p&gt;&#xA;&lt;p&gt;Esses dias uma prima tipicamente paulistana veio resolver uma coisa aqui perto de casa, cidade pequena, e surpresa exclamou “nossa, aqui as pessoas respeitam o tempo!”. Sim, precisamos respeitar o tempo do outro. Pode ser difícil se lembrar disso nos dias corridos em que se é engolido pela grande máquina de moer gente chamada cidade, mas, precisamos lembrar. &lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Há limites na comunicação com a terapeuta?</title>
-      <link>https://www.gruporeinserir.com.br/faq/ha%CC%81-limites-na-comunicac%CC%A7a%CC%83o-com-a-terapeuta/</link>
+      <link>http://localhost:1313/faq/h%C3%A1-limites-na-comunica%C3%A7%C3%A3o-com-a-terapeuta/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/ha%CC%81-limites-na-comunicac%CC%A7a%CC%83o-com-a-terapeuta/</guid>
-      <description>Como em toda relação, sim.
-Nós acreditamos em um setting terapêutico que, sim, extrapola as paredes do consultório e hoje, com a exclusividade dos atendimentos online, dos pixels simultâneos. Mas, lembra quando falamos sobre o trabalho remoto ter transformado t-o-d-o tempo em obrigatoriamente produtivo? Pois então, muitas vezes essa mesma lógica é aplicada na expectativa de que a terapeuta esteja sempre disponível. No geral, por aqui nós gostamos bastante de receber memes, músicas, poemas e tantos símbolos alternativos que cabem aos processos terapêuticos de forma singular e irreverente.</description>
+      <guid>http://localhost:1313/faq/h%C3%A1-limites-na-comunica%C3%A7%C3%A3o-com-a-terapeuta/</guid>
+      <description>&lt;p&gt;Como em toda relação, sim.&lt;/p&gt;&#xA;&lt;p&gt;Nós acreditamos em um setting terapêutico que, sim, extrapola as paredes do consultório e hoje, com a exclusividade dos atendimentos online, dos pixels simultâneos. Mas, lembra quando falamos sobre o trabalho remoto ter transformado t-o-d-o tempo em obrigatoriamente produtivo? Pois então, muitas vezes essa mesma lógica é aplicada na expectativa de que a terapeuta esteja sempre disponível. &lt;/p&gt;&#xA;&lt;p&gt;No geral, por aqui nós gostamos bastante de receber memes, músicas, poemas e tantos símbolos alternativos que cabem aos processos terapêuticos de forma singular e irreverente. É massa. Continuem. &lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Me sinto julgado(a) pela minha terapeuta. E agora?</title>
-      <link>https://www.gruporeinserir.com.br/faq/me-sinto-julgado-a-pela-minha-terapeuta-e-agora/</link>
+      <link>http://localhost:1313/faq/me-sinto-julgado-a-pela-minha-terapeuta-e-agora/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/me-sinto-julgado-a-pela-minha-terapeuta-e-agora/</guid>
-      <description>Em um primeiro momento é importante conversar com a terapeuta e discorrer sobre essa sensação de estar sendo julgade - não se preocupe, ninguém levará para o pessoal (assim esperamos D:)
-Importante destacar: quais assuntos você se sente ou se sentiu julgade? Teve algum dia específico? O que foi dito que te trouxe essa sensação de ser julgade?
-É importante falar sobre isso para que ambos possam entender o que é de cada um (o que é da terapeuta e o que é do paciente) e refletir: “será que a terapeuta está mesmo me julgando?</description>
+      <guid>http://localhost:1313/faq/me-sinto-julgado-a-pela-minha-terapeuta-e-agora/</guid>
+      <description>&lt;p&gt;Em um primeiro momento é importante conversar com a terapeuta e discorrer sobre essa sensação de estar sendo julgade - não se preocupe, ninguém levará para o pessoal (assim esperamos D:)&lt;br&gt;&#xA;&lt;br&gt;&#xA;Importante destacar: quais assuntos você se sente ou se sentiu julgade? Teve algum dia específico? O que foi dito que te trouxe essa sensação de ser julgade?&lt;br&gt;&#xA;&lt;br&gt;&#xA;É importante falar sobre isso para que ambos possam entender o que é de cada um (o que é da terapeuta e o que é do paciente) e refletir: “será que a terapeuta está mesmo me julgando?”&lt;br&gt;&#xA;&lt;br&gt;&#xA;Pode ser que a psi precisou ser mais assertiva em algum momento e isso atravessou algum sintoma, tocando em um ponto sensível do paciente, e o mesmo entendeu como um possível julgamento.&lt;br&gt;&#xA;&lt;br&gt;&#xA;Por isso é interessante levar essa percepção para análise, visto que a relação entre psi e paciente é uma relação entre dois seres humanos, e dessa interação podem surgir diversas questões.&lt;br&gt;&#xA;&lt;br&gt;&#xA;Um ponto para ser reforçado: se tratando de questões raciais, de gênero, sexualidade e etc., é fundamental também que você, paciente, converse com sua rede de apoio, principalmente com pessoas pertencentes ao mesmo grupo, para que se tenha também as considerações desse grupo e um olhar diferente de quem está de fora.&lt;br&gt;&#xA;Muitas vezes estamos tão envolvidos emocionalmente que fica difícil analisar a situação de forma mais objetiva, no entanto não descarte ou ignore essa sensação, converse com seu(sua) psi, com pessoas de confiança e faça uma análise crítica sobre a situação.&lt;br&gt;&#xA;&lt;br&gt;&#xA;E lembre-se, você não é obrigade a permanecer onde não se sente confortável; você também pode escolher trocar de terapeuta (:&lt;br&gt;&#xA;&lt;br&gt;&#xA;Imagem: “caindo em desespero, na procura do eu” de @susanocorreia&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Meu diagnóstico me define?</title>
-      <link>https://www.gruporeinserir.com.br/faq/meu-diagno%CC%81stico-me-define/</link>
+      <link>http://localhost:1313/faq/meu-diagn%C3%B3stico-me-define/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/meu-diagno%CC%81stico-me-define/</guid>
-      <description>Não.
-Se a gente sentar juntinho e for olhar o CID e o DSM, vamos encontrar um diagnóstico pra cada um, quiçá mais de um. Isso mesmo. Todo mundo vai ter um diagnóstico. E porque??? Bem, pra indústria da “saúde” (farmacêutica, médica, cosmética, terapêutica, hospitalar etc) vender suas curas, precisa de pessoas lidas como doentes.
-Isso quer dizer que meu sofrimento (que foi nomeado com determinado diagnóstico) não existe?????</description>
+      <guid>http://localhost:1313/faq/meu-diagn%C3%B3stico-me-define/</guid>
+      <description>&lt;p&gt;Não.&lt;/p&gt;&#xA;&lt;p&gt;Se a gente sentar juntinho e for olhar o CID e o DSM, vamos encontrar um diagnóstico pra cada um, quiçá mais de um. Isso mesmo. Todo mundo vai ter um diagnóstico. E porque??? Bem, pra indústria da “saúde” (farmacêutica, médica, cosmética, terapêutica, hospitalar etc) vender suas curas, precisa de pessoas lidas como doentes.&lt;/p&gt;&#xA;&lt;p&gt;Isso quer dizer que meu sofrimento (que foi nomeado com determinado diagnóstico) não existe?????&lt;br&gt;&#xA;Claro que não. Os sofrimentos tão aí, reais, concretos e dolorosos, inclusive produzidos por esse mesmo sistema a quem a tal indústria serve. &lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Minha terapeuta deve me lembrar da nossa sessão?</title>
-      <link>https://www.gruporeinserir.com.br/faq/minha-terapeuta-deve-me-lembrar-da-nossa-sess%C3%A3o/</link>
+      <link>http://localhost:1313/faq/minha-terapeuta-deve-me-lembrar-da-nossa-sess%C3%A3o/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/minha-terapeuta-deve-me-lembrar-da-nossa-sess%C3%A3o/</guid>
-      <description>Não.
-Essa foi fácil :p
-Brincadeiras a parte, não, ela não deve, esta é uma responsabilidade sua.
-Entendemos a vida corrida, os prazos apertados e horas extras, por aqui também vivenciamos todos estes impasses, por isto é importante usar e abusar de alguns recursos que podem nos ajudar com isto.
-Alexa, despertador, post-it, e até mesmo trocar com a sua terapeuta sobre a dificuldade de lembrar da sessão - também pode estar atrelado a sintomas terapêuticos.</description>
+      <guid>http://localhost:1313/faq/minha-terapeuta-deve-me-lembrar-da-nossa-sess%C3%A3o/</guid>
+      <description>&lt;p&gt;Não.&lt;br&gt;&#xA;&lt;br&gt;&#xA;Essa foi fácil :p&lt;br&gt;&#xA;&lt;br&gt;&#xA;Brincadeiras a parte, não, ela não deve, esta é uma responsabilidade sua.&lt;br&gt;&#xA;&lt;br&gt;&#xA;Entendemos a vida corrida, os prazos apertados e horas extras, por aqui também vivenciamos todos estes impasses, por isto é importante usar e abusar de alguns recursos que podem nos ajudar com isto.&lt;br&gt;&#xA;&lt;br&gt;&#xA;Alexa, despertador, post-it, e até mesmo trocar com a sua terapeuta sobre a dificuldade de lembrar da sessão - também pode estar atrelado a sintomas terapêuticos.&lt;br&gt;&#xA;&lt;br&gt;&#xA;No mais, vale a pena refletir o quanto estamos acostumados a transferir responsabilidades nossas para outres e o quão nocivo esta dinâmica se faz para todos os envolvidos.&lt;br&gt;&#xA;&lt;br&gt;&#xA;Imagem: Salvador Dali, I O Sono, 1937&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Minha terapeuta me deve respostas?</title>
-      <link>https://www.gruporeinserir.com.br/faq/minha-terapeuta-me-deve-respostas/</link>
+      <link>http://localhost:1313/faq/minha-terapeuta-me-deve-respostas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/minha-terapeuta-me-deve-respostas/</guid>
-      <description>Não.
-Há um tempo temos pensado sobre a forma que as coisas são trazidas para o ambiente terapêutico.
-As queixas são jogadas pelo setting e em seguida, a pausa de quem espera uma devolutiva, quase como um receituário. Quando não, uma cobrança direta.
-Isso porque o modelo biomédico impera e o encontro da terapia se confunde com uma consulta qualquer? Pode ser.
-Ou porque nós sujeitos já nos conformamos à passividade exploratória a qual somos submetidos pelo sistema, pela família, pelas relações afetivas, de gênero etc?</description>
+      <guid>http://localhost:1313/faq/minha-terapeuta-me-deve-respostas/</guid>
+      <description>&lt;p&gt;Não.&lt;/p&gt;&#xA;&lt;p&gt;Há um tempo temos pensado sobre a forma que as coisas são trazidas para o ambiente terapêutico.&lt;/p&gt;&#xA;&lt;p&gt;As queixas são jogadas pelo setting e em seguida, a pausa de quem espera uma devolutiva, quase como um receituário. Quando não, uma cobrança direta.&lt;/p&gt;&#xA;&lt;p&gt;Isso porque o modelo biomédico impera e o encontro da terapia se confunde com uma consulta qualquer? Pode ser.&lt;/p&gt;&#xA;&lt;p&gt;Ou porque nós sujeitos já nos conformamos à passividade exploratória a qual somos submetidos pelo sistema, pela família, pelas relações afetivas, de gênero etc? Pode ser.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Minha terapeuta me encaminhou, e agora?</title>
-      <link>https://www.gruporeinserir.com.br/faq/minha-terapeuta-me-encaminhou-e-agora/</link>
+      <link>http://localhost:1313/faq/minha-terapeuta-me-encaminhou-e-agora/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/minha-terapeuta-me-encaminhou-e-agora/</guid>
-      <description>Basicamente, sua terapeuta percebeu que alguma outra relação pode contribuir com seu processo. Isso vale para encaminhamentos à outras especialidades (como psiquiatras etc) mas também, quando um terapeuta nota indícios de que a relação terapêutica em questão, se esgotou ou esbarrou em algum limite. As relações humanas, todas, seguem fluxos contínuos de construção e transformações. A eternidade, por hora, parece não se aplicar a elas. Então, também não se aplica às relações terapêuticas/ de análise.</description>
+      <guid>http://localhost:1313/faq/minha-terapeuta-me-encaminhou-e-agora/</guid>
+      <description>&lt;p&gt;Basicamente, sua terapeuta percebeu que alguma outra relação pode contribuir com seu processo. Isso vale para encaminhamentos à outras especialidades (como psiquiatras etc) mas também, quando um terapeuta nota indícios de que a relação terapêutica em questão, se esgotou ou esbarrou em algum limite. &lt;/p&gt;&#xA;&lt;p&gt;As relações humanas, todas, seguem fluxos contínuos de construção e transformações. A eternidade, por hora, parece não se aplicar a elas. Então, também não se aplica às relações terapêuticas/ de análise.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Minha terapeuta pode atender meus amigos?</title>
-      <link>https://www.gruporeinserir.com.br/faq/minha-terapeuta-pode-atender-meus-amigos/</link>
+      <link>http://localhost:1313/faq/minha-terapeuta-pode-atender-meus-amigos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/minha-terapeuta-pode-atender-meus-amigos/</guid>
-      <description>Sim, ué. A sua terapeuta pode atender seu(s) amigues, contanto que não seja um problema ou questão para nenhuma das partes envolvidas. O olhar da terapeuta será para a individualidade e a vivência de cada um – afinal, são pessoas distintas. A amizade não irá interferir no acompanhamento terapêutico, mas caso você perceba que está interferindo de alguma forma, leve para a sua sessão para entender, junto com sua terapeuta, o que está acontecendo e o que pode ser feito para que todas as partes se sintam confortáveis em seus processos.</description>
+      <guid>http://localhost:1313/faq/minha-terapeuta-pode-atender-meus-amigos/</guid>
+      <description>&lt;p&gt;Sim, ué.&#xA;A sua terapeuta pode atender seu(s) amigues, contanto que não seja um problema ou questão para nenhuma das partes envolvidas.&#xA;O olhar da terapeuta será para a individualidade e a vivência de cada um – afinal, são pessoas distintas.&#xA;A amizade não irá interferir no acompanhamento terapêutico, mas caso você perceba que está interferindo de alguma forma, leve para a sua sessão para entender, junto com sua terapeuta, o que está acontecendo e o que pode ser feito para que todas as partes se sintam confortáveis em seus processos.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Não quero mais. E agora?</title>
-      <link>https://www.gruporeinserir.com.br/faq/na%CC%83o-quero-mais-e-agora/</link>
+      <link>http://localhost:1313/faq/n%C3%A3o-quero-mais-e-agora/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/na%CC%83o-quero-mais-e-agora/</guid>
-      <description>E a pauta da reunião de condomínio de hoje é: bolo na terapeuta
-A gente sabe que a vida tá corrida e dá pra esquecer do horário e até de responder, quem nunca respondeu só com o coração e esqueceu de digitar, não é mesmo?!
-Mas vez ou outra (às vezes bem frequente) a galera tem deixado de responder e isso dificulta todo o processo além de poder dizer um tanto sobre como temos levado nossas relações, né?</description>
+      <guid>http://localhost:1313/faq/n%C3%A3o-quero-mais-e-agora/</guid>
+      <description>&lt;p&gt;E a pauta da reunião de condomínio de hoje é: bolo na terapeuta&lt;/p&gt;&#xA;&lt;p&gt;A gente sabe que a vida tá corrida e dá pra esquecer do horário e até de responder, quem nunca respondeu só com o coração e esqueceu de digitar, não é mesmo?!&lt;/p&gt;&#xA;&lt;p&gt;Mas vez ou outra (às vezes bem frequente) a galera tem deixado de responder e isso dificulta todo o processo além de poder dizer um tanto sobre como temos levado nossas relações, né?!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>O medo de fazer uma escolha errada, te paralisa?</title>
-      <link>https://www.gruporeinserir.com.br/faq/o-medo-de-fazer-uma-escolha-errada-te-paralisa/</link>
+      <link>http://localhost:1313/faq/o-medo-de-fazer-uma-escolha-errada-te-paralisa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/o-medo-de-fazer-uma-escolha-errada-te-paralisa/</guid>
-      <description>Pera aí, o que é errado? É algo que não saiu como você planejou ou saiu do seu controle? É algo pelo qual você pode receber uma punição? É algo mais genérico que simplesmente é reproduzido socialmente como errado?!
-Responde aí e guarda essa informação na mão esquerda. Agora, essa escolha, é tipo qual sabor de sorvete você vai tomar hoje? É o curso da faculdade que você vai escolher depois de 3 anos estudando pro vestibular?</description>
+      <guid>http://localhost:1313/faq/o-medo-de-fazer-uma-escolha-errada-te-paralisa/</guid>
+      <description>&lt;p&gt;Pera aí, o que é errado? É algo que não saiu como você planejou ou saiu do seu controle? É algo pelo qual você pode receber uma punição? É algo mais genérico que simplesmente é reproduzido socialmente como errado?!&lt;/p&gt;&#xA;&lt;p&gt;Responde aí e guarda essa informação na mão esquerda. &lt;/p&gt;&#xA;&lt;p&gt;Agora, essa escolha, é tipo qual sabor de sorvete você vai tomar hoje? É o curso da faculdade que você vai escolher depois de 3 anos estudando pro vestibular? É qual conta você vai pagar já que o dinheiro não dá pra todas? Dos três níveis de complexidade, qual chega mais perto da sua escolha? &lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>O psicólogo pode revelar o que foi dito na terapia?</title>
-      <link>https://www.gruporeinserir.com.br/faq/o-psico%CC%81logo-pode-revelar-o-que-foi-dito-na-terapia/</link>
+      <link>http://localhost:1313/faq/o-psic%C3%B3logo-pode-revelar-o-que-foi-dito-na-terapia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/o-psico%CC%81logo-pode-revelar-o-que-foi-dito-na-terapia/</guid>
-      <description>O artigo 21 do código de ética da psicologia garante sigilo às pessoas atendidas por profissionais da área. No artigo 27 vemos que este sigilo pode ser quebrado diante de casos delituosos contra a pessoa atendida ou cometidos por ela, isto é, quando existem crimes envolvidos no conteúdo trazido. Dito isso, a leitura que fazemos é crítica. Pois os processos de judicialização pouca ou nenhuma efetividade tem na vida dos sujeitos, até porque, essa mesma judicialização está a serviço de uma lógica que contrariamos.</description>
+      <guid>http://localhost:1313/faq/o-psic%C3%B3logo-pode-revelar-o-que-foi-dito-na-terapia/</guid>
+      <description>&lt;p&gt;O artigo 21 do código de ética da psicologia garante sigilo às pessoas atendidas por profissionais da área. No artigo 27 vemos que este sigilo pode ser quebrado diante de casos delituosos contra a pessoa atendida ou cometidos por ela, isto é, quando existem crimes envolvidos no conteúdo trazido. Dito isso, a leitura que fazemos é crítica. Pois os processos de judicialização pouca ou nenhuma efetividade tem na vida dos sujeitos, até porque, essa mesma judicialização está a serviço de uma lógica que contrariamos. &lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>O que devo falar em uma primeira sessão de psicoterapia?</title>
-      <link>https://www.gruporeinserir.com.br/faq/o-que-devo-falar-em-uma-primeira-sessa%CC%83o-de-psicoterapia/</link>
+      <link>http://localhost:1313/faq/o-que-devo-falar-em-uma-primeira-sess%C3%A3o-de-psicoterapia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/o-que-devo-falar-em-uma-primeira-sessa%CC%83o-de-psicoterapia/</guid>
-      <description>Venha como está, conte o que tem te angustiado, do que você gosta, do que detesta, o que estuda ou trabalha, quantos anos você tem, se quiser, conte a história da sua vida. No que você acredita, como chegou ali, quem te falou sobre o processo psicoterápico e o que você espera dele. Para as crianças: brinquem! Esse é seu espaço, seu lugar. Uma primeira sessão pode servir pra que a relação terapêutica comece a surgir à partir de informações fundamentais, mas lembre-se: fale sobre o que quiser.</description>
+      <guid>http://localhost:1313/faq/o-que-devo-falar-em-uma-primeira-sess%C3%A3o-de-psicoterapia/</guid>
+      <description>&lt;p&gt;Venha como está, conte o que tem te angustiado, do que você gosta, do que detesta, o que estuda ou trabalha, quantos anos você tem, se quiser, conte a história da sua vida. No que você acredita, como chegou ali, quem te falou sobre o processo psicoterápico e o que você espera dele. Para as crianças: brinquem! Esse é seu espaço, seu lugar. Uma primeira sessão pode servir pra que a relação terapêutica comece a surgir à partir de informações fundamentais, mas lembre-se: fale sobre o que quiser.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>O que é &#34;rede de apoio&#34;?</title>
-      <link>https://www.gruporeinserir.com.br/faq/o-que-e%CC%81-rede-de-apoio/</link>
+      <link>http://localhost:1313/faq/o-que-%C3%A9-rede-de-apoio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/o-que-e%CC%81-rede-de-apoio/</guid>
-      <description>Um assunto frequente quando se pensa em trabalho na atenção primária em saúde ou quando se pensa criticamente a maternidade, a expressão “rede de apoio” tem tomado cada vez mais visibilidade.
-Mas o que é?
-Pensar em rede é saber com quem e como se pode articular, desde o manejo de um quadro clínico, aos cuidados de crianças ou os sofrimentos produzidos cotidianamente pela vida.
-Uma rede de pessoas (e não tem um número ideal, viu?</description>
+      <guid>http://localhost:1313/faq/o-que-%C3%A9-rede-de-apoio/</guid>
+      <description>&lt;p&gt;Um assunto frequente quando se pensa em trabalho na atenção primária em saúde ou quando se pensa criticamente a maternidade, a expressão “rede de apoio” tem tomado cada vez mais visibilidade.&lt;/p&gt;&#xA;&lt;p&gt;Mas o que é?&lt;/p&gt;&#xA;&lt;p&gt;Pensar em rede é saber com quem e como se pode articular, desde o manejo de um quadro clínico, aos cuidados de crianças ou os sofrimentos produzidos cotidianamente pela vida.&lt;/p&gt;&#xA;&lt;p&gt;Uma rede de pessoas (e não tem um número ideal, viu? Cada vida é uma vida), com quem podemos demandar e receber , trocar cuidados, presenças, problemas.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>O que é a Psicossomática?</title>
-      <link>https://www.gruporeinserir.com.br/faq/o-que-e%CC%81-psicossoma%CC%81tica/</link>
+      <link>http://localhost:1313/faq/o-que-%C3%A9-psicossom%C3%A1tica/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/o-que-e%CC%81-psicossoma%CC%81tica/</guid>
-      <description>Estudados pela medicina, psicologia, psicanálise e outras perspectivas, os fenômenos psicossomáticos, sinteticamente, são materializações, físicas e/ou sensoriais estimuladas por sofrimentos produzidos pela relação entre sujeito e ambiente. Geralmente agravados ou intensificados diante de uma recusa ou negligência no manejo. Dores e inflamações recorrentes de garganta, fibromialgia, alergias, crises respiratórias, tensão muscular e dores de cabeça são alguns dos quadros clínicos comuns que, através das décadas, foram sendo observados empiricamente e, diante da ausência de causas orgânicas, entendidos como possíveis manifestações “visíveis” para os sofrimentos humanos.</description>
+      <guid>http://localhost:1313/faq/o-que-%C3%A9-psicossom%C3%A1tica/</guid>
+      <description>&lt;p&gt;Estudados pela medicina, psicologia, psicanálise e outras perspectivas, os fenômenos psicossomáticos, sinteticamente, são materializações, físicas e/ou sensoriais estimuladas por sofrimentos produzidos pela relação entre sujeito e ambiente. &lt;/p&gt;&#xA;&lt;p&gt;Geralmente agravados ou intensificados diante de uma recusa ou negligência no manejo. &lt;/p&gt;&#xA;&lt;p&gt;Dores e inflamações recorrentes de garganta, fibromialgia, alergias, crises respiratórias, tensão muscular e dores de cabeça são alguns dos quadros clínicos comuns que, através das décadas, foram sendo observados empiricamente e, diante da ausência de causas orgânicas, entendidos como possíveis manifestações “visíveis” para os sofrimentos humanos. &lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>O que é cooperativismo?</title>
-      <link>https://www.gruporeinserir.com.br/faq/o-que-e%CC%81-cooperativismo/</link>
+      <link>http://localhost:1313/faq/o-que-%C3%A9-cooperativismo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/o-que-e%CC%81-cooperativismo/</guid>
-      <description>Lembram daquela história que já falamos algumas vezes sobre o desmonte das leis trabalhistas e as consequentes mudanças nas relações de trabalho? Então, nesse sentido, temos visto alguns conceitos ganhando visibilidade, como alternativas possíveis de trabalho, renda e sobrevivência. Um deles é a noção de cooperativa.
-O cooperativismo é uma estratégia de administração de um negócio, que implica num grupo de trabalhadores com atividades/interesses econômicos em comum, compartilhando as decisões a serem tomadas.</description>
+      <guid>http://localhost:1313/faq/o-que-%C3%A9-cooperativismo/</guid>
+      <description>&lt;p&gt;Lembram daquela história que já falamos algumas vezes sobre o desmonte das leis trabalhistas e as consequentes mudanças nas relações de trabalho? Então, nesse sentido, temos visto alguns conceitos ganhando visibilidade, como alternativas possíveis de trabalho, renda e sobrevivência. &lt;/p&gt;&#xA;&lt;p&gt;Um deles é a noção de cooperativa.&lt;/p&gt;&#xA;&lt;p&gt;O cooperativismo é uma estratégia de administração de um negócio, que implica num grupo de trabalhadores com atividades/interesses econômicos em comum, compartilhando as decisões a serem tomadas.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>O que falar em uma primeira sessão de psicoterapia?</title>
-      <link>https://www.gruporeinserir.com.br/faq/o-que-falar-em-uma-primeira-sessa%CC%83o-de-psicoterapia/</link>
+      <link>http://localhost:1313/faq/o-que-falar-em-uma-primeira-sess%C3%A3o-de-psicoterapia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/o-que-falar-em-uma-primeira-sessa%CC%83o-de-psicoterapia/</guid>
-      <description>Como a gente nunca cansa de dizer: o que você quiser. Pode começar pela semana. Pela última briga com a mãe. Com aquela coisa que aconteceu na infância. Ou por isso que você pensou enquanto tomava o café da manhã de hoje. Não existem grandes regras. Algumas terapeutas fazem perguntas iniciais mais específicas como qual a sua idade, atividade ou onde mora mas depois, todas chegam ao ponto principal: em que a psicoterapia pode te ajudar?</description>
+      <guid>http://localhost:1313/faq/o-que-falar-em-uma-primeira-sess%C3%A3o-de-psicoterapia/</guid>
+      <description>&lt;p&gt;Como a gente nunca cansa de dizer: o que você quiser. &lt;/p&gt;&#xA;&lt;p&gt;Pode começar pela semana. Pela última briga com a mãe. Com aquela coisa que aconteceu na infância. Ou por isso que você pensou enquanto tomava o café da manhã de hoje. &lt;/p&gt;&#xA;&lt;p&gt;Não existem grandes regras. Algumas terapeutas fazem perguntas iniciais mais específicas como qual a sua idade, atividade ou onde mora mas depois, todas chegam ao ponto principal: em que a psicoterapia pode te ajudar? &lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>O que fazer com o silêncio?</title>
-      <link>https://www.gruporeinserir.com.br/faq/o-que-fazer-com-o-sile%CC%82ncio/</link>
+      <link>http://localhost:1313/faq/o-que-fazer-com-o-sil%C3%AAncio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/o-que-fazer-com-o-sile%CC%82ncio/</guid>
-      <description>“Por onde eu começo?”, “O que eu falo agora?”, “É estranho ficar nesse silêncio”.
-É primordial, em um processo terapêutico, que exista tempo espaço pra dizer e pra ouvir. Uma pausa tensa logo após um insight, diante de uma resistência ou até mesmo quando você esperava uma devolutiva depois de vomitar tudo ali, no colo da terapeuta. Nem sempre existe devolutiva. Acolher é também sobre ouvir atentamente o que é colocado ali e simplesmente observar.</description>
+      <guid>http://localhost:1313/faq/o-que-fazer-com-o-sil%C3%AAncio/</guid>
+      <description>&lt;p&gt;“Por onde eu começo?”, “O que eu falo agora?”, “É estranho ficar nesse silêncio”.&lt;/p&gt;&#xA;&lt;p&gt;É primordial, em um processo terapêutico, que exista tempo espaço pra dizer e pra ouvir. &lt;/p&gt;&#xA;&lt;p&gt;Uma pausa tensa logo após um insight, diante de uma resistência ou até mesmo quando você esperava uma devolutiva depois de vomitar tudo ali, no colo da terapeuta. Nem sempre existe devolutiva. Acolher é também sobre ouvir atentamente o que é colocado ali e simplesmente observar. Pode falar mais, pode não falar, pode chorar, sentir raiva, gritar, rir de constrangimento. Por que o silêncio constrange? O que surge de proibido na sua mente quando a boca cala? Quais parâmetros produtivos você tem aplicado - até às relações - pra sentir que precisa falar intensamente o tempo todo?! &lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>O que fazer quando se tem uma crise de ansiedade?</title>
-      <link>https://www.gruporeinserir.com.br/faq/o-que-fazer-quando-se-tem-uma-crise-de-ansiedade/</link>
+      <link>http://localhost:1313/faq/o-que-fazer-quando-se-tem-uma-crise-de-ansiedade/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/o-que-fazer-quando-se-tem-uma-crise-de-ansiedade/</guid>
-      <description>Onde você está? É um lugar seguro? Se não for, busque o mais próximo. Se as crises forem recorrentes, pode ser funcional ter um contato de confiança para pedir ajuda, contatos relacionais seguros costumam ser boas estratégias de manejo - se você estiver com alguém em crise, respeite o espaço e demandas dessa pessoa, acolher é sempre a melhor escolha.
-Não se esqueça de respirar, tente sentir seu corpo e o que ele está tentando te comunicar.</description>
+      <guid>http://localhost:1313/faq/o-que-fazer-quando-se-tem-uma-crise-de-ansiedade/</guid>
+      <description>&lt;p&gt;Onde você está? É um lugar seguro? Se não for, busque o mais próximo. Se as crises forem recorrentes, pode ser funcional ter um contato de confiança para pedir ajuda, contatos relacionais seguros costumam ser boas estratégias de manejo - se você estiver com alguém em crise, respeite o espaço e demandas dessa pessoa, acolher é sempre a melhor escolha.&lt;/p&gt;&#xA;&lt;p&gt;Não se esqueça de respirar, tente sentir seu corpo e o que ele está tentando te comunicar. Se precisar sair, saia. Se precisar entrar, entre. Beber uma água gelada ou usá-la na nuca pode ajudar também.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>O que são as clínicas-escolas?</title>
-      <link>https://www.gruporeinserir.com.br/faq/o-que-sa%CC%83o-as-cli%CC%81nicas-escolas/</link>
+      <link>http://localhost:1313/faq/o-que-s%C3%A3o-as-cl%C3%ADnicas-escolas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/o-que-sa%CC%83o-as-cli%CC%81nicas-escolas/</guid>
-      <description>Por definição, são serviços criados/administrados por universidades/faculdades/escolas de psicologia, que oferecem atendimentos psicológicos gratuitos ou a valores sociais/simbólicos. Executados por estudantes de psicologia de diferentes semestres (varia de acordo com a grade de cada instituição) que são supervisionados, em grupo, por seus professores.
-Geralmente, esses serviços possuem uma etapa de triagem para identificar se “comportam” as demandas trazidas por quem é atendido. Por isso, é importante se atentar a esse primeiro contato.</description>
+      <guid>http://localhost:1313/faq/o-que-s%C3%A3o-as-cl%C3%ADnicas-escolas/</guid>
+      <description>&lt;p&gt;Por definição, são serviços criados/administrados por universidades/faculdades/escolas de psicologia, que oferecem atendimentos psicológicos gratuitos ou a valores sociais/simbólicos. Executados por estudantes de psicologia de diferentes semestres (varia de acordo com a grade de cada instituição) que são supervisionados, em grupo, por seus professores.&lt;/p&gt;&#xA;&lt;p&gt;Geralmente, esses serviços possuem uma etapa de triagem para identificar se “comportam” as demandas trazidas por quem é atendido. Por isso, é importante se atentar a esse primeiro contato.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>O que são as Práticas Integrativas e Complementares?</title>
-      <link>https://www.gruporeinserir.com.br/faq/o-que-sa%CC%83o-as-pra%CC%81ticas-integrativas-e-complementares/</link>
+      <link>http://localhost:1313/faq/o-que-s%C3%A3o-as-pr%C3%A1ticas-integrativas-e-complementares/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/o-que-sa%CC%83o-as-pra%CC%81ticas-integrativas-e-complementares/</guid>
-      <description>No Brasil, desde 2006, existe a Política Nacional de Práticas Integrativas e Complementares (PICS), que serve para garantir acesso, através do SUS, às estratégias de cuidado em saúde que não estão incluídas nos tradicionais tratamentos do modelo biomédico.
-Nas PICS estão inclusas práticas como arteterapia, acupuntura, yoga, quiropraxia, entre outras.
-Garantir este acesso é fundamental para a construção de um cuidado ampliado que não se limite aos parâmetros normativos do modelo médico e meramente fisiologista de saúde e bem-estar.</description>
+      <guid>http://localhost:1313/faq/o-que-s%C3%A3o-as-pr%C3%A1ticas-integrativas-e-complementares/</guid>
+      <description>&lt;p&gt;No Brasil, desde 2006, existe a Política Nacional de Práticas Integrativas e Complementares (PICS), que serve para garantir acesso, através do SUS, às estratégias de cuidado em saúde que não estão incluídas nos tradicionais tratamentos do modelo biomédico.&lt;/p&gt;&#xA;&lt;p&gt;Nas PICS estão inclusas práticas como arteterapia, acupuntura, yoga, quiropraxia, entre outras.&lt;/p&gt;&#xA;&lt;p&gt;Garantir este acesso é fundamental para a construção de um cuidado ampliado que não se limite aos parâmetros normativos do modelo médico e meramente fisiologista de saúde e bem-estar.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>O Reinserir atende exclusivamente a população preta e LGBT?</title>
-      <link>https://www.gruporeinserir.com.br/faq/o-reinserir-atende-exclusivamente-a-populac%CC%A7a%CC%83o-preta-e-lgbt/</link>
+      <link>http://localhost:1313/faq/o-reinserir-atende-exclusivamente-a-popula%C3%A7%C3%A3o-preta-e-lgbt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/o-reinserir-atende-exclusivamente-a-populac%CC%A7a%CC%83o-preta-e-lgbt/</guid>
-      <description>Oxi, não.
-A gente atende todo mundo 🤓 Enfatizamos a clínica direcionada a essas populações pois são, historicamente, na psicologia, sujeitos negligenciados e violentados por uma perspectiva clínica normativa, que aqui, procuramos romper. A noção crítica, popular e acessível de clínica proposta e construída pelo Reinserir é sobre tods. Entendendo o lugar social que cada um ocupa e como isso interfere em sua subjetividade e sofrimentos.
-O Reinserir é, inclusive, o lugar em que homens brancos, heterocisnormativos, podem repensar sua masculinidade, rompendo com as lógicas de violência sob as quais foram ensinados a existir 😉</description>
+      <guid>http://localhost:1313/faq/o-reinserir-atende-exclusivamente-a-popula%C3%A7%C3%A3o-preta-e-lgbt/</guid>
+      <description>&lt;p&gt;Oxi, não.&lt;/p&gt;&#xA;&lt;p&gt;A gente atende todo mundo 🤓 &lt;/p&gt;&#xA;&lt;p&gt;Enfatizamos a clínica direcionada a essas populações pois são, historicamente, na psicologia, sujeitos negligenciados e violentados por uma perspectiva clínica normativa, que aqui, procuramos romper. &lt;/p&gt;&#xA;&lt;p&gt;A noção crítica, popular e acessível de clínica proposta e construída pelo Reinserir é sobre tods. Entendendo o lugar social que cada um ocupa e como isso interfere em sua subjetividade e sofrimentos.&lt;/p&gt;&#xA;&lt;p&gt;O Reinserir é, inclusive, o lugar em que homens brancos, heterocisnormativos, podem repensar sua masculinidade, rompendo com as lógicas de violência sob as quais foram ensinados a existir 😉&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Por que a autoajuda não funciona?</title>
-      <link>https://www.gruporeinserir.com.br/faq/por-que-a-autoajuda-na%CC%83o-funciona/</link>
+      <link>http://localhost:1313/faq/por-que-a-autoajuda-n%C3%A3o-funciona/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/por-que-a-autoajuda-na%CC%83o-funciona/</guid>
-      <description>Apesar das raízes dos sofrimentos serem comuns, isto é, coletivas, compartilhadas, a forma de acessar e lidar com tais sofrimentos é singular, única para cada sujeito, de acordo com cada existência.
-Por exemplo, podemos falar que o machismo, aspecto estrutural-estruturante da sociedade capitalista, é um dos determinantes dos sofrimentos de muitas pessoas, mas o “como” esse sofrimento vai se dar e a resposta mais efetiva a ele, vai depender de muitas coisas que são particulares de cada experiência.</description>
+      <guid>http://localhost:1313/faq/por-que-a-autoajuda-n%C3%A3o-funciona/</guid>
+      <description>&lt;p&gt;Apesar das raízes dos sofrimentos serem comuns, isto é, coletivas, compartilhadas, a forma de acessar e lidar com tais sofrimentos é singular, única para cada sujeito, de acordo com cada existência.&lt;br&gt;&#xA;&lt;br&gt;&#xA;Por exemplo, podemos falar que o machismo, aspecto estrutural-estruturante da sociedade capitalista, é um dos determinantes dos sofrimentos de muitas pessoas, mas o “como” esse sofrimento vai se dar e a resposta mais efetiva a ele, vai depender de muitas coisas que são particulares de cada experiência.&lt;br&gt;&#xA;&lt;br&gt;&#xA;Por isso, um livro cheio de conselhos e regras não soluciona um sofrimento por si só, por mais bem intencionado que seja. Pode até ser legal saber o que aquele autor pensa sobre a vida, se deparar com reflexões que você ainda não fez etc mas isso não substitui o seu processo terapêutico/analítico. Até porque, a terapia é uma relação terapêutica, ou seja, o cuidado se dá nessa interação entre a pessoa que atende e a que é atendida, o autocuidado tem um limite claro, que é quando a pessoa precisa de CUIDADO, isso mesmo, de um cuidado vindo do outro.&lt;br&gt;&#xA;&lt;br&gt;&#xA;Em suma, a autoajuda não é suficiente porque uma pessoa em sofrimento precisa de AJUDA, vinda de outra(s) pessoa(s), que deve ser tecnicamente capacitada para isso.&lt;br&gt;&#xA;&lt;br&gt;&#xA;Sobre a imagem: &amp;ldquo;homem se esquivando entre suas próprias escolhas” de @susanocorreia&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Por que a periodicidade das sessões é importante?</title>
-      <link>https://www.gruporeinserir.com.br/faq/por-que-a-periodicidade-das-sesso%CC%83es-e%CC%81-importante/</link>
+      <link>http://localhost:1313/faq/por-que-a-periodicidade-das-sess%C3%B5es-%C3%A9-importante/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/por-que-a-periodicidade-das-sesso%CC%83es-e%CC%81-importante/</guid>
-      <description>Tem um post bem legal aqui falando sobre tempo, nele a gente fala, inclusive, que o processo terapêutico pode variar em duração e frequência. E é importante saber dessa flexibilidade. Porém, isso difere das comuns “fugidas” da terapia quando se chega a um ponto crucial a ser tratado. Imagine que cada processo terapêutico tem um ritmo, pra acessar, repetir e elaborar as coisas. Quando ele fica desordenado, talvez as coisas se percam pelo caminho.</description>
+      <guid>http://localhost:1313/faq/por-que-a-periodicidade-das-sess%C3%B5es-%C3%A9-importante/</guid>
+      <description>&lt;p&gt;Tem um post bem legal aqui falando sobre tempo, nele a gente fala, inclusive, que o processo terapêutico pode variar em duração e frequência. E é importante saber dessa flexibilidade. &lt;/p&gt;&#xA;&lt;p&gt;Porém, isso difere das comuns “fugidas” da terapia quando se chega a um ponto crucial a ser tratado. Imagine que cada processo terapêutico tem um ritmo, pra acessar, repetir e elaborar as coisas. Quando ele fica desordenado, talvez as coisas se percam pelo caminho.  &lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Por que as mães-esposas estão tão cansadas?</title>
-      <link>https://www.gruporeinserir.com.br/faq/por-que-as-ma%CC%83es-esposas-esta%CC%83o-ta%CC%83o-cansadas/</link>
+      <link>http://localhost:1313/faq/por-que-as-m%C3%A3es-esposas-est%C3%A3o-t%C3%A3o-cansadas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/por-que-as-ma%CC%83es-esposas-esta%CC%83o-ta%CC%83o-cansadas/</guid>
-      <description>Essa resposta precisa começar com outra pergunta: quando você mancha aquela camiseta branca, como é que ela aparece limpa na gaveta de novo?!
-Alguém lavou, não é mesmo? Mas veja, como esse alguém sabia exatamente o que fazer pra tirar a mancha? Quem comprou o alvejante adequado? É uma vida inteira de treinamento pro trabalho mais necessário e mais mal (não) pago desse mundo: o da manutenção da vida.</description>
+      <guid>http://localhost:1313/faq/por-que-as-m%C3%A3es-esposas-est%C3%A3o-t%C3%A3o-cansadas/</guid>
+      <description>&lt;p&gt;Essa resposta precisa começar com outra pergunta: quando você mancha aquela camiseta branca, como é que ela aparece limpa na gaveta de novo?!&lt;/p&gt;&#xA;&lt;p&gt;Alguém lavou, não é mesmo? Mas veja, como esse alguém sabia exatamente o que fazer pra tirar a mancha? Quem comprou o alvejante adequado? É uma vida inteira de treinamento pro trabalho mais necessário e mais mal (não) pago desse mundo: o da manutenção da vida.&lt;/p&gt;&#xA;&lt;p&gt;A alternativa pra isso passa por 2 passos fundamentais:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Por que avisar a minha terapeuta que não irei comparecer a sessão?</title>
-      <link>https://www.gruporeinserir.com.br/faq/por-que-avisar-a-minha-terapeuta-que-n%C3%A3o-irei-comparecer-a-sess%C3%A3o/</link>
+      <link>http://localhost:1313/faq/por-que-avisar-a-minha-terapeuta-que-n%C3%A3o-irei-comparecer-a-sess%C3%A3o/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/por-que-avisar-a-minha-terapeuta-que-n%C3%A3o-irei-comparecer-a-sess%C3%A3o/</guid>
-      <description>A pergunta de milhões, e talvez uma das mais importantes, inclusive.
-Como já dissemos por aqui em algum momento, entendemos que a vida é louca, os prazos apertados, as emergências e imprevistos.
-Mas, além de respeitoso com a sua terapeuta, é importante avisa-la do não comparecimento a sessão, porque pode ter um outro paciente esperando para encaixe.
-Além disto, é um tempo em que a sua psi pode ir dar conta da manutenção de sua própria vida, preencher prontuários, fazer recibos, entre outros.</description>
+      <guid>http://localhost:1313/faq/por-que-avisar-a-minha-terapeuta-que-n%C3%A3o-irei-comparecer-a-sess%C3%A3o/</guid>
+      <description>&lt;p&gt;A pergunta de milhões, e talvez uma das mais importantes, inclusive.&lt;br&gt;&#xA;&lt;br&gt;&#xA;Como já dissemos por aqui em algum momento, entendemos que a vida é louca, os prazos apertados, as emergências e imprevistos.&lt;br&gt;&#xA;&lt;br&gt;&#xA;Mas, além de respeitoso com a sua terapeuta, é importante avisa-la do não comparecimento a sessão, porque pode ter um outro paciente esperando para encaixe.&lt;br&gt;&#xA;&lt;br&gt;&#xA;Além disto, é um tempo em que a sua psi pode ir dar conta da manutenção de sua própria vida, preencher prontuários, fazer recibos, entre outros.&lt;br&gt;&#xA;&lt;br&gt;&#xA;Exercitar a sua organização pessoal, também faz parte do processo terapêutico, sabia? Inclusive, caso tenha dificuldades com isto, troca uma ideia com a sua terapeuta (:&lt;br&gt;&#xA;&lt;br&gt;&#xA;Se possível, avise &amp;gt;&amp;lt;&amp;rsquo;&lt;br&gt;&#xA;&lt;br&gt;&#xA;Imagem: “homem pensando fora da caixa, de dentro da caixa” de @susanocorreia&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Por que é tão difícil começar a psicoterapia?</title>
-      <link>https://www.gruporeinserir.com.br/faq/por-que-e%CC%81-ta%CC%83o-difi%CC%81cil-comec%CC%A7ar-a-psicoterapia/</link>
+      <link>http://localhost:1313/faq/por-que-%C3%A9-t%C3%A3o-dif%C3%ADcil-come%C3%A7ar-a-psicoterapia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/por-que-e%CC%81-ta%CC%83o-difi%CC%81cil-comec%CC%A7ar-a-psicoterapia/</guid>
-      <description>A gente conhece o caminho que trilhou, sabemos das coisas que vivemos. O que não se sabe, geralmente, é como cada uma dessas coisas se encaixa na construção do nosso sofrimento. A psicoterapia costuma ser o lugar procurado pra botar essas coisas em ordem, nomear o que não sabemos como chamar. E aí, a gente chama o sofrimento, senta do lado dele pra tomar um café, evidencia tudo aquilo que por anos, botamos panos quentes em nome da sobrevivência.</description>
+      <guid>http://localhost:1313/faq/por-que-%C3%A9-t%C3%A3o-dif%C3%ADcil-come%C3%A7ar-a-psicoterapia/</guid>
+      <description>&lt;p&gt;A gente conhece o caminho que trilhou, sabemos das coisas que vivemos. O que não se sabe, geralmente, é como cada uma dessas coisas se encaixa na construção do nosso sofrimento. A psicoterapia costuma ser o lugar procurado pra botar essas coisas em ordem, nomear o que não sabemos como chamar. E aí, a gente chama o sofrimento, senta do lado dele pra tomar um café, evidencia tudo aquilo que por anos, botamos panos quentes em nome da sobrevivência. Resistência é sobrevivência, um pouco na psicanálise também. Quando a gente não sabe mais o que se pode fazer, que ferramentas usar ou que remédio passar num machucado, cobri-lo e evitá-lo parece a única alternativa.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Por que procuro psicólogs que pareçam comigo?</title>
-      <link>https://www.gruporeinserir.com.br/faq/por-que-procuro-psico%CC%81logs-que-parec%CC%A7am-comigo/</link>
+      <link>http://localhost:1313/faq/por-que-procuro-psic%C3%B3logs-que-pare%C3%A7am-comigo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/por-que-procuro-psico%CC%81logs-que-parec%CC%A7am-comigo/</guid>
-      <description>A psicologia foi e ainda é, em muitos aspectos, uma ciência da saúde usada para controlar e adequar sujeitos, seguindo um parâmetro que, como falamos bastante por aqui, é branco, burguês e heterocisnormativo.
-Dito isso, é sabido que violências estruturais acontecem em muitos processos terapêuticos e uma tentativa comum de se proteger disso é a confiança em uma terapeuta que parta de um lugar semelhante ao seu.
-O processo terapêutico não se basta na identificação mas ela certamente é parte importante dele.</description>
+      <guid>http://localhost:1313/faq/por-que-procuro-psic%C3%B3logs-que-pare%C3%A7am-comigo/</guid>
+      <description>&lt;p&gt;A psicologia foi e ainda é, em muitos aspectos, uma ciência da saúde usada para controlar e adequar sujeitos, seguindo um parâmetro que, como falamos bastante por aqui, é branco, burguês e heterocisnormativo.&lt;/p&gt;&#xA;&lt;p&gt;Dito isso, é sabido que violências estruturais acontecem em muitos processos terapêuticos e uma tentativa comum de se proteger disso é a confiança em uma terapeuta que parta de um lugar semelhante ao seu.&lt;/p&gt;&#xA;&lt;p&gt;O processo terapêutico não se basta na identificação mas ela certamente é parte importante dele.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Por que psicólogs não podem atender amigs?</title>
-      <link>https://www.gruporeinserir.com.br/faq/por-que-psico%CC%81logs-na%CC%83o-podem-atender-amigs/</link>
+      <link>http://localhost:1313/faq/por-que-psic%C3%B3logs-n%C3%A3o-podem-atender-amigs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/por-que-psico%CC%81logs-na%CC%83o-podem-atender-amigs/</guid>
-      <description>Apesar de não existirem proibições assertivas com relação a isso no código de ética da psicologia, entendemos que existem limites que devem ser respeitados.
-A convivência e interação entre terapeuta e paciente/cliente fora do consultório pode interferir na construção dessa relação, que tem como principal função o processo terapêutico. Por isso, é importante acordar limites para essas interações, o que se dá, na nossa perspectiva, de maneira orgânica entre os sujeitos envolvidos, isto é, na base da conversa, evitando possíveis constrangimentos e escolhendo por aquilo que melhor implique no processo buscado.</description>
+      <guid>http://localhost:1313/faq/por-que-psic%C3%B3logs-n%C3%A3o-podem-atender-amigs/</guid>
+      <description>&lt;p&gt;Apesar de não existirem proibições assertivas com relação a isso no código de ética da psicologia, entendemos que existem limites que devem ser respeitados.&lt;/p&gt;&#xA;&lt;p&gt;A convivência e interação entre terapeuta e paciente/cliente fora do consultório pode interferir na construção dessa relação, que tem como principal função o processo terapêutico. Por isso, é importante acordar limites para essas interações, o que se dá, na nossa perspectiva, de maneira orgânica entre os sujeitos envolvidos, isto é, na base da conversa, evitando possíveis constrangimentos e escolhendo por aquilo que melhor implique no processo buscado.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Por que tem camisinhas no consultório?</title>
-      <link>https://www.gruporeinserir.com.br/faq/por-que-tem-camisinhas-no-consulto%CC%81rio/</link>
+      <link>http://localhost:1313/faq/por-que-tem-camisinhas-no-consult%C3%B3rio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/por-que-tem-camisinhas-no-consulto%CC%81rio/</guid>
-      <description>Quando falamos sobre clínica ampliada, precisamos falar sobre acesso à prevenção em saúde. Parte importante disso são as práticas sexuais. Aqui no Reinserir é importante que todos e todas tenham acesso para viver suas possibilidades da maneira mais prazerosa e segura possível! Por isso, construímos um cantinho informativo, onde você encontra materiais sobre métodos de prevenção das ISTs (Infecções Sexualmente Transmissíveis), onde e como fazer os testes e também dispomos de preservativos, internos e externos pra garantir que todos possam se proteger!</description>
+      <guid>http://localhost:1313/faq/por-que-tem-camisinhas-no-consult%C3%B3rio/</guid>
+      <description>&lt;p&gt;Quando falamos sobre clínica ampliada, precisamos falar sobre acesso à prevenção em saúde. Parte importante disso são as práticas sexuais. Aqui no Reinserir é importante que todos e todas tenham acesso para viver suas possibilidades da maneira mais prazerosa e segura possível! Por isso, construímos um cantinho informativo, onde você encontra materiais sobre métodos de prevenção das ISTs (Infecções Sexualmente Transmissíveis), onde e como fazer os testes e também dispomos de preservativos, internos e externos pra garantir que todos possam se proteger! Em tempos de pandemia não podemos nos esquecer de que a transmissão da Sífilis ainda é um problema, tendo aumentado cerca 30% no ultimo ano, segundo o relatório do Ministério da Saúde, e pode levar até a morte. No nosso cantinho você também encontra informações sobre a PrEP (Profilaxia pré-exposição), PEP (Profilaxia pós-exposição), onde fazer a testagem e também coisas bem legais sobre Redução de Danos! O mural informativo fica entre a recepção e as salas de atendimento do Reinserir. Você já conhece?&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Posso dar presentes para a minha terapeuta?</title>
-      <link>https://www.gruporeinserir.com.br/faq/posso-dar-presentes-para-a-minha-terapeuta/</link>
+      <link>http://localhost:1313/faq/posso-dar-presentes-para-a-minha-terapeuta/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/posso-dar-presentes-para-a-minha-terapeuta/</guid>
-      <description>A resposta é, sim, você pode (:
-Estamos falando aqui de relações humanas, então nem tudo é transferência ou contratransferência.
-Nem tudo é sobre querer agradar ou querer ter o amor da(o) sua(seu) psicóloga(o).
-Podemos pensar que pode ser um desejo genuíno de demonstrar afeto por aquela pessoa que te acolhe, te escuta e está com você semanalmente e vice-versa! Chega no Reinserir pra ver se a gente não vai oferecer um docinho também.</description>
+      <guid>http://localhost:1313/faq/posso-dar-presentes-para-a-minha-terapeuta/</guid>
+      <description>&lt;p&gt;A resposta é, sim, você pode (:&lt;br&gt;&#xA;&lt;br&gt;&#xA;Estamos falando aqui de relações humanas, então nem tudo é transferência ou contratransferência.&lt;br&gt;&#xA;&lt;br&gt;&#xA;Nem tudo é sobre querer agradar ou querer ter o amor da(o) sua(seu) psicóloga(o).&lt;br&gt;&#xA;&lt;br&gt;&#xA;Podemos pensar que pode ser um desejo genuíno de demonstrar afeto por aquela pessoa que te acolhe, te escuta e está com você semanalmente e vice-versa! Chega no Reinserir pra ver se a gente não vai oferecer um docinho também.&lt;br&gt;&#xA;&lt;br&gt;&#xA;Então é importante ter um olhar atento para perceber que nem tudo é sintoma ou busca de validação do outro, a vida vira uma chatice desse jeito.&lt;br&gt;&#xA;&lt;br&gt;&#xA;Porém psi, é importante avaliar qual é a frequência, dimensão, e a partir daí analisar se é algo que precisa ser trabalhado ou não com o paciente em sessão.&lt;br&gt;&#xA;&lt;br&gt;&#xA;Imagem: “O abraço” de Ernesto de Fiori&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Posso escolher com que psicoterapeuta quero passar?!</title>
-      <link>https://www.gruporeinserir.com.br/faq/posso-escolher-com-que-psicoterapeuta-quero-passar/</link>
+      <link>http://localhost:1313/faq/posso-escolher-com-que-psicoterapeuta-quero-passar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/posso-escolher-com-que-psicoterapeuta-quero-passar/</guid>
-      <description>Aqui no Reinserir, sim!
-Os mini-currículos de tods psis estão disponíveis nos destaques. Você pode dar uma olhadinha pra saber um pouco sobre cada e ver se rola um match logo de cara com as áreas de estudo etc.
-Entendemos que as pessoas partem de lugares concretos de construção e que, determinados lugares, viabilizam uma maior identificação. Além de, ao longo da formação profissional, estimular interesses por certos temas de estudo.</description>
+      <guid>http://localhost:1313/faq/posso-escolher-com-que-psicoterapeuta-quero-passar/</guid>
+      <description>&lt;p&gt;Aqui no Reinserir, sim!&lt;/p&gt;&#xA;&lt;p&gt;Os mini-currículos de tods psis estão disponíveis nos destaques. Você pode dar uma olhadinha pra saber um pouco sobre cada e ver se rola um match logo de cara com as áreas de estudo etc.&lt;/p&gt;&#xA;&lt;p&gt;Entendemos que as pessoas partem de lugares concretos de construção e que, determinados lugares, viabilizam uma maior identificação. Além de, ao longo da formação profissional, estimular interesses por certos temas de estudo.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Posso indicar o Reinserir pra minha avó?</title>
+      <link>http://localhost:1313/faq/posso-indicar-o-reinserir-pra-minha-av%C3%B3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/faq/posso-indicar-o-reinserir-pra-minha-av%C3%B3/</guid>
+      <description>&lt;p&gt;Das perguntas que recebemos, uma frequente é se atendemos crianças e pessoas idosas. É claro que sim e por isso hoje vamos conversar um pouquinho sobre velhice.&lt;/p&gt;&#xA;&lt;p&gt;Assim mesmo, velhice. Enquanto parte fundamental do desenvolvimento humano. Sem se preocupar com eufemismos teóricos como “melhor idade” etc. &lt;/p&gt;&#xA;&lt;p&gt;Por convenção social, a 3º idade começa aos 60 e, nos mais variados contextos, é por aí, entre os 50 e 70 anos, que entramos numa fase do desenvolvimento que pode ser entendida enquanto velhice. &lt;/p&gt;</description>
+    </item>
     <item>
       <title>Posso levar meus/minhas filhes na terapia presencial?</title>
-      <link>https://www.gruporeinserir.com.br/faq/posso-levar-meus-minhas-filhes-na-terapia-presencial/</link>
+      <link>http://localhost:1313/faq/posso-levar-meus-minhas-filhes-na-terapia-presencial/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/posso-levar-meus-minhas-filhes-na-terapia-presencial/</guid>
-      <description>O dia da sessão de psicoterapia é o momento que você tem para si, é o seu tempo, seu espaço, sim.
-Mas também sabemos que existem muitos pais/responsáveis que não tem com quem deixar a criança e vão precisar levar.
-O primeiro ponto a se levar em consideração é a idade da criança. São bebês/crianças pequenas, que ficam no canguru/sling? Existe essa possibilidade de entrar com o responsável na sala e seguir com a sessão.</description>
+      <guid>http://localhost:1313/faq/posso-levar-meus-minhas-filhes-na-terapia-presencial/</guid>
+      <description>&lt;p&gt;O dia da sessão de psicoterapia é o momento que você tem para si, é o seu tempo, seu espaço, sim.&lt;br&gt;&#xA;&lt;br&gt;&#xA;Mas também sabemos que existem muitos pais/responsáveis que não tem com quem deixar a criança e vão precisar levar.&lt;br&gt;&#xA;&lt;br&gt;&#xA;O primeiro ponto a se levar em consideração é a idade da criança. São bebês/crianças pequenas, que ficam no canguru/sling? Existe essa possibilidade de entrar com o responsável na sala e seguir com a sessão.&lt;br&gt;&#xA;&lt;br&gt;&#xA;Crianças maiores, com mais de 4/5 anos, será necessário entender com o(a) seu(sua) psi antes a disponibilidade de ter um espaço com um responsável para ficar com ele no período em que você estiver em atendimento. Com crianças maiores é mais difícil manter em uma sala fechada, por 50/60 min, mas tudo depende também do espaço, estrutura!&lt;br&gt;&#xA;&lt;br&gt;&#xA;Estamos trabalhando para conseguir dar conta desta demanda da melhor forma possível por aqui (:&lt;br&gt;&#xA;&lt;br&gt;&#xA;Então, é muito importante entender e avaliar isso antes do dia da sessão com seu(sua) psi, tá bem?&lt;br&gt;&#xA;&lt;br&gt;&#xA;Imagem: Frida Kahlo; Mi nana y yo.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Promessas de Ano Novo: onde a psicoterapia se encaixa?</title>
-      <link>https://www.gruporeinserir.com.br/faq/promessas-de-ano-novo-onde-a-psicoterapia-se-encaixa/</link>
+      <link>http://localhost:1313/faq/promessas-de-ano-novo-onde-a-psicoterapia-se-encaixa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/promessas-de-ano-novo-onde-a-psicoterapia-se-encaixa/</guid>
-      <description>Todo ano um punhado de coisas que queremos mudar. E a lista só cresce.
-Quando o novo ano começa, o desgaste do dia-a-dia faz com que as promessas se percam na rotina. Talvez pela óbvia exaustão, mas talvez porque ainda não conseguimos delimitar o que é realmente importante e faz sentido pra a gente. Nisso aqui, a psicoterapia é indispensável.
-Que tal começar esse novo ciclo usando o espaço terapêutico para mergulhar em você e filtrar nessa lista enorme de tarefas o que realmente importa?</description>
+      <guid>http://localhost:1313/faq/promessas-de-ano-novo-onde-a-psicoterapia-se-encaixa/</guid>
+      <description>&lt;p&gt;Todo ano um punhado de coisas que queremos mudar. E a lista só cresce.&lt;br&gt;&#xA;&lt;br&gt;&#xA;Quando o novo ano começa, o desgaste do dia-a-dia faz com que as promessas se percam na rotina. Talvez pela óbvia exaustão, mas talvez porque ainda não conseguimos delimitar o que é realmente importante e faz sentido pra a gente. Nisso aqui, a psicoterapia é indispensável.&lt;br&gt;&#xA;&lt;br&gt;&#xA;Que tal começar esse novo ciclo usando o espaço terapêutico para mergulhar em você e filtrar nessa lista enorme de tarefas o que realmente importa? E aí, a partir disso, conseguir a organização necessária para alcançar cada um desses degraus?&lt;br&gt;&#xA;&lt;br&gt;&#xA;Estamos aqui para facilitar esse processo!&lt;br&gt;&#xA;&lt;br&gt;&#xA;Sobre a imagem: “todos a bordo do meu vazio” de @susanocorreia&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Psicólog prescreve remédio?</title>
-      <link>https://www.gruporeinserir.com.br/faq/psico%CC%81log-prescreve-reme%CC%81dio/</link>
+      <link>http://localhost:1313/faq/psic%C3%B3log-prescreve-rem%C3%A9dio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/psico%CC%81log-prescreve-reme%CC%81dio/</guid>
-      <description>Não. Nem floral. Nem técnicas de homeopatia.
-Essas podem ser estratégias terapêuticas válidas, de acordo com a demanda de cada processo. Mas aqui no Reinserir, por escolha técnica, não trabalhamos com elas.
-Sobre o uso de substâncias psicoativas, os psicotrópicos, é sempre indispensável consultar-se com profissionais psiquiatras. Mantendo ainda a crítica de que o uso desnecessário ou abusivo dessas substâncias pode, e costuma ser, prejudicial ao processo terapêutico/analítico.
-O uso de florais vem sendo cada vez mais comum e visto como ‘alternativa’ ao uso dos fármacos tradicionais.</description>
+      <guid>http://localhost:1313/faq/psic%C3%B3log-prescreve-rem%C3%A9dio/</guid>
+      <description>&lt;p&gt;Não. Nem floral. Nem técnicas de homeopatia.&lt;/p&gt;&#xA;&lt;p&gt;Essas podem ser estratégias terapêuticas válidas, de acordo com a demanda de cada processo. Mas aqui no Reinserir, por escolha técnica, não trabalhamos com elas.&lt;/p&gt;&#xA;&lt;p&gt;Sobre o uso de substâncias psicoativas, os psicotrópicos, é sempre indispensável consultar-se com profissionais psiquiatras. Mantendo ainda a crítica de que o uso desnecessário ou abusivo dessas substâncias pode, e costuma ser, prejudicial ao processo terapêutico/analítico.&lt;/p&gt;&#xA;&lt;p&gt;O uso de florais vem sendo cada vez mais comum e visto como ‘alternativa’ ao uso dos fármacos tradicionais. Salientamos a importância de, ao escolher por essa estratégia de cuidado, guiar-se por profissionais de confiança.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Psicologia por amor???</title>
-      <link>https://www.gruporeinserir.com.br/faq/psicologia-por-amor/</link>
+      <link>http://localhost:1313/faq/psicologia-por-amor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/psicologia-por-amor/</guid>
-      <description>Não, obrigada.
-Psicologia é ciência e profissão. E psicólogues, trabalhadores da psicologia e da produção científica em psicologia, trabalham, neste sistema, por que precisam. Pra sobreviver mesmo.
-Nessa vida de produção compulsória, caminharam - talvez sem eira - até aquilo que entendem por psicologia.
-E como trabalhadores da psicologia, sobrevivemos trabalhando e resistimos nos posicionando e disputando a luta de classes existente nessa sociedade.
-Por isso, psicologia é por trabalho e por escolha política.</description>
+      <guid>http://localhost:1313/faq/psicologia-por-amor/</guid>
+      <description>&lt;p&gt;Não, obrigada.&lt;/p&gt;&#xA;&lt;p&gt;Psicologia é ciência e profissão. E psicólogues, trabalhadores da psicologia e da produção científica em psicologia, trabalham, neste sistema, por que precisam. Pra sobreviver mesmo.&lt;/p&gt;&#xA;&lt;p&gt;Nessa vida de produção compulsória, caminharam - talvez sem eira - até aquilo que entendem por psicologia.&lt;/p&gt;&#xA;&lt;p&gt;E como trabalhadores da psicologia, sobrevivemos trabalhando e resistimos nos posicionando e disputando a luta de classes existente nessa sociedade.&lt;/p&gt;&#xA;&lt;p&gt;Por isso, psicologia é por trabalho e por escolha política.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Psicoterapeuta resolve meus problemas?</title>
-      <link>https://www.gruporeinserir.com.br/faq/psicoterapeuta-resolve-meus-problemas/</link>
+      <link>http://localhost:1313/faq/psicoterapeuta-resolve-meus-problemas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/psicoterapeuta-resolve-meus-problemas/</guid>
-      <description>O processo terapêutico pode e deve - da nossa perspectiva - ser acolhedor e até um pouco diretivo mas não é sobre executar as tarefas e comportamentos que cabem somente ao sujeito atendido. Acreditamos que a construção da autonomia é parte indispensável da terapia. Entender-se enquanto sujeito diante e no coletivo, para e por ele. Mas sem que se perca a condição de sujeito autônomo. Com quereres, fazeres, desejos, medos e vida.</description>
+      <guid>http://localhost:1313/faq/psicoterapeuta-resolve-meus-problemas/</guid>
+      <description>&lt;p&gt;O processo terapêutico pode e deve - da nossa perspectiva - ser acolhedor e até um pouco diretivo mas não é sobre executar as tarefas e comportamentos que cabem somente ao sujeito atendido. &lt;/p&gt;&#xA;&lt;p&gt;Acreditamos que a construção da autonomia é parte indispensável da terapia. Entender-se enquanto sujeito diante e no coletivo, para e por ele. Mas sem que se perca a condição de sujeito autônomo. Com quereres, fazeres, desejos, medos e vida.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Psicoterapeuta só escuta?</title>
-      <link>https://www.gruporeinserir.com.br/faq/psicoterapeuta-so%CC%81-escuta/</link>
+      <link>http://localhost:1313/faq/psicoterapeuta-s%C3%B3-escuta/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/psicoterapeuta-so%CC%81-escuta/</guid>
-      <description>Músicos só tocam instrumentos?
-A escuta é a principal ferramenta de trabalho na psicoterapia. Uma ferramenta que possibilita acessar conteúdos psíquicos/emocionais de uma pessoa. Escutar qualitativamente, quer dizer identificar demandas, possíveis causas de sofrimento, acolher a falta de alguém e, ao cruzar o discurso dessa pessoa com a formação técnica e filosófica da psicologia, pensar alternativas possíveis de como lidar com aquilo que é trazido E AINDA como comunicar isso à quem está sendo ouvido.</description>
+      <guid>http://localhost:1313/faq/psicoterapeuta-s%C3%B3-escuta/</guid>
+      <description>&lt;p&gt;Músicos só tocam instrumentos?&lt;/p&gt;&#xA;&lt;p&gt;A escuta é a principal ferramenta de trabalho na psicoterapia. Uma ferramenta que possibilita acessar conteúdos psíquicos/emocionais de uma pessoa. &lt;/p&gt;&#xA;&lt;p&gt;Escutar qualitativamente, quer dizer identificar demandas, possíveis causas de sofrimento, acolher a falta de alguém e, ao cruzar o discurso dessa pessoa com a formação técnica e filosófica da psicologia, pensar alternativas possíveis de como lidar com aquilo que é trazido E AINDA como comunicar isso à quem está sendo ouvido. &lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Psicoterapia é coisa de louco?</title>
-      <link>https://www.gruporeinserir.com.br/faq/psicoterapia-e%CC%81-coisa-de-louco/</link>
+      <link>http://localhost:1313/faq/psicoterapia-%C3%A9-coisa-de-louco/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/psicoterapia-e%CC%81-coisa-de-louco/</guid>
-      <description>De que loucura você está falando? Da subversão da ordem posta ou do sofrimento surgente a partir da noção que não se tem controle da própria realidade e se apela por viver em fantasia? A psicoterapia é o lugar relacional, para se relacionar consigo enquanto constrói uma relação terapêutica com o outro. Lugar do tempo, do espaço, do silêncio, do choro, do riso, de todas as emoções genuinamente humanas. Lugar das pazes com a criança deixada para trás que vez ou outra surge para nos contar sobre o que fomos, somos e como seremos.</description>
+      <guid>http://localhost:1313/faq/psicoterapia-%C3%A9-coisa-de-louco/</guid>
+      <description>&lt;p&gt;De que loucura você está falando? Da subversão da ordem posta ou do sofrimento surgente a partir da noção que não se tem controle da própria realidade e se apela por viver em fantasia? A psicoterapia é o lugar relacional, para se relacionar consigo enquanto constrói uma relação terapêutica com o outro. Lugar do tempo, do espaço, do silêncio, do choro, do riso, de todas as emoções genuinamente humanas. Lugar das pazes com a criança deixada para trás que vez ou outra surge para nos contar sobre o que fomos, somos e como seremos. Lugar para se entender enquanto sujeito-humano-social-complexo e singular, em meio a alienação deste sistema e diante disso, escolher mudá-lo.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Quais são as expectativas dos pais ao buscar psicoterapia para os seus filhos?</title>
-      <link>https://www.gruporeinserir.com.br/faq/quais-sa%CC%83o-as-expectativas-dos-pais-ao-buscar-psicoterapia-para-os-seus-filhos/</link>
+      <link>http://localhost:1313/faq/quais-s%C3%A3o-as-expectativas-dos-pais-ao-buscar-psicoterapia-para-os-seus-filhos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/quais-sa%CC%83o-as-expectativas-dos-pais-ao-buscar-psicoterapia-para-os-seus-filhos/</guid>
-      <description>É necessário uma aldeia inteira para cuidar de uma criança. Essa é uma fala comum nas áreas atravessadas pela educação e pela infância. Reconhecida como um provérbio africano, reflete o pensamento de diferentes autores. Em suma, ela nos chama atenção para uma coisa: criança dá trabalho, já dizia Palavra Cantada. Na dinâmica familiar, em sua composição cada vez mais reduzida, os cuidados parentais ficam distribuídos em 1 ou no máximo 2 pessoas.</description>
+      <guid>http://localhost:1313/faq/quais-s%C3%A3o-as-expectativas-dos-pais-ao-buscar-psicoterapia-para-os-seus-filhos/</guid>
+      <description>&lt;p&gt;É necessário uma aldeia inteira para cuidar de uma criança. Essa é uma fala comum nas áreas atravessadas pela educação e pela infância. Reconhecida como um provérbio africano, reflete o pensamento de diferentes autores. Em suma, ela nos chama atenção para uma coisa: criança dá trabalho, já dizia Palavra Cantada. &lt;/p&gt;&#xA;&lt;p&gt;Na dinâmica familiar, em sua composição cada vez mais reduzida, os cuidados parentais ficam distribuídos em 1 ou no máximo 2 pessoas. Que também precisam de trabalhos remunerados que possibilitem pagar as contas, também precisam dar conta da manutenção de uma casa e de suas próprias vidas. Logo, parece óbvio que falta tempo e energia e sobra demanda. &lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Quais são os limites da psicoterapia?</title>
-      <link>https://www.gruporeinserir.com.br/faq/quais-sa%CC%83o-os-limites-da-psicoterapia/</link>
+      <link>http://localhost:1313/faq/quais-s%C3%A3o-os-limites-da-psicoterapia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/quais-sa%CC%83o-os-limites-da-psicoterapia/</guid>
-      <description>“O problema da terapia é que ela não resolve
-a questão
-do impeachment”
-Sim, querido twit*ter, você tem razão.
-Hoje vamos falar sobre os limites da psicoterapia.
-Em uma situação hipotética, ideal, o setting terapêutico serve como um espaço seguro para pensar, entender e elaborar aquilo que produz sofrimento e as transformações necessárias.
-Por vezes, transformar a angústia em palavra dita, a escuta, o acolhimento, a validação, já parecem suficientes para manejar aquele sofrimento.</description>
+      <guid>http://localhost:1313/faq/quais-s%C3%A3o-os-limites-da-psicoterapia/</guid>
+      <description>&lt;p&gt;“O problema da terapia &lt;/p&gt;&#xA;&lt;p&gt;é que ela não resolve&lt;/p&gt;&#xA;&lt;p&gt;a questão&lt;/p&gt;&#xA;&lt;p&gt;do impeachment”&lt;/p&gt;&#xA;&lt;p&gt;Sim, querido twit*ter, você tem razão.&lt;/p&gt;&#xA;&lt;p&gt;Hoje vamos falar sobre os limites da psicoterapia.&lt;/p&gt;&#xA;&lt;p&gt;Em uma situação hipotética, ideal, o setting terapêutico serve como um espaço seguro para pensar, entender e elaborar aquilo que produz sofrimento e as transformações necessárias.&lt;/p&gt;&#xA;&lt;p&gt;Por vezes, transformar a angústia em palavra dita, a escuta, o acolhimento, a validação, já parecem suficientes para manejar aquele sofrimento. E pra explicar isso existem várias teorias em psicologia, seja qual for a abordagem.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Qual a importância de se fazer terapia?</title>
-      <link>https://www.gruporeinserir.com.br/faq/qual-a-importa%CC%82ncia-de-se-fazer-terapia/</link>
+      <link>http://localhost:1313/faq/qual-a-import%C3%A2ncia-de-se-fazer-terapia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/qual-a-importa%CC%82ncia-de-se-fazer-terapia/</guid>
-      <description>A importância que algo tem é aquela que se dá. A terapia pode (e da nossa perspectiva, deve) ser espaço seguro de fala, contemplação, troca e compreensão, dos fenômenos e processos singulares, produzidos e atropelados de maneira feroz pela vida cotidiana.
-Aprender a construir uma relação terapêutica, de confiança, afeto e autonomia, pode ser importante experiência na nossa vida, de sujeitos contemporâneos, que pouco aprendemos a nos relacionar de maneira não violenta.</description>
+      <guid>http://localhost:1313/faq/qual-a-import%C3%A2ncia-de-se-fazer-terapia/</guid>
+      <description>&lt;p&gt;A importância que algo tem é aquela que se dá. A terapia pode (e da nossa perspectiva, deve) ser espaço seguro de fala, contemplação, troca e compreensão, dos fenômenos e processos singulares, produzidos e atropelados de maneira feroz pela vida cotidiana.&lt;/p&gt;&#xA;&lt;p&gt;Aprender a construir uma relação terapêutica, de confiança, afeto e autonomia, pode ser importante experiência na nossa vida, de sujeitos contemporâneos, que pouco aprendemos a nos relacionar de maneira não violenta. Importante não esquecer, é claro, que do ponto de vista da terapeuta, a terapia é um trabalho, que nos traz sentido e satisfação, parte importante pra diferenciar daquela conversa gostosa com os amigos na mesa do bar, né?&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Qual a importância dos responsáveis no processo terapêutico de menores de idade?</title>
-      <link>https://www.gruporeinserir.com.br/faq/qual-a-import%C3%A2ncia-dos-respons%C3%A1veis-no-processo-terap%C3%AAutico-de-menores-de-idade/</link>
+      <link>http://localhost:1313/faq/qual-a-import%C3%A2ncia-dos-respons%C3%A1veis-no-processo-terap%C3%AAutico-de-menores-de-idade/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/qual-a-import%C3%A2ncia-dos-respons%C3%A1veis-no-processo-terap%C3%AAutico-de-menores-de-idade/</guid>
-      <description>Quando uma criança ou adolescente inicia o processo de psicoterapia, é de extrema importância ter o acompanhamento dos pais/responsáveis.
-Você, pai/responsável, que tem uma criança ou adolescente em acompanhamento psicoterapêutico, pode e deve bater um papo com o psi que o está acompanhando, para entender como está a evolução do processo de terapia.
-O psi vai te orientar e passar informações sobre a evolução do processo (se estão avançando ou não).</description>
+      <guid>http://localhost:1313/faq/qual-a-import%C3%A2ncia-dos-respons%C3%A1veis-no-processo-terap%C3%AAutico-de-menores-de-idade/</guid>
+      <description>&lt;p&gt;Quando uma criança ou adolescente inicia o processo de psicoterapia, é de extrema importância ter o acompanhamento dos pais/responsáveis.&lt;br&gt;&#xA;&lt;br&gt;&#xA;Você, pai/responsável, que tem uma criança ou adolescente em acompanhamento psicoterapêutico, pode e deve bater um papo com o psi que o está acompanhando, para entender como está a evolução do processo de terapia.&lt;br&gt;&#xA;&lt;br&gt;&#xA;O psi vai te orientar e passar informações sobre a evolução do processo (se estão avançando ou não).&lt;br&gt;&#xA;&lt;br&gt;&#xA;Importante reforçar que o psi não pode e nem vai te passar informações sobre o que é conversado em sessão por conta do sigilo terapêutico (a não ser que haja risco à vida), então se quiser saber sobre o que é falado em sessão, pergunte para sua criança/adolescente, beleza?&lt;br&gt;&#xA;&lt;br&gt;&#xA;Outro ponto importante de ter esse acompanhamento de perto é entender a dinâmica da sua relação com sua criança/adolescente.&lt;br&gt;&#xA;&lt;br&gt;&#xA;É importante olhar também para si, repensar essa relação, identificar em você também questões que podem ter impacto direto na sua criança/adolescente.&lt;br&gt;&#xA;&lt;br&gt;&#xA;Então pais e responsáveis, chamem o psi que está acompanhando sua criança/adolescente para uma conversa e busque manter essa relação mais de perto.&lt;br&gt;&#xA;&lt;br&gt;&#xA;Imagem: Cícero Dias; obra &amp;ldquo;Pai e filho”.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Qual é a diferença de terapia e psicoterapia?</title>
-      <link>https://www.gruporeinserir.com.br/faq/qual-e%CC%81-a-diferenc%CC%A7a-de-terapia-e-psicoterapia/</link>
+      <link>http://localhost:1313/faq/qual-%C3%A9-a-diferen%C3%A7a-de-terapia-e-psicoterapia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/qual-e%CC%81-a-diferenc%CC%A7a-de-terapia-e-psicoterapia/</guid>
-      <description>O conceito de terapia é mais amplo e contempla práticas de diferentes campos do saber. Fisioterapias, práticas alternativas ou integrativas e complementares, medicinas não-ocidentais entre outras.
-A psicoterapia é um conjunto de metodologias de acompanhamento terapêutico que implica na fala, na verbalização das angústias e sofrimentos trazidos por paciente/cliente, para que se acesse as esferas psicológicas, subjetivas ou inconscientes, buscando, em geral, a elaboração (compreensão ou transformação) de tais sofrimentos.</description>
+      <guid>http://localhost:1313/faq/qual-%C3%A9-a-diferen%C3%A7a-de-terapia-e-psicoterapia/</guid>
+      <description>&lt;p&gt;O conceito de terapia é mais amplo e contempla práticas de diferentes campos do saber. Fisioterapias, práticas alternativas ou integrativas e complementares, medicinas não-ocidentais entre outras.&lt;/p&gt;&#xA;&lt;p&gt;A psicoterapia é um conjunto de metodologias de acompanhamento terapêutico que implica na fala, na verbalização das angústias e sofrimentos trazidos por paciente/cliente, para que se acesse as esferas psicológicas, subjetivas ou inconscientes, buscando, em geral, a elaboração (compreensão ou transformação) de tais sofrimentos. É também prática regulamentada exclusivamente aos profissionais da psicologia, segundo os conselhos responsáveis pela profissão.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Qual é a posição política do Grupo Reinserir?</title>
-      <link>https://www.gruporeinserir.com.br/faq/qual-e%CC%81-a-posic%CC%A7a%CC%83o-poli%CC%81tica-do-grupo-reinserir/</link>
+      <link>http://localhost:1313/faq/qual-%C3%A9-a-posi%C3%A7%C3%A3o-pol%C3%ADtica-do-grupo-reinserir/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/qual-e%CC%81-a-posic%CC%A7a%CC%83o-poli%CC%81tica-do-grupo-reinserir/</guid>
-      <description>O Grupo Reinserir está alinhado a uma posição política que compreende que o indivíduo nunca está isolado do social, mas ao contrário, se constitui a partir do social. Esta concepção nos permite ter um olhar mais cuidadoso para o social, compreendendo que há diversas questões que perpassam a construção da subjetividade das pessoas, como a classe social, etnia/raça, identidade de gênero, sexual, etc. Portanto, vivemos hoje em uma sociedade que tem como base desigualdades em diversas esferas que colocarão as pessoas em situações em que as possibilidades de bem estar e satisfação pessoal serão menores do que outras.</description>
+      <guid>http://localhost:1313/faq/qual-%C3%A9-a-posi%C3%A7%C3%A3o-pol%C3%ADtica-do-grupo-reinserir/</guid>
+      <description>&lt;p&gt;O Grupo Reinserir está alinhado a uma posição política que compreende que o indivíduo nunca está isolado do social, mas ao contrário, se constitui a partir do social. Esta concepção nos permite ter um olhar mais cuidadoso para o social, compreendendo que há diversas questões que perpassam a construção da subjetividade das pessoas, como a classe social, etnia/raça, identidade de gênero, sexual, etc. Portanto, vivemos hoje em uma sociedade que tem como base desigualdades em diversas esferas que colocarão as pessoas em situações em que as possibilidades de bem estar e satisfação pessoal serão menores do que outras. Há pessoas que gozam de educação, lazer, segurança e saúde da melhor qualidade, enquanto outras têm chances de sobrevivência extremamente reduzidas. Diante de tal realidade, nossa luta não se restringe a amenizar ou &amp;ldquo;curar&amp;rdquo; patologias, mas buscar construir uma sociedade sem desigualdade, opressão e exploração já que estas relações são a base para grande parte do sofrimento psíquico. Acreditamos que a Psicologia é um instrumento necessário para uma ação transformadora rumo a um futuro melhor. Todos os nossos serviços possuem esses valores e posição política como premissa.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Qual é o objetivo da psicoterapia?</title>
-      <link>https://www.gruporeinserir.com.br/faq/qual-e%CC%81-o-objetivo-da-psicoterapia/</link>
+      <link>http://localhost:1313/faq/qual-%C3%A9-o-objetivo-da-psicoterapia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/qual-e%CC%81-o-objetivo-da-psicoterapia/</guid>
-      <description>Essa é uma pergunta importante de você fazer pra você mesme também, né? Ter a própria expectativa sobre o processo nítida e assumida, é indispensável.
-Depois, a gente pode pensar nos possíveis objetivos que trabalhamos por aqui…
-O primeiro e talvez mais intenso é: acolher um sofrimento. Ninguém procura a psicoterapia porque tá tranquile. Existem demandas dolorosas, mais ou menos conscientes. Qual é a sua?
-O segundo tá justamente aí: tornar-se ciente de si.</description>
+      <guid>http://localhost:1313/faq/qual-%C3%A9-o-objetivo-da-psicoterapia/</guid>
+      <description>&lt;p&gt;Essa é uma pergunta importante de você fazer pra você mesme também, né? Ter a própria expectativa sobre o processo nítida e assumida, é indispensável.&lt;/p&gt;&#xA;&lt;p&gt;Depois, a gente pode pensar nos possíveis objetivos que trabalhamos por aqui…&lt;/p&gt;&#xA;&lt;p&gt;O primeiro e talvez mais intenso é: acolher um sofrimento. Ninguém procura a psicoterapia porque tá tranquile. Existem demandas dolorosas, mais ou menos conscientes. Qual é a sua?&lt;/p&gt;&#xA;&lt;p&gt;O segundo tá justamente aí: tornar-se ciente de si. De seu sofrimento, de sua construção. A ideia de autoconhecimento pode estar meio desgastada mas não deixa de ser importante. Entendendo que, conhecer a si é também conhecer o mundo, o Outro, e as relações existentes em tudo isso.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Quando procurar a psicoterapia?</title>
-      <link>https://www.gruporeinserir.com.br/faq/quando-procurar-a-psicoterapia/</link>
+      <link>http://localhost:1313/faq/quando-procurar-a-psicoterapia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/quando-procurar-a-psicoterapia/</guid>
-      <description>Quando bater a vontade, né? Para além das categorias nosológicas, dos sintomas registrados nos manuais, entendemos que o próprio sujeito é aquele que sabe mais sobre si e suas condições e necessidades. Ao surgirem angústias, demandas pontuais ou sinais de sofrimentos cronificados, as portas desta clínica política-ampliada estarão abertas, para que se acolha, compreenda, maneje e transforme aquilo que for ascendido no ambiente terapêutico. Dos incômodos e cotidianos sinais da ansiedade, da exaustão do trabalho ao luto familiar, estaremos aqui, disposts a construir esse processo junts.</description>
+      <guid>http://localhost:1313/faq/quando-procurar-a-psicoterapia/</guid>
+      <description>&lt;p&gt;Quando bater a vontade, né? Para além das categorias nosológicas, dos sintomas registrados nos manuais, entendemos que o próprio sujeito é aquele que sabe mais sobre si e suas condições e necessidades. Ao surgirem angústias, demandas pontuais ou sinais de sofrimentos cronificados, as portas desta clínica política-ampliada estarão abertas, para que se acolha, compreenda, maneje e transforme aquilo que for ascendido no ambiente terapêutico. Dos incômodos e cotidianos sinais da ansiedade, da exaustão do trabalho ao luto familiar, estaremos aqui, disposts a construir esse processo junts.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Quantas emoções cabem numa sessão de terapia?</title>
-      <link>https://www.gruporeinserir.com.br/faq/quantas-emoc%CC%A7o%CC%83es-cabem-numa-sessa%CC%83o-de-terapia/</link>
+      <link>http://localhost:1313/faq/quantas-emo%C3%A7%C3%B5es-cabem-numa-sess%C3%A3o-de-terapia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/quantas-emoc%CC%A7o%CC%83es-cabem-numa-sessa%CC%83o-de-terapia/</guid>
-      <description>“Parei com a análise, estava sendo muito doloroso!” – ouvi de uma psicóloga, doutora. A noção de que o setting terapêutico é um ringue de luta interpretativa é descabida e se torna impraticável na nossa vida contemporânea. Já vivemos uma realidade cotidiana violenta. Uma estrutura produtiva violenta.
-A terapia pode ser sim um lugar seguro para acessar cada uma dessas dores. Mas não deve reproduzi-las. Assim como deve ser um lugar seguro para acessar as alegrias, satisfações e desejos da vida.</description>
+      <guid>http://localhost:1313/faq/quantas-emo%C3%A7%C3%B5es-cabem-numa-sess%C3%A3o-de-terapia/</guid>
+      <description>&lt;p&gt;“Parei com a análise, estava sendo muito doloroso!” – ouvi de uma psicóloga, doutora. A noção de que o setting terapêutico é um ringue de luta interpretativa é descabida e se torna impraticável na nossa vida contemporânea. Já vivemos uma realidade cotidiana violenta. Uma estrutura produtiva violenta.&lt;/p&gt;&#xA;&lt;p&gt;A terapia pode ser sim um lugar seguro para acessar cada uma dessas dores. Mas não deve reproduzi-las. Assim como deve ser um lugar seguro para acessar as alegrias, satisfações e desejos da vida. De uma vida que costuma ser tão negligenciada lá fora. A clínica é o lugar da vida. Cruzar o corredor do Reinserir e nos depararmos com algumas gargalhadas era experiência diária enquanto o distanciamento social não nos impôs a terapia online.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Quanto tempo pode durar uma psicoterapia?</title>
-      <link>https://www.gruporeinserir.com.br/faq/quanto-tempo-pode-durar-uma-psicoterapia/</link>
+      <link>http://localhost:1313/faq/quanto-tempo-pode-durar-uma-psicoterapia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/quanto-tempo-pode-durar-uma-psicoterapia/</guid>
-      <description>Seria um tanto óbvio dizer que tempo é relativo então usemos a pergunta: quem mede esse tempo e pra quê ele serve?
-O processo psicoterápico é singular, relacional, avança ou recua de acordo com as condições para tal, por isso, tentar estabelecer um prazo específico seria necessariamente assumir determinados interesses de metas e produção com os quais não nos alinhamos por aqui.
-A psicoterapia não é linear e nem ininterrupta, entender-se e transforma-se movimenta diferentes aspectos e momentos da nossa vida.</description>
+      <guid>http://localhost:1313/faq/quanto-tempo-pode-durar-uma-psicoterapia/</guid>
+      <description>&lt;p&gt;Seria um tanto óbvio dizer que tempo é relativo então usemos a pergunta: quem mede esse tempo e pra quê ele serve?&lt;/p&gt;&#xA;&lt;p&gt;O processo psicoterápico é singular, relacional, avança ou recua de acordo com as condições para tal, por isso, tentar estabelecer um prazo específico seria necessariamente assumir determinados interesses de metas e produção com os quais não nos alinhamos por aqui.&lt;/p&gt;&#xA;&lt;p&gt;A psicoterapia não é linear e nem ininterrupta, entender-se e transforma-se movimenta diferentes aspectos e momentos da nossa vida. Sim, você pode ir e voltar para a terapia. Sim, você pode passar por um acompanhamento pontual e se sentir satisfeito para a demanda daquele momento. E sim, você pode escolher pelo acompanhamento por anos consideráveis de sua vida.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Quanto vale o trabalho da/o terapeuta?</title>
-      <link>https://www.gruporeinserir.com.br/faq/quanto-vale-o-trabalho-da-o-terapeuta/</link>
+      <link>http://localhost:1313/faq/quanto-vale-o-trabalho-da-o-terapeuta/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/quanto-vale-o-trabalho-da-o-terapeuta/</guid>
-      <description>Já falamos por aqui sobre como os valores dos atendimentos são delineados. A questão hoje é outra.
-Quando falamos em clínica social, aqui no Reinserir, não nos referimos apenas a preços “menores”. Mas sim, a uma perspectiva clínica ampliada, não-normativa, que, por se propor popular e acessível, passa também por valores diferentes dos sugeridos pelo Conselho Regional de Psicologia de São Paulo, que, a propósito, está tabelado entre R$ 165,58 e R$ 283,87, por sessão, o que obviamente é um valor absolutamente aquém da realidade dos trabalhadores brasileiros.</description>
+      <guid>http://localhost:1313/faq/quanto-vale-o-trabalho-da-o-terapeuta/</guid>
+      <description>&lt;p&gt;Já falamos por aqui sobre como os valores dos atendimentos são delineados. A questão hoje é outra.&lt;br&gt;&#xA;&lt;br&gt;&#xA;Quando falamos em clínica social, aqui no Reinserir, não nos referimos apenas a preços “menores”. Mas sim, a uma perspectiva clínica ampliada, não-normativa, que, por se propor popular e acessível, passa também por valores diferentes dos sugeridos pelo Conselho Regional de Psicologia de São Paulo, que, a propósito, está tabelado entre R$ 165,58 e R$ 283,87, por sessão, o que obviamente é um valor absolutamente aquém da realidade dos trabalhadores brasileiros.&lt;br&gt;&#xA;&lt;br&gt;&#xA;Mas, isso não quer dizer que os terapeutas dispostos aqui sejam menos trabalhadores ou dependam menos da venda de sua força de trabalho. Por isso, sim, as primeiras sessões são pagas; as sessões extras com familiares são pagas.&lt;br&gt;&#xA;&lt;br&gt;&#xA;E mais. Podemos entender a estratégia clínica do Reinserir como uma espécie de “financiamento coletivo”, isto é, quando você, diante da sua disponibilidade financeira, escolhe pagar um valor acima do mínimo, está contribuindo para que esse terapeuta atenda mais pessoas com menos possibilidades financeiras. Além de reconhecer o trabalho de sua terapeuta, você também possibilita a ampliação do acesso a um acompanhamento em saúde mental crítico e de qualidade para tods.&lt;br&gt;&#xA;&lt;br&gt;&#xA;A nossa proposta de saúde mental não depende só de nós, terapeutas. Mas conta muito com vocês também. Por isso, aqui, conversamos de maneira aberta sobre valores, custos e preços. Quando puder, troque uma ideia sobre isso com seu terapeuta. Aos poucos e dividindo, multiplicamos o acesso a saúde.&lt;br&gt;&#xA;&lt;br&gt;&#xA;Tabela de honorários disponível em &lt;a href=&#34;https://www.crpsp.org/pagina/view/65?fbclid=IwAR2qdAeqXlKACPuN63xCXgyjzcrVl2d7Vbq0sHiL8u8bCivf9H8JztsupIY&#34;&gt;https://www.crpsp.org/pagina/view/65&lt;/a&gt;&lt;br&gt;&#xA;&lt;br&gt;&#xA;Sobre a imagem: &amp;ldquo;O café&amp;rdquo; pintado em 1935 por Candido Portinari.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Que abordagem vocês utilizam?</title>
-      <link>https://www.gruporeinserir.com.br/faq/que-abordagem-voce%CC%82s-utilizam/</link>
+      <link>http://localhost:1313/faq/que-abordagem-voc%C3%AAs-utilizam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/que-abordagem-voce%CC%82s-utilizam/</guid>
-      <description>Dentro da Psicologia há diferentes abordagens. As abordagens são linhas filosóficas, teóricas e metodológicas sobre o sujeito e o psiquismo.
-Hoje o Reinserir conta com quatro abordagens no serviço de Psicoterapia:
-Histórico-Cultural (ou Sócio-Histórica): Abordagem que surgiu na antiga União Soviética cujo o objeto de estudo serão as funções psicológicas superiores e a personalidade, que se constituem a partir das relações sociais e construções culturais. Para essa abordagem que tem como base o materialismo histórico e dialético o sujeito é eminentemente social e histórico e a origem última de seu sofrimento vem das próprias contradições das relações sociais que são internalizadas e formam uma dinâmica singular no sujeito.</description>
+      <guid>http://localhost:1313/faq/que-abordagem-voc%C3%AAs-utilizam/</guid>
+      <description>&lt;p&gt;Dentro da Psicologia há diferentes &lt;em&gt;abordagens&lt;/em&gt;. As abordagens são linhas filosóficas, teóricas e metodológicas sobre o sujeito e o psiquismo.&lt;/p&gt;&#xA;&lt;p&gt;Hoje o Reinserir conta com quatro abordagens no serviço de Psicoterapia:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Histórico-Cultural (ou Sócio-Histórica)&lt;/strong&gt;: Abordagem que surgiu na antiga União Soviética cujo o objeto de estudo serão as funções psicológicas superiores e a personalidade, que se constituem a partir das relações sociais e construções culturais. Para essa abordagem que tem como base o materialismo histórico e dialético o sujeito é eminentemente social e histórico e a origem última de seu sofrimento vem das próprias contradições das relações sociais que são internalizadas e formam uma dinâmica singular no sujeito. Seu principal autor é o Lev Vigotski.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Quem tem medo do divã?</title>
-      <link>https://www.gruporeinserir.com.br/faq/quem-tem-medo-do-div%C3%A3/</link>
+      <link>http://localhost:1313/faq/quem-tem-medo-do-div%C3%A3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/quem-tem-medo-do-div%C3%A3/</guid>
-      <description>Geralmente temos medo do que é novo ou desconhecido, do que causa um estranhamento, um receio ou dúvida, mas o divã (aquele sofázinho maroto igual o da imagem, visto principalmente em clínicas de psicologia e psicanálise, onde o paciente se deita virado de costas para a psi) vem como uma ferramenta para auxiliar o processo terapêutico.
-Ele é uma ferramenta da psicanálise que ajuda o paciente a entrar em contato consigo próprio de uma forma mais profunda, dando a possibilidade de pensar sobre suas questões de maneira mais livre, sem a interferência direta do “olhar” da terapeuta.</description>
+      <guid>http://localhost:1313/faq/quem-tem-medo-do-div%C3%A3/</guid>
+      <description>&lt;p&gt;Geralmente temos medo do que é novo ou desconhecido, do que causa um estranhamento, um receio ou dúvida, mas o divã (aquele sofázinho maroto igual o da imagem, visto principalmente em clínicas de psicologia e psicanálise, onde o paciente se deita virado de costas para a psi) vem como uma ferramenta para auxiliar o processo terapêutico.&lt;br&gt;&#xA;&lt;br&gt;&#xA;Ele é uma ferramenta da psicanálise que ajuda o paciente a entrar em contato consigo próprio de uma forma mais profunda, dando a possibilidade de pensar sobre suas questões de maneira mais livre, sem a interferência direta do “olhar” da terapeuta.&lt;br&gt;&#xA;&lt;br&gt;&#xA;Então, em alguns momentos o uso do divã é muito importante. As sessões fluem, o paciente se sente mais à vontade e confortável para trazer suas questões. E também pode auxiliar bastante em suas resistências (:&lt;br&gt;&#xA;&lt;br&gt;&#xA;Todo mundo que faz terapia com uma psi de orientação psicanalítica ou psicanalista vai para o divã?&lt;br&gt;&#xA;&lt;br&gt;&#xA;Não tem uma regra, ir para o divã será analisado no decorrer do processo, com a possibilidade do paciente demonstrar seu interesse ou do próprio terapeuta sugerir.&lt;br&gt;&#xA;&lt;br&gt;&#xA;Quem aí já foi pro divã?&lt;br&gt;&#xA;&lt;br&gt;&#xA;Imagem: modelo sobre o divã de Edvard Munch&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Será que a terapia tá fazendo efeito?</title>
-      <link>https://www.gruporeinserir.com.br/faq/sera%CC%81-que-a-terapia-ta%CC%81-fazendo-efeito/</link>
+      <link>http://localhost:1313/faq/ser%C3%A1-que-a-terapia-t%C3%A1-fazendo-efeito/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/sera%CC%81-que-a-terapia-ta%CC%81-fazendo-efeito/</guid>
-      <description>A vida não é útil, alertou Krenak. E a terapia não é utilitarista, escreveu a minha terapeuta.
-O que quer dizer?
-Vez ou outra você vai se deparar com a dúvida de será que seu processo terapêutico tá mesmo funcionando, se tá tendo resultados. Mas funcionando pra quê? Que resultados seriam esses?
-Na sua primeira sessão, você deve ter falado sobre uma demanda inicial e talvez não esteja muito perto de resolvê-la.</description>
+      <guid>http://localhost:1313/faq/ser%C3%A1-que-a-terapia-t%C3%A1-fazendo-efeito/</guid>
+      <description>&lt;p&gt;A vida não é útil, alertou Krenak. E a terapia não é utilitarista, escreveu a minha terapeuta.&lt;/p&gt;&#xA;&lt;p&gt;O que quer dizer?&lt;/p&gt;&#xA;&lt;p&gt;Vez  ou outra você vai se deparar com a dúvida de será que seu processo terapêutico tá mesmo funcionando, se tá tendo resultados. Mas funcionando pra quê? Que resultados seriam esses?&lt;/p&gt;&#xA;&lt;p&gt;Na sua primeira sessão, você deve ter falado sobre uma demanda inicial e talvez não esteja muito perto de resolvê-la.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Será que é depressão?</title>
-      <link>https://www.gruporeinserir.com.br/faq/sera%CC%81-que-e%CC%81-depressa%CC%83o/</link>
+      <link>http://localhost:1313/faq/ser%C3%A1-que-%C3%A9-depress%C3%A3o/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/sera%CC%81-que-e%CC%81-depressa%CC%83o/</guid>
-      <description>Tá sentindo essa energia negativa? É o sol em capitalismo e a lua em pandemônio.
-Tem sido comum uma preocupação com hipóteses diagnósticas acerca da depressão, principalmente vinda de mães, familiares, companheires. Fulano não quer sair do quarto, tá dormindo muito ou pouco, comendo muito ou pouco, vive impaciente, não interage.
-Sim, a depressão é, mundialmente, uma das maiores causas de afastamento do trabalho. Sim, sintomas deprimidos têm aumentado diante desse contexto pandêmico.</description>
+      <guid>http://localhost:1313/faq/ser%C3%A1-que-%C3%A9-depress%C3%A3o/</guid>
+      <description>&lt;p&gt;Tá sentindo essa energia negativa? É o sol em capitalismo e a lua em pandemônio.&lt;/p&gt;&#xA;&lt;p&gt;Tem sido comum uma preocupação com hipóteses diagnósticas acerca da depressão, principalmente vinda de mães, familiares, companheires. Fulano não quer sair do quarto, tá dormindo muito ou pouco, comendo muito ou pouco, vive impaciente, não interage.&lt;/p&gt;&#xA;&lt;p&gt;Sim, a depressão é, mundialmente, uma das maiores causas de afastamento do trabalho. Sim, sintomas deprimidos têm aumentado diante desse contexto pandêmico. E sim,  um dos agravamentos da depressão é o suicídio. É grave. &lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Supervisão Clínica: o que é e pra que serve?</title>
-      <link>https://www.gruporeinserir.com.br/faq/supervisa%CC%83o-cli%CC%81nica-o-que-e%CC%81-e-pra-que-serve/</link>
+      <link>http://localhost:1313/faq/supervis%C3%A3o-cl%C3%ADnica-o-que-%C3%A9-e-pra-que-serve/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/supervisa%CC%83o-cli%CC%81nica-o-que-e%CC%81-e-pra-que-serve/</guid>
-      <description>De forma pragmática, é a prática de falar sobre um caso ou demanda específica com um outro profissional ou grupo de profissionais, visando um maior entendimento. Para a psicanálise, a supervisão é parte indispensável da - contínua, quiçá infinita - formação do analista. Isto é, a troca com outre(s) acerca da relação terapêutica estabelecida, nos diz do processo em questão, da pessoa atendida e também de quem atende. Essa é a principal pauta da supervisão: a relação construída.</description>
+      <guid>http://localhost:1313/faq/supervis%C3%A3o-cl%C3%ADnica-o-que-%C3%A9-e-pra-que-serve/</guid>
+      <description>&lt;p&gt;De forma pragmática, é a prática de falar sobre um caso ou demanda específica com um outro profissional ou grupo de profissionais, visando um maior entendimento. &lt;/p&gt;&#xA;&lt;p&gt;Para a psicanálise, a supervisão é parte indispensável da - contínua, quiçá infinita - formação do analista. Isto é, a troca com outre(s) acerca da relação terapêutica estabelecida, nos diz do processo em questão, da pessoa atendida e também de quem atende. Essa é a principal pauta da supervisão: a relação construída. Não é só sobre o material trazido por aquele que fala, mas sobre o que se escuta, como e porquê se escuta de determinado modo. &lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Tem que chorar na terapia?</title>
-      <link>https://www.gruporeinserir.com.br/faq/tem-que-chorar-na-terapia/</link>
+      <link>http://localhost:1313/faq/tem-que-chorar-na-terapia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/tem-que-chorar-na-terapia/</guid>
-      <description>A gente sabe que existem muitos protocolos, técnicas e ferramentas para mensurar processos terapêuticos. Por escolha ética, não adotamos nenhum. Por isso, não acreditamos que deva existir uma resposta específica, “certa” à psicoterapia. Cada sujeito, cada emoção, cada história e cada relação terapêutica constituem um movimento único. Sim, coletivo e social, pq é atravessado por muita coisa e muitas pessoas. Mas é único. Daquele momento, daquela interação.
-Não é necessário dispensar energia em uma insegurança pq você não chora ou chora demais, ri ou não.</description>
+      <guid>http://localhost:1313/faq/tem-que-chorar-na-terapia/</guid>
+      <description>&lt;p&gt;A gente sabe que existem muitos protocolos, técnicas e ferramentas para mensurar processos terapêuticos. Por escolha ética, não adotamos nenhum. Por isso, não acreditamos que deva existir uma resposta específica, “certa” à psicoterapia. Cada sujeito, cada emoção, cada história e cada relação terapêutica constituem um movimento único. Sim, coletivo e social, pq é atravessado por muita coisa e muitas pessoas. Mas é único. Daquele momento, daquela interação.&lt;/p&gt;&#xA;&lt;p&gt;Não é necessário dispensar energia em uma insegurança pq você não chora ou chora demais, ri ou não. Entenda todas essas coisas a partir e de acordo com o seu processo e não o do outro.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Terapeuta faz terapia?</title>
-      <link>https://www.gruporeinserir.com.br/faq/terapeuta-faz-terapia/</link>
+      <link>http://localhost:1313/faq/terapeuta-faz-terapia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/terapeuta-faz-terapia/</guid>
-      <description>Tem regra? Não. A gente acha que deveria? Sim.
-Trabalhar com cuidado demanda. Com cuidado em saúde, e ainda em saúde mental, demanda mesmo. Mas assim como falamos por aqui, em diferentes momentos, cada terapeuta tem seu tempo e espaço para entender a própria demanda pela psicoterapia. O velho ditado “casa de ferreiro, espeto de pau” não faz muito sentido pra a gente. Então, as estratégias de cuidado são as praticáveis por todos os trabalhadores: relações genuínas, rede de apoio, organização coletiva e psicoterapia também, se precisar.</description>
+      <guid>http://localhost:1313/faq/terapeuta-faz-terapia/</guid>
+      <description>&lt;p&gt;Tem regra? Não. &lt;/p&gt;&#xA;&lt;p&gt;A gente acha que deveria? Sim.&lt;/p&gt;&#xA;&lt;p&gt;Trabalhar com cuidado demanda. Com cuidado em saúde, e ainda em saúde mental, demanda mesmo. &lt;/p&gt;&#xA;&lt;p&gt;Mas assim como falamos por aqui, em diferentes momentos, cada terapeuta tem seu tempo e espaço para entender a própria demanda pela psicoterapia. &lt;/p&gt;&#xA;&lt;p&gt;O velho ditado “casa de ferreiro, espeto de pau” não faz muito sentido pra a gente. Então, as estratégias de cuidado são as praticáveis por todos os trabalhadores: relações genuínas, rede de apoio, organização coletiva e psicoterapia também, se precisar. &lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Você conhece as práticas sustentáveis da Clínica Reinserir?</title>
-      <link>https://www.gruporeinserir.com.br/faq/voce%CC%82-conhece-as-pra%CC%81ticas-sustenta%CC%81veis-da-cli%CC%81nica-reinserir/</link>
+      <link>http://localhost:1313/faq/voc%C3%AA-conhece-as-pr%C3%A1ticas-sustent%C3%A1veis-da-cl%C3%ADnica-reinserir/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/voce%CC%82-conhece-as-pra%CC%81ticas-sustenta%CC%81veis-da-cli%CC%81nica-reinserir/</guid>
-      <description>Sustentabilidade e saúde mental tem tudo a ver! Um ambiente sustentável é fundamental para uma vida saudável. Por isto, a Clínica Reinserir se preocupa imensamente com as práticas sustentáveis dentro e fora do consultório. Para quem frequenta a Clínica não é novidade ser abordado com água, café e/ou chá em copo de vidro (exceto neste momento de pandemia, por segurança, optamos não utilizar tais copos). A ideia é que ao retornar com as atividades presenciais, os copos de vidro sejam substituídos por copos biodegradáveis (por conta do fluxo intenso de pacientes no espaço) com a sugestão de que os pacientes levem suas próprias garrafas e/ou canecas.</description>
+      <guid>http://localhost:1313/faq/voc%C3%AA-conhece-as-pr%C3%A1ticas-sustent%C3%A1veis-da-cl%C3%ADnica-reinserir/</guid>
+      <description>&lt;p&gt;Sustentabilidade e saúde mental tem tudo a ver! Um ambiente sustentável é fundamental para uma vida saudável. Por isto, a Clínica Reinserir se preocupa imensamente com as práticas sustentáveis dentro e fora do consultório. Para quem frequenta a Clínica não é novidade ser abordado com água, café e/ou chá em copo de vidro (exceto neste momento de pandemia, por segurança, optamos não utilizar tais copos). A ideia é que ao retornar com as atividades presenciais, os copos de vidro sejam substituídos por copos biodegradáveis (por conta do fluxo intenso de pacientes no espaço) com a sugestão de que os pacientes levem suas próprias garrafas e/ou canecas. O grupo também se preocupa com o descarte correto dos resíduos, utilizando lixeiras identificadas no consultório (vide imagem). Além disto, a decoração do Reinserir é mega sustentável: caixotes de madeira sendo utilizados como mesas de centro, artesanatos sustentáveis e muuuitas plantas espalhadas pelo consultório (muitas delas sendo presente dos pacientes). De fato, uma Clínica sustentável e que visa promover saúde! Que possamos cuidar do meio ambiente, de nós e do outro (mais ainda neste momento de pandemia). A equipe do Reinserir está a disposição para sanar dúvidas sobre a temática da sustentabilidade. Ah! temos parceria com uma Cooperativa de Materiais Recicláveis muito querida, a @coopercapsoficial!!! Eles também estão a disposição para contar sobre o trabalho dos cooperados e sua importância. Vamos junts?&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Você já conhece as nossas cartilhas informativas?</title>
-      <link>https://www.gruporeinserir.com.br/faq/voce%CC%82-ja%CC%81-conhece-as-nossas-cartilhas-informativas/</link>
+      <link>http://localhost:1313/faq/voc%C3%AA-j%C3%A1-conhece-as-nossas-cartilhas-informativas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/voce%CC%82-ja%CC%81-conhece-as-nossas-cartilhas-informativas/</guid>
-      <description>É com muita alegria que viemos aqui contar para vocês que somos a primeira empresa no mercado a oferecer cartilhas para organizações como um todo, com o foco de disseminar informação acerca de temas voltados a saúde mental, integral e violências estruturais.
-E como se deu a ideia das cartilhas?
-Bem, como muitos de vocês sabem, também ofertamos serviços de palestras e consultorias empresariais, este ano em especial, fomos convidades por algumas empresas para discutir com seus funcionários temáticas específicas; entendendo a complexidade dos assuntos e o pouco tempo que temos para expô-los em uma palestra, ofertamos este material de apoio com a temática aprofundada de uma forma didática e ilustrativa.</description>
+      <guid>http://localhost:1313/faq/voc%C3%AA-j%C3%A1-conhece-as-nossas-cartilhas-informativas/</guid>
+      <description>&lt;p&gt;É com muita alegria que viemos aqui contar para vocês que somos a primeira empresa no mercado a oferecer cartilhas para organizações como um todo, com o foco de disseminar informação acerca de temas voltados a saúde mental, integral e violências estruturais.&lt;/p&gt;&#xA;&lt;p&gt;E como se deu a ideia das cartilhas?&lt;/p&gt;&#xA;&lt;p&gt;Bem, como muitos de vocês sabem, também ofertamos serviços de palestras e consultorias empresariais, este ano em especial, fomos convidades por algumas empresas para discutir com seus funcionários temáticas específicas; entendendo a complexidade dos assuntos e o pouco tempo que temos para expô-los em uma palestra, ofertamos este material de apoio com a temática aprofundada de uma forma didática e ilustrativa. Além disto, é possível sempre revisitar este material quando dúvidas surgirem. É quase um livrinho de bolso :’)&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Você respeita o seu tempo terapêutico?</title>
-      <link>https://www.gruporeinserir.com.br/faq/voce%CC%82-respeita-o-seu-tempo-terape%CC%82utico/</link>
+      <link>http://localhost:1313/faq/voc%C3%AA-respeita-o-seu-tempo-terap%C3%AAutico/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/voce%CC%82-respeita-o-seu-tempo-terape%CC%82utico/</guid>
-      <description>Desta vez, não estamos falando sobre respeitar seus limites e nem sobre o tempo para elaboração de demandas, embora tudo isto aí também seja importante :B
-Estamos falando sobre os seus 50 minutos em terapia. Ou o tempo que você e sua terapeuta alinharam para o trabalho psíquico acontecer.
-50 minutos de sessão, (in)felizmente não são 60 minutos de sessão.
-Este pequeno espaço de tempo, caracterizado por 10 minutos, que às vezes é ultrapassado no processo terapêutico, precisa e deve ser respeitado, por todes.</description>
+      <guid>http://localhost:1313/faq/voc%C3%AA-respeita-o-seu-tempo-terap%C3%AAutico/</guid>
+      <description>&lt;p&gt;Desta vez, não estamos falando sobre respeitar seus limites e nem sobre o tempo para elaboração de demandas, embora tudo isto aí também seja importante :B&lt;/p&gt;&#xA;&lt;p&gt;Estamos falando sobre os seus 50 minutos em terapia. Ou o tempo que você e sua terapeuta alinharam para o trabalho psíquico acontecer.&lt;/p&gt;&#xA;&lt;p&gt;50 minutos de sessão, (in)felizmente não são 60 minutos de sessão.&lt;/p&gt;&#xA;&lt;p&gt;Este pequeno espaço de tempo, caracterizado por 10 minutos, que às vezes é ultrapassado no processo terapêutico, precisa e deve ser respeitado, por todes.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Você sabe a diferença entre terapia e terapêutico?</title>
-      <link>https://www.gruporeinserir.com.br/faq/voce%CC%82-sabe-a-diferenc%CC%A7a-entre-terapia-e-terape%CC%82utico/</link>
+      <link>http://localhost:1313/faq/voc%C3%AA-sabe-a-diferen%C3%A7a-entre-terapia-e-terap%C3%AAutico/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gruporeinserir.com.br/faq/voce%CC%82-sabe-a-diferenc%CC%A7a-entre-terapia-e-terape%CC%82utico/</guid>
-      <description>Segundo o dicionário, terapêutico é aquilo relacionado a terapia, uma ferramenta de “cura”, cuidado ou &amp;ldquo;tratamento&amp;rdquo;. Aqui, temos por terapia, a psicoterapia, que conta com um longo processo histórico de construções, desconstruções e reconstruções acerca do que é cuidar, do que é científico e do que é “curar”.
-Mais que esclarecer o significado de algumas palavras, esse texto é um puxão de orelha, contra a banalização dos conceitos de terapia e terapêutico.</description>
+      <guid>http://localhost:1313/faq/voc%C3%AA-sabe-a-diferen%C3%A7a-entre-terapia-e-terap%C3%AAutico/</guid>
+      <description>&lt;p&gt;Segundo o dicionário, terapêutico é aquilo relacionado a terapia, uma ferramenta de “cura”, cuidado ou &amp;ldquo;tratamento&amp;rdquo;. Aqui, temos por terapia, a psicoterapia, que conta com um longo processo histórico de construções, desconstruções e reconstruções acerca do que é cuidar, do que é científico e do que é “curar”.&lt;br&gt;&#xA;&lt;br&gt;&#xA;Mais que esclarecer o significado de algumas palavras, esse texto é um puxão de orelha, contra a banalização dos conceitos de terapia e terapêutico. Veja, tomar uma breja no Sucesso &amp;rsquo;s, na Roosevelt ou em algum lugar jovem e famosinho aí da sua cidade, é mó legal. Mas não, não é uma terapia. A terapia é um ambiente seguro, adequado, com certo nível de embasamento técnico, usado para se observar, ouvir e compreender, de forma mais racional porém ainda afetiva. Falar que qualquer coisa é terapia é contribuir ainda mais para a precarização e desrespeito da atividade de trabalho de nós, trabalhadores da saúde mental. Existe um custo (e não é baixo) em se debruçar para compreender e lidar com o sofrimento humano.&lt;br&gt;&#xA;&lt;br&gt;&#xA;Sobre a imagem: “homem protegido debaixo de um sorriso bobo” de @susanocorreia&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
