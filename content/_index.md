@@ -86,9 +86,15 @@ column_book:
   column_book_title: |-
     Nosso livro \
     *Grupo reinserir: Notas de uma Clínica do Abraço*
-  column_book_content: Escrito por pares que trilharam uma dupla formação o bacharelado em Psicologia e a construção diária dos Movimentos Sociais Brasileiros, esse livro extrapola as fronteiras entre a clínica, política e afeto, experimentando um caminho que corresponde não mais às demandas de normatização de uma Psicologia Clínica asséptica, mas sim às necessidades de escuta, acolhimento e transformação de uma classe popular que sofre, pulsa e aprende a se rebelar.
+  column_book_content: Escrito por pares que trilharam uma dupla formação o
+    bacharelado em Psicologia e a construção diária dos Movimentos Sociais
+    Brasileiros, esse livro extrapola as fronteiras entre a clínica, política e
+    afeto, experimentando um caminho que corresponde não mais às demandas de
+    normatização de uma Psicologia Clínica asséptica, mas sim às necessidades de
+    escuta, acolhimento e transformação de uma classe popular que sofre, pulsa e
+    aprende a se rebelar.
   column_book_column_link:
     column_book_column_link_title: Compre nosso livro
-    column_book_column_link_href: https://www.amazon.com.br/dp/652810204X?fbclid=PAZXh0bgNhZW0CMTEAAadvCPZgFfSC3raSQe3mH_i14zZdTN0x_fxGtZq3fwEW0A4H1_QOUn2f1nBgsw_aem_WVXx6z9OVF46TE81WVHsPQ
+    column_book_column_link_href: https://www.amazon.com.br/dp/652810204X
   column_book_image: book.jpg
 ---
