@@ -1,7 +1,7 @@
 backend:
-    name: github
-    repo: diogocosta/grupo-reinserir
+    name: git-gateway
     branch: main
+    repo: diogocosta/grupo-reinserir
     
 media_folder: "/static/images"
 public_folder: /images
