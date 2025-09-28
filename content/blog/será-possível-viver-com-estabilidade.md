@@ -7,7 +7,7 @@ date: 2025-09-28T19:23:00.000-03:00
 title: Será possível viver com estabilidade?
 author: Psicóloga Nárrina Gabrieli Ramos Pereira CRP 06/159448 e Psicóloga
   Natália Aparecida da Silva CRP 06/144439
-thumbnail: 525fad71-cd74-4f47-b335-d7192f006c44.jpg
+thumbnail: c8422ac5-b8d9-4f4d-a043-ddd50e644b9f.jpg
 ---
 
 Não.
