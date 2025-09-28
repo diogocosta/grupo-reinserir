@@ -6,7 +6,7 @@ status: true
 date: 2025-09-28T19:46:00.000-03:00
 title: Existe crianças viciadas em telas?
 author: Psicóloga Nárrina Gabrieli Ramos Pereira CRP 06/159448
-thumbnail: 53337747-cff3-414b-bc48-66ca148848fe.jpg
+thumbnail: 74fdf511-d546-486d-9dc6-0eb7b54e72ae.jpg
 ---
 O conceito de vício embute concepções médicas e religiosas cheias de culpa e desresponsabilização. Ao invés disso, preferimos pensar em “exposição precoce e danosa de crianças à telas”.
 
