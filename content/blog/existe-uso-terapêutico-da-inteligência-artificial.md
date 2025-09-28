@@ -7,7 +7,7 @@ status: true
 date: 2025-09-28T19:54:00.000-03:00
 title: "Existe uso terapêutico da inteligência artificial? "
 author: Psicóloga Nárrina Gabrieli Ramos Pereira CRP 06/159448
-thumbnail: 7e39ccf0-eba3-41d3-a4fd-f5e3f2fe2257.jpg
+thumbnail: 253b7bb2-d38d-4c6f-b707-2b9f9dd0020c.jpg
 ---
 De forma geral, os avanços construídos na tecnologia configuram estratégias importantes para o cuidado em saúde; mas a psicoterapia com Chat GPT definitivamente não está entre elas.
 
