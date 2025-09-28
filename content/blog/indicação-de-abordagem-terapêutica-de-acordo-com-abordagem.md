@@ -7,7 +7,7 @@ date: 2025-09-28T20:29:00.000-03:00
 title: Indicação de abordagem terapêutica de acordo com abordagem?
 author: Escrito por Psicóloga Nárrina Gabrieli Ramos Pereira CRP 06/159448 e
   Psicóloga Natália Aparecida da Silva CRP 06/144439
-thumbnail: 750800d4-828d-4dcb-aa88-8203dca18978.jpg
+thumbnail: 954779b1-8ef3-4697-bcb2-580252f1f959.jpg
 ---
 
 É só reserva de mercado.
