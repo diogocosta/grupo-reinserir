@@ -3,7 +3,7 @@ status: true
 date: 2025-09-28T23:20:00.000-03:00
 title: "Rádio Nacional da Amazônia (EBC): Psicanalista comenta impactos da crise
   climática na saúde mental dos trabalhadores"
-thumbnail: radio-nacional-da-amazonia.ad2649a3.jpg
+thumbnail: untitled-design-62.jpg
 link:
   link_title: "Rádio Nacional da Amazônia (EBC): Psicanalista comenta impactos da
     crise climática na saúde mental dos trabalhadores"
