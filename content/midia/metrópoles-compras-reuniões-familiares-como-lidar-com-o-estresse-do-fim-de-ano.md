@@ -3,7 +3,7 @@ status: true
 date: 2025-09-28T22:07:00.000-03:00
 title: "Metrópoles: Compras, reuniões familiares: como lidar com o estresse do
   fim de ano?"
-thumbnail: portal-metropoles.jpg
+thumbnail: 2f2b8a49-437e-431c-9323-8e937e598d0a.jpg
 link:
   link_title: "Metrópoles: Compras, reuniões familiares: como lidar com o estresse
     do fim de ano?"
