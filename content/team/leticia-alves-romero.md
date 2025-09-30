@@ -5,7 +5,7 @@ title: Leticia Alves Romero
 role: Psicóloga
 crp: 06/210499
 ---
-Psicóloga e Psicanalista,
+Psicóloga e Psicanalista.
 
 Psicóloga formada pela Universidade Nove de Julho e atualmente pós-graduanda em Saúde Coletiva pela mesma instituição.
 
