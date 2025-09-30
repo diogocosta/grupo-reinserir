@@ -1,5 +1,5 @@
 ---
-thumbnail: 9c1cef9c-5f5e-4c00-a44f-211f9976c589.jpg
+thumbnail: lululu.jpg
 weight: 3
 title: Luana Mauricio da Conceição
 role: "Psicóloga "
