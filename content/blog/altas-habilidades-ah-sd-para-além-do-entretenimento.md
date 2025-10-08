@@ -21,3 +21,7 @@ Mas não nos esqueçamos que o desenvolvimento de alguém é socialmente determi
 Não quero me estender aqui sobre o conflito ético em expor crianças como entretenimento em troca de ganhos financeiros - mesmo que sejam bolsas de estudos.
 
 O objetivo desse texto é alertar que existe mais no universo particular da superdotação e para isso continuaremos essa conversa em textos posteriores.
+
+
+
+Imagem: @de.saturno
