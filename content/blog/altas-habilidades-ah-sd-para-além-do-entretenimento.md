@@ -8,7 +8,7 @@ status: true
 date: 2025-10-08T15:03:00.000-03:00
 title: Altas habilidades (AH/SD) para além do entretenimento
 author: Psicóloga Nárrina Gabrieli Ramos Pereira CRP 06/159448
-thumbnail: whatsapp-image-2025-03-10-at-15.17.45.jpeg
+thumbnail: 9ddccb79-0e06-497f-8212-2b49e1ac75ab.jpg
 ---
 Quando falamos em pessoas com altas habilidades ou superdotadas logo vem à mente as cenas dos programas televisivos de fim de semana com crianças respondendo cálculos complexos ou bandeiras de países aleatórios. Essa parcela da população vai sendo colocada numa espécie de fetiche sobre uma inteligência acima da média ou uma espécie de dom.
 
