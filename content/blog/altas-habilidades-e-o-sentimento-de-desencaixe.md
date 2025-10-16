@@ -8,7 +8,7 @@ status: true
 date: 2025-10-15T22:43:00.000-03:00
 title: Altas habilidades e o sentimento de desencaixe
 author: Psicóloga Nárrina Gabrieli Ramos Pereira CRP 06/159448
-thumbnail: b583f03d-4450-4a2b-9575-e372b7b526f3.jpg
+thumbnail: 520f8d0d-5f3d-4019-b4c5-b2e350e91003.jpg
 ---
 É comum que pessoas adultas recebam um diagnóstico tardio de AH/SD após anos de sofrimento arrastado, geralmente por entrarem em quadros cronificados de depressão, ansiedade ou burnout. 
 
