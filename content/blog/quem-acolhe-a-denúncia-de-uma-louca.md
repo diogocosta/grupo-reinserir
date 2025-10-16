@@ -9,7 +9,7 @@ date: 2025-10-15T22:51:00.000-03:00
 title: Quem acolhe a denúncia de uma louca?
 author: Psicóloga Nárrina Gabrieli Ramos Pereira CRP 06/159448 e Psicóloga
   Natália Aparecida da Silva CRP 06/144439
-thumbnail: e1a3fe20-42d4-4321-9dee-4078df847d30.jpg
+thumbnail: d4326637-e71d-4174-99eb-34c19f72a746.jpg
 ---
 Reescrevi essas frases algumas dezenas de vezes buscando uma forma ética de contar pra você o que tenho pensado a partir das minhas experiências de trabalho. Afinal, nossa produção textual, “literária”, é sobre isso.
 
