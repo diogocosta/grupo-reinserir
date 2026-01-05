@@ -12,7 +12,6 @@ title: '"O dinheiro do pobre nunca é só dele": sobre sobrevivência e
 author: Psicóloga Maria Julia Viana da Silva CRP 06/159588
 thumbnail: 9dcc471e-8429-4d5c-b8ce-369ddecf7bb2.jpg
 ---
-
 Existe uma frase que atravessa gerações nas periferias: “o dinheiro do pobre não é só dele”. Ela não é metáfora. É um diagnóstico social.
 
 Para quem nasce sem rede de proteção, cada conquista individual vira uma responsabilidade coletiva. Não é apenas ganhar dinheiro: é sustentar mãe, irmão, sobrinho, quem perdeu o emprego, quem adoeceu, quem não conseguiu pagar o aluguel. O pobre não escolhe compartilhar, ele é convocado. Existe um imperativo moral silencioso, construído pelo afeto, pela falta de alternativas e pela consciência de que, se você virar as costas, alguém seu passa fome.
@@ -28,3 +27,8 @@ Mas é preciso dizer com todas as letras: a solidariedade entre pobres não deve
 E é justamente aí que esse tema nos atravessa: não para romantizar a sobrevivência coletiva, mas para lembrar que ela nasce da ausência, daquilo que falta, do que foi negado, do que deveria ser direito.
 
 O problema nunca foi o pobre dividir o que tem. O problema é que ele precisa fazer isso para que o básico aconteça. E enquanto isso não mudar, continuaremos pedindo sacrifício a quem já vive no limite.
+
+
+
+
+Imagem: Pinterest
