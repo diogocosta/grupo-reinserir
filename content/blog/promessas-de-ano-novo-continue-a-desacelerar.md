@@ -6,7 +6,7 @@ status: true
 date: 2026-01-05T21:48:00.000-03:00
 title: "Promessas de Ano Novo: continue a desacelerar"
 author: Psicóloga Natália Aparecida da Silva CRP 06/144439
-thumbnail: c71c7092-470b-46ad-8b5c-21dd2b4a467f.jpg
+thumbnail: nenenene.jpg
 ---
 
 
