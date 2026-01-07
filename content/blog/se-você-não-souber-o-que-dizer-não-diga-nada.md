@@ -6,7 +6,7 @@ status: true
 date: 2026-01-05T21:55:00.000-03:00
 title: Se você não souber o que dizer, não diga nada
 author: Psicóloga Natália Aparecida da Silva CRP 06/144439
-thumbnail: dioto.jpg
+thumbnail: b6a09161-25c7-4a2b-afe1-ec4a030000cd.jpg
 ---
 
 
