@@ -43,7 +43,7 @@ column_about:
       column_about_column_three_link_title: Saiba mais
       column_about_column_three_link_href: /oque-fazemos#social
 column_right:
-  column_right_title: Uma equipe de psicólogs com a habilidade da *escuta*
+  column_right_title: Uma equipe de psicólogos com a habilidade da *escuta*
   column_right_content: >-
     Entendemos "acolhimento" enquanto postura ética, recorrente e contínua
     presente em todo o processo da relação terapêutica. Para tanto, é importante
