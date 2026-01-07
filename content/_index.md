@@ -74,10 +74,10 @@ column_left:
     Nosso espaço foi criado para \
     *acolher* a diferença.
   column_left_content: A gente se constrói a partir e pela materialidade da vida,
-    do nosso lugar concreto, do lugar que fomos colocads e do lugar que queremos
-    construir. Aqui, construímos nosso lugar, junts. E esse espaço tá aberto, em
-    constante construção. É seguro, é carinho, tem café, um docinho, afeto e
-    transformação.
+    do nosso lugar concreto, do lugar que fomos colocados e do lugar que
+    queremos construir. Aqui, construímos nosso lugar, juntos. E esse espaço tá
+    aberto, em constante construção. É seguro, é carinho, tem café, um docinho,
+    afeto e transformação.
   column_left_column_link:
     column_left_column_link_title: Conheça nosso espaço
     column_left_column_link_href: /quem-somos#nosso-espaco
