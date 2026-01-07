@@ -7,7 +7,7 @@ seo:
     organizacional.
 welcome:
   welcome_title: Venha como *você é*.
-  welcome_content: Somos um grupo de psicólogs que oferecem atendimento
+  welcome_content: Somos um grupo de psicólogos que oferecem atendimento
     *psicoterápico* e desenvolvem projetos na *área social* e na *área
     organizacional*.
   welcome_link:
