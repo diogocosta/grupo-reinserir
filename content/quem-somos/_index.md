@@ -6,7 +6,7 @@ seo:
     Conheça o Grupo Reinserir!
 welcome:
   welcome_title: Quem *somos*
-  welcome_content: Somos um grupo de psicólogs que oferecem *atendimento
+  welcome_content: Somos um grupo de psicólogos que oferecem *atendimento
     psicológico* e desenvolvem projetos na *área social* e na *área
     organizacional. Conheça o Grupo Reinserir!*
 image: socias.jpg
